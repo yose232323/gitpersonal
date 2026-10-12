@@ -4,3 +4,5 @@ node_modules/
 .env*
 !.env.example
 tsconfig.tsbuildinfo
+data/cloudinary-manifest.json.tmp
+data/catalog.json.tmp

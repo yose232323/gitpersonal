@@ -1,0 +1,92 @@
+import { createHash } from 'node:crypto';
+import { readFile, writeFile, rename, mkdir } from 'node:fs/promises';
+import { resolve, dirname } from 'node:path';
+import { pathToFileURL } from 'node:url';
+
+export function planImages(catalog, cloudName) {
+  if (!/^[a-z0-9_-]+$/i.test(cloudName)) throw new Error('Cloud name no válido');
+  const images = new Map();
+  for (const product of catalog.products) for (const source of product.images) {
+    const url = new URL(source);
+    if (url.protocol !== 'https:' || url.hostname !== 'd1b50uin55dq3m.cloudfront.net') throw new Error('Origen de foto no permitido');
+    const filename = url.pathname.split('/').at(-1);
+    const id = createHash('sha256').update(`${cloudName}:${filename}`).digest('hex');
+    if (!images.has(id)) images.set(id, { source, publicId: `alma-latina/catalog/${id}`, key: id });
+  }
+  return [...images.values()];
+}
+export function signature(params, secret) {
+  return createHash('sha1').update(Object.keys(params).sort().map(k => `${k}=${params[k]}`).join('&') + secret).digest('hex');
+}
+export async function atomicJSON(path, data) {
+  await mkdir(dirname(path), { recursive: true });
+  const temp = `${path}.tmp`;
+  await writeFile(temp, JSON.stringify(data, null, 2) + '\n');
+  await rename(temp, path);
+}
+async function verify(url, fetcher = fetch) {
+  const response = await fetcher(url, { signal: AbortSignal.timeout(60000) });
+  if (!response.ok || !response.headers.get('content-type')?.startsWith('image/')) throw new Error('No se pudo verificar la fotografía copiada');
+  const bytes = await response.arrayBuffer();
+  if (!bytes.byteLength) throw new Error('La fotografía copiada está vacía');
+}
+export async function copyImage(image, config, fetcher = fetch) {
+  const timestamp = String(Math.floor(Date.now() / 1000));
+  const params = { overwrite: 'false', public_id: image.publicId, timestamp };
+  const form = new FormData();
+  form.set('file', image.source);
+  for (const [key, value] of Object.entries(params)) form.set(key, value);
+  form.set('api_key', config.apiKey);
+  form.set('signature', signature(params, config.apiSecret));
+  const response = await fetcher(`https://api.cloudinary.com/v1_1/${config.cloudName}/image/upload`, { method: 'POST', body: form, signal: AbortSignal.timeout(120000) });
+  if (!response.ok) throw new Error(`Cloudinary rechazó la copia (HTTP ${response.status})`);
+  const result = await response.json();
+  const url = new URL(result.secure_url);
+  if (result.public_id !== image.publicId || url.protocol !== 'https:' || url.hostname !== 'res.cloudinary.com' || !url.pathname.startsWith(`/${config.cloudName}/image/upload/`)) throw new Error('Respuesta de Cloudinary no válida');
+  await verify(url.href, fetcher);
+  return { source: image.source, publicId: image.publicId, url: url.href, bytes: result.bytes ?? null, verifiedAt: new Date().toISOString() };
+}
+export function applyImages(catalog, records, cloudName) {
+  const bySource = new Map(Object.values(records).map(r => [r.source, r.url]));
+  return { ...catalog, cloudinaryCloudName: cloudName, products: catalog.products.map(p => ({ ...p, sourceImages: p.sourceImages || [...p.images], images: p.images.map(url => bySource.get(url) || url) })) };
+}
+async function main() {
+  const args = process.argv.slice(2);
+  const dryRun = args.includes('--dry-run'), apply = args.includes('--apply');
+  const limitIndex = args.indexOf('--limit');
+  const limit = limitIndex < 0 ? Infinity : Number(args[limitIndex + 1]);
+  if (!(limit > 0) || (limit !== Infinity && !Number.isInteger(limit))) throw new Error('Usa --limit con un entero positivo');
+  const cloudName = process.env.CLOUDINARY_CLOUD_NAME;
+  if (!cloudName) throw new Error('Falta CLOUDINARY_CLOUD_NAME. Configúrala de forma segura.');
+  const root = resolve(import.meta.dirname, '..');
+  const path = resolve(root, 'data/catalog.json');
+  const manifestPath = resolve(root, 'data/cloudinary-manifest.json');
+  const catalog = JSON.parse(await readFile(path, 'utf8'));
+  const sourceCatalog = { ...catalog, products: catalog.products.map(p => ({...p, images:p.sourceImages || p.images})) };
+  const plan = planImages(sourceCatalog, cloudName);
+  let manifest = { cloudName, images: {} };
+  try { manifest = JSON.parse(await readFile(manifestPath, 'utf8')); } catch (error) { if (error.code !== 'ENOENT') throw error; }
+  if (manifest.cloudName !== cloudName) throw new Error('El manifiesto pertenece a otra cuenta de Cloudinary');
+  const pending = plan.filter(i => !manifest.images[i.key]).slice(0, limit);
+  console.log(`Fotos únicas: ${plan.length}. Verificadas previamente: ${Object.keys(manifest.images).length}. Lote: ${pending.length}.`);
+  if (dryRun) { console.log('Simulación: no se subieron fotos ni se cambió el catálogo.'); return; }
+  const config = { cloudName, apiKey:process.env.CLOUDINARY_API_KEY, apiSecret:process.env.CLOUDINARY_API_SECRET };
+  if (!config.apiKey || !config.apiSecret) throw new Error('Faltan CLOUDINARY_API_KEY o CLOUDINARY_API_SECRET. No las publiques en el chat.');
+  let failed = 0;
+  for (const [index, image] of pending.entries()) {
+    try {
+      manifest.images[image.key] = await copyImage(image, config);
+      await atomicJSON(manifestPath, manifest);
+      console.log(`Verificada ${index + 1}/${pending.length}`);
+    } catch (error) { failed++; console.error(`Falló foto ${index + 1}/${pending.length}: ${error.message}`); }
+  }
+  if (apply) {
+    // Recheck all saved copies, including those from earlier runs, before switching any URLs.
+    for (const record of Object.values(manifest.images)) await verify(record.url);
+    await atomicJSON(path, applyImages(sourceCatalog, manifest.images, cloudName));
+    console.log('Catálogo actualizado solo con copias verificadas. Fotos pendientes mantienen su enlace original.');
+  }
+  console.log(`Copias guardadas: ${Object.keys(manifest.images).length}. Fallos del lote: ${failed}.`);
+  if (failed) process.exitCode = 1;
+}
+if (process.argv[1] && import.meta.url === pathToFileURL(resolve(process.argv[1])).href) main().catch(error => { console.error(error.message); process.exitCode = 1; });

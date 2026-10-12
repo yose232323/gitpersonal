@@ -57,6 +57,15 @@ for p in products.values():
  # No local stock inferred from source.
  p.pop('quantity_available',None)
 result={'importedAt':datetime.datetime.now(datetime.timezone.utc).isoformat(),'sourceTotal':total,'complete':False,'categories':categories,'categoryCounts':counts,'products':list(products.values()),'errors':errors}
+# Keep verified Cloudinary copies across supplier refreshes.
+manifest_path=Path('data/cloudinary-manifest.json')
+if manifest_path.exists():
+ manifest=json.loads(manifest_path.read_text())
+ records={r['source']:r['url'] for r in manifest['images'].values()}
+ result['cloudinaryCloudName']=manifest['cloudName']
+ for product in result['products']:
+  product['sourceImages']=list(product['images'])
+  product['images']=[records.get(url,url) for url in product['images']]
 Path('data/catalog.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
 print('Imported',len(products),'of',total,'products. Categories:',len(categories),'Errors:',len(errors))
 print(json.dumps(counts,ensure_ascii=False))
