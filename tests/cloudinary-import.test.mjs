@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { planImages, copyImage, applyImages } from '../scripts/cloudinary-import.mjs';
+import { planImages, copyImage, applyImages, safeCloudinaryError } from '../scripts/cloudinary-import.mjs';
 const source = 'https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/photo.jpg';
 const catalog = { products: [{ id: 'one', images: [source] }, { id: 'two', images: [source] }] };
 const image = planImages(catalog, 'testcloud')[0];
@@ -32,4 +32,11 @@ test('leaves unverified sources intact and retains originals for future refresh'
  assert.deepEqual(result.products[0].sourceImages,[source,extra]);
  assert.equal(result.products[0].images[1],extra);
  assert(result.products[0].images[0].includes('res.cloudinary.com'));
+});
+
+test('classifies authentication failures without exposing server credentials',()=>{
+ const secret='sensitive-value';
+ for (const [message,expected] of [[`Invalid Signature ${secret}`,'Firma rechazada'],[`Invalid api_key ${secret}`,'API Key no reconocida'],[`Stale request ${secret}`,'Fecha de la solicitud'],[secret,'Respuesta no clasificada']]) {
+  const result=safeCloudinaryError(401,message);assert(result.includes(expected));assert(!result.includes(secret));
+ }
 });

@@ -30,6 +30,16 @@ async function verify(url, fetcher = fetch) {
   const bytes = await response.arrayBuffer();
   if (!bytes.byteLength) throw new Error('La fotografía copiada está vacía');
 }
+export function safeCloudinaryError(status, message = '') {
+  const text = String(message).toLowerCase();
+  let cause = 'Respuesta no clasificada; revisa el estado de la cuenta y las credenciales.';
+  if (/invalid.*api.?key|unknown.*api.?key|api.?key.*not found/.test(text)) cause = 'API Key no reconocida para este Cloud name.';
+  else if (/invalid signature|signature.*invalid/.test(text)) cause = 'Firma rechazada: verifica el API Secret de la misma fila que el API Key.';
+  else if (/stale|timestamp|expired/.test(text)) cause = 'Fecha de la solicitud rechazada: sincroniza fecha y hora de Windows.';
+  else if (/cloud.*(disabled|not found|invalid|unknown)/.test(text)) cause = 'Cloud name no reconocido o cuenta deshabilitada.';
+  else if (/fetch|download|remote/.test(text)) cause = 'Cloudinary no pudo descargar la foto del proveedor.';
+  return `Cloudinary rechazó la copia (HTTP ${status}). ${cause}`;
+}
 export async function copyImage(image, config, fetcher = fetch) {
   const timestamp = String(Math.floor(Date.now() / 1000));
   const params = { overwrite: 'false', public_id: image.publicId, timestamp };
@@ -39,7 +49,12 @@ export async function copyImage(image, config, fetcher = fetch) {
   form.set('api_key', config.apiKey);
   form.set('signature', signature(params, config.apiSecret));
   const response = await fetcher(`https://api.cloudinary.com/v1_1/${config.cloudName}/image/upload`, { method: 'POST', body: form, signal: AbortSignal.timeout(120000) });
-  if (!response.ok) throw new Error(`Cloudinary rechazó la copia (HTTP ${response.status})`);
+  if (!response.ok) {
+    let message = '';
+    try { message = (await response.json()).error?.message || ''; } catch {}
+    // Never print the original server message: it may include credentials or signatures.
+    throw new Error(safeCloudinaryError(response.status, message));
+  }
   const result = await response.json();
   const url = new URL(result.secure_url);
   if (result.public_id !== image.publicId || url.protocol !== 'https:' || url.hostname !== 'res.cloudinary.com' || !url.pathname.startsWith(`/${config.cloudName}/image/upload/`)) throw new Error('Respuesta de Cloudinary no válida');
@@ -56,7 +71,7 @@ async function main() {
   const limitIndex = args.indexOf('--limit');
   const limit = limitIndex < 0 ? Infinity : Number(args[limitIndex + 1]);
   if (!(limit > 0) || (limit !== Infinity && !Number.isInteger(limit))) throw new Error('Usa --limit con un entero positivo');
-  const cloudName = process.env.CLOUDINARY_CLOUD_NAME;
+  const cloudName = process.env.CLOUDINARY_CLOUD_NAME?.trim();
   if (!cloudName) throw new Error('Falta CLOUDINARY_CLOUD_NAME. Configúrala de forma segura.');
   const root = resolve(import.meta.dirname, '..');
   const path = resolve(root, 'data/catalog.json');
@@ -70,8 +85,10 @@ async function main() {
   const pending = plan.filter(i => !manifest.images[i.key]).slice(0, limit);
   console.log(`Fotos únicas: ${plan.length}. Verificadas previamente: ${Object.keys(manifest.images).length}. Lote: ${pending.length}.`);
   if (dryRun) { console.log('Simulación: no se subieron fotos ni se cambió el catálogo.'); return; }
-  const config = { cloudName, apiKey:process.env.CLOUDINARY_API_KEY, apiSecret:process.env.CLOUDINARY_API_SECRET };
+  const config = { cloudName, apiKey:process.env.CLOUDINARY_API_KEY?.trim(), apiSecret:process.env.CLOUDINARY_API_SECRET?.trim() };
   if (!config.apiKey || !config.apiSecret) throw new Error('Faltan CLOUDINARY_API_KEY o CLOUDINARY_API_SECRET. No las publiques en el chat.');
+  if (!/^\d+$/.test(config.apiKey)) throw new Error('API Key no válida: debe ser el número de la columna API Key, sin espacios.');
+  if (/^\*+$/.test(config.apiSecret) || config.apiSecret.includes('PEGA_AQUI')) throw new Error('API Secret no válido: copia el valor real, no los asteriscos ni el texto de ejemplo.');
   let failed = 0;
   for (const [index, image] of pending.entries()) {
     try {
