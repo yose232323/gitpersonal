@@ -1,6 +1,6 @@
 # Alma Latina
 
-Primera vista pública con Next.js, TypeScript y Tailwind CSS. Incluye el logo original y contacto por WhatsApp. Incluye una importación parcial de 200 de 687 productos y las 20 categorías públicas. MongoDB, copia en Cloudinary y administración siguen pendientes.
+Primera vista pública con Next.js, TypeScript y Tailwind CSS. Incluye el logo original y contacto por WhatsApp. Incluye el catálogo de 687 productos verificados en la importación y las 20 categorías públicas. MongoDB, copia en Cloudinary y administración siguen pendientes.
 
 ## Desarrollo
 
@@ -20,7 +20,7 @@ Los productos conservan datos públicos del proveedor. Sus fotos siguen alojadas
 
 ## Actualizar catálogo
 
-`python3 scripts/import-catalog.py` importa la primera página de cada categoría pública y detalles de sus productos. No importa el catálogo completo; los conteos y fecha se guardan en `data/catalog.json`. Requiere acceso a violetaangelboutique.ecometri.shop. Para descargar fotos se requiere d1b50uin55dq3m.cloudfront.net; para paginación completa, apiv2.ecometri.shop. El precio base se calcula en el servidor como `(COP / 3600 * 440 * 2) + 3500`, redondeado al colón. Los precios por variante usan la misma fórmula. Las condiciones mayoristas del proveedor se muestran separadas de las de Alma Latina. No hay sincronización automática ni cambios de stock.
+`python3 scripts/import-catalog.py` pagina todas las categorías públicas y obtiene los detalles de cada producto. Comprueba conteos, duplicados y errores; si faltan datos, conserva el catálogo anterior. Los conteos y fecha se guardan en `data/catalog.json`. Requiere acceso a violetaangelboutique.ecometri.shop. Para descargar fotos se requiere d1b50uin55dq3m.cloudfront.net; para paginación completa, apiv2.ecometri.shop. El precio base se calcula en el servidor como `(COP / 3600 * 440 * 2) + 3500`, redondeado al colón. Los precios por variante usan la misma fórmula. Las condiciones mayoristas del proveedor se muestran separadas de las de Alma Latina. No hay sincronización automática ni cambios de stock.
 
 ## Copiar fotografías a Cloudinary
 

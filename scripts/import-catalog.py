@@ -25,12 +25,23 @@ store,first,total=props(read(BASE+'/collections/todo/'))
 categories=[{'id':c['id'],'name':c['name'].strip(),'slug':c['slug']} for c in store['collections'] if c['public']==1]
 products={};counts={};errors=[]
 def get_category(c):
- try:return c,props(read(BASE+'/collections/'+c['slug']+'/'))[1:]
+ try:
+  entries=[];seen=set();expected=None
+  while expected is None or len(entries)<expected:
+   url='https://apiv2.ecometri.shop/api/v1/store/violetaangelboutique/products?collection='+c['slug']+'&limit=100&offset='+str(len(entries))
+   page=json.loads(read(url));expected=int(page['total_products'])
+   batch=page['products']
+   if not batch and len(entries)<expected:raise ValueError('Paginación incompleta')
+   for product in batch:
+    if product['id'] in seen:raise ValueError('Producto duplicado en paginación')
+    seen.add(product['id']);entries.append(product)
+  if len(entries)!=expected:raise ValueError('Conteo de categoría no coincide')
+  return c,(entries,expected)
  except Exception as e:return c,e
 with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
  for c,result in pool.map(get_category,categories):
   if isinstance(result,Exception):errors.append(c['slug']+': '+str(result));continue
-  entries,count=result;counts[c['slug']]={'total':count,'imported':len(entries)}
+  entries,count=result;print(c['slug'],len(entries),'/',count,flush=True);counts[c['slug']]={'total':count,'imported':len(entries)}
   for p in entries:
    if p.get('active')!=1 or p.get('is_hidden_by_limit'):continue
    if p['id'] not in products:products[p['id']]={**p,'categories':[]}
@@ -48,8 +59,9 @@ def detail(p):
   return p,None
  except Exception as e:return p,p['slug']+': '+str(e)
 with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
- for p,error in pool.map(detail,list(products.values())):
+ for index,(p,error) in enumerate(pool.map(detail,list(products.values())),1):
   if error:errors.append(error)
+  if index%50==0:print('Detalles',index,'/',len(products),flush=True)
 for p in products.values():
  p['sourceUrl']=BASE+'/'+p['slug']+'/'
  p['images']=['https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/'+i['picture_url'] for i in p.get('product_images',[])]
@@ -57,6 +69,12 @@ for p in products.values():
  # No local stock inferred from source.
  p.pop('quantity_available',None)
 result={'importedAt':datetime.datetime.now(datetime.timezone.utc).isoformat(),'sourceTotal':total,'complete':False,'categories':categories,'categoryCounts':counts,'products':list(products.values()),'errors':errors}
+if errors or len(products)!=total or any(c['slug'] not in counts for c in categories):
+ print('Importación no guardada: faltan datos o fallaron solicitudes.',errors,flush=True)
+ raise SystemExit(1)
+if any('sourceDetails' not in p for p in products.values()):
+ raise SystemExit('Importación no guardada: faltan detalles de productos')
+result['complete']=True
 # Keep verified Cloudinary copies across supplier refreshes.
 manifest_path=Path('data/cloudinary-manifest.json')
 if manifest_path.exists():
@@ -66,6 +84,8 @@ if manifest_path.exists():
  for product in result['products']:
   product['sourceImages']=list(product['images'])
   product['images']=[records.get(url,url) for url in product['images']]
-Path('data/catalog.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
+output=Path('data/catalog.json.tmp')
+output.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
+output.replace('data/catalog.json')
 print('Imported',len(products),'of',total,'products. Categories:',len(categories),'Errors:',len(errors))
 print(json.dumps(counts,ensure_ascii=False))
