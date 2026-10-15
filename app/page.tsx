@@ -5,7 +5,9 @@ import Image from "next/image";
 const whatsapp = "https://wa.me/50663899706?text=" + encodeURIComponent("Hola Alma Latina, quisiera consultar las prendas disponibles, tallas y precios.");
 const products = catalog.products.map(p => {
  const detail = p.sourceDetails as { offers?: { name?: string; sku?: string; price?: number | string; availability?: string }[] } | undefined;
- return { id:p.id, name:p.name, sku:p.sku, categories:p.categories, images:p.images, priceCRC:priceInColones(p.sourcePriceCOP), description:(p.description || '').replace(/<[^>]*>/g, ''), variants: (detail?.offers || []).map(v => ({name:v.name || v.sku || 'Variante', priceCRC:priceInColones(Number(v.price ?? p.sourcePriceCOP)), available:v.availability === 'https://schema.org/InStock'})) };
+ const sizes = [...new Set((detail?.offers || []).map(v => v.name?.split(',')[0]?.trim()).filter((value): value is string => Boolean(value)))];
+ const colors = [...new Set((detail?.offers || []).map(v => v.name?.split(',').slice(1).join(',').trim()).filter((value): value is string => Boolean(value)))];
+ return { id:p.id, name:p.name, sku:p.sku, categories:p.categories, images:p.images, priceCRC:priceInColones(p.sourcePriceCOP), sizes, colors };
 });
 export default function Home() { return <>
 <div className="announcement">Moda colombiana · Envíos a todo Costa Rica</div>
