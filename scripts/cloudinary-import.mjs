@@ -24,11 +24,37 @@ export async function atomicJSON(path, data) {
   await writeFile(temp, JSON.stringify(data, null, 2) + '\n');
   await rename(temp, path);
 }
-async function verify(url, fetcher = fetch) {
-  const response = await fetcher(url, { signal: AbortSignal.timeout(60000) });
-  if (!response.ok || !response.headers.get('content-type')?.startsWith('image/')) throw new Error('No se pudo verificar la fotografía copiada');
-  const bytes = await response.arrayBuffer();
-  if (!bytes.byteLength) throw new Error('La fotografía copiada está vacía');
+export async function verify(url, fetcher = fetch, pause = ms => new Promise(resolve => setTimeout(resolve, ms))) {
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      const response = await fetcher(url, { signal: AbortSignal.timeout(60000) });
+      if (!response.ok || !response.headers.get('content-type')?.startsWith('image/')) {
+        await response.body?.cancel();
+        throw new Error('Respuesta de imagen no válida');
+      }
+      const bytes = await response.arrayBuffer();
+      if (!bytes.byteLength) throw new Error('Imagen vacía');
+      return;
+    } catch {
+      if (attempt === 2) throw new Error('No se pudo verificar la fotografía tras 3 intentos. Revisa la conexión o la imagen en Cloudinary.');
+      await pause(1000 * (attempt + 1));
+    }
+  }
+}
+export async function verifySavedImages(records, verifyImage = verify, report = console.log) {
+  let next = 0, completed = 0;
+  const failures = [];
+  report(`Comprobando ${records.length} copias guardadas (4 conexiones como máximo)…`);
+  await Promise.all(Array.from({ length: Math.min(4, records.length) }, async () => {
+    while (next < records.length) {
+      const record = records[next++];
+      try { await verifyImage(record.url); }
+      catch { failures.push(record.publicId); report(`No se pudo verificar: ${record.publicId}`); }
+      completed++;
+      if (completed % 25 === 0 || completed === records.length) report(`Fotos revisadas: ${completed}/${records.length}. Fallos: ${failures.length}.`);
+    }
+  }));
+  if (failures.length) throw new Error(`No se actualizó el catálogo: ${failures.length} fotos no pudieron verificarse. Las copias guardadas se conservan; puedes reintentar --apply.`);
 }
 export function safeCloudinaryError(status, message = '') {
   const text = String(message).toLowerCase();
@@ -99,7 +125,7 @@ async function main() {
   }
   if (apply) {
     // Recheck all saved copies, including those from earlier runs, before switching any URLs.
-    for (const record of Object.values(manifest.images)) await verify(record.url);
+    await verifySavedImages(Object.values(manifest.images));
     await atomicJSON(path, applyImages(sourceCatalog, manifest.images, cloudName));
     console.log('Catálogo actualizado solo con copias verificadas. Fotos pendientes mantienen su enlace original.');
   }
