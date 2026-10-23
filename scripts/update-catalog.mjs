@@ -24,9 +24,16 @@ export function extractStore(html){
  }
  return {store:value('initialStoreData'),total:value('initialTotalProducts')};
 }
-async function mapLimit(items,fn){
- const result=new Array(items.length);let next=0;
- await Promise.all(Array.from({length:Math.min(4,items.length)},async()=>{while(next<items.length){const i=next++;result[i]=await fn(items[i],i);}}));return result;
+export async function mapLimit(items,fn){
+ const result=new Array(items.length);let next=0,failure;
+ await Promise.all(Array.from({length:Math.min(4,items.length)},async()=>{
+  while(!failure&&next<items.length){const i=next++;try{result[i]=await fn(items[i],i);}catch(error){failure=error;}}
+ }));
+ if(failure)throw failure;
+ return result;
+}
+export function productImages(product){
+ return (product.product_images || []).filter(i=>typeof i.picture_url==='string'&&i.picture_url.trim()).map(i=>'https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/'+i.picture_url);
 }
 export function compareCatalogs(previous,current){
  const before=new Map(previous.products.map(p=>[p.id,p]));const after=new Map(current.products.map(p=>[p.id,p]));
@@ -63,20 +70,24 @@ async function main(){
    const data=JSON.parse(m[1]);for(const item of data['@graph']||[data])if(item['@type']==='Product')detail=item;
   }
   if(!detail)throw new Error(`Faltan detalles para ${p.sku}`);
-  const sourceImages=p.product_images.map(i=>'https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/'+i.picture_url);
+  const sourceImages=productImages(p);
   const {price,quantity_available,...rest}=p;
-  if(!Number.isFinite(price)||price<0||!sourceImages.length)throw new Error(`Datos incompletos para ${p.sku}`);
+  if(!Number.isFinite(price)||price<0)throw new Error(`Precio no válido para ${p.sku}; el catálogo anterior se conserva`);
+  if(!sourceImages.length)console.log(`Aviso: ${p.sku} no tiene fotos en el catálogo del proveedor.`);
   completed++;if(completed%25===0||completed===products.size)console.log(`Fichas revisadas: ${completed}/${products.size}`);
   return {...rest,description:detail.description||'',sourceDetails:detail,sourceUrl:BASE+'/'+p.slug+'/',sourcePriceCOP:price,sourceImages,images:sourceImages.map(s=>bySource.get(s)||s)};
  });
  const current={importedAt:new Date().toISOString(),sourceTotal:total,complete:true,categories,categoryCounts:counts,products:entries,errors:[],...(manifest.cloudName?{cloudinaryCloudName:manifest.cloudName}:{})};
  const report=compareCatalogs(previous,current);report.importedAt=current.importedAt;
+ report.missingImages=entries.filter(p=>!p.images.length).map(p=>({id:p.id,sku:p.sku,name:p.name}));
+ current.warnings=report.missingImages.map(p=>({sku:p.sku,message:'El proveedor no publicó fotos de esta prenda'}));
  // Keep a recoverable local snapshot before replacing the catalog. It contains no credentials.
  await writeFile(resolve(root,'data/catalog-before-update.local.json'),JSON.stringify(previous,null,2)+'\n');
  await writeFile(path+'.tmp',JSON.stringify(current,null,2)+'\n');
  await writeFile(resolve(root,'data/catalog-update-report.json'),JSON.stringify(report,null,2)+'\n');
  await rename(path+'.tmp',path);
  console.log(`Catálogo actualizado: ${total} productos. Nuevos: ${report.added.length}. Modificados: ${report.updated.length}. Retirados del proveedor: ${report.removed.length}.`);
+ console.log(`Productos sin foto del proveedor: ${report.missingImages.length}. Consulta el informe para ver sus referencias.`);
  console.log('Todavía no se publicó. Revisa data/catalog-update-report.json y copia las fotos nuevas a Cloudinary antes de subir los cambios.');
 }
 if(process.argv[1]&&import.meta.url===pathToFileURL(resolve(process.argv[1])).href)main().catch(e=>{console.error('No se completó la actualización:',e.message);process.exitCode=1;});
