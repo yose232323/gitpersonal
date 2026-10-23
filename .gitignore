@@ -6,3 +6,4 @@ node_modules/
 tsconfig.tsbuildinfo
 data/cloudinary-manifest.json.tmp
 data/catalog.json.tmp
+data/catalog-before-update.local.json

@@ -49,3 +49,7 @@ git push origin alma-latina-preview
 ```
 
 `--apply` vuelve a verificar todas las copias guardadas antes de cambiar el catálogo. Las fotos pendientes conservan el enlace del proveedor. El manifiesto contiene URLs e identificadores, nunca claves. El importador del catálogo conserva estos enlaces durante futuras actualizaciones. Las claves de Vercel no están automáticamente disponibles en el entorno de Codex. La subida real debe ejecutarse donde estén disponibles valores utilizables para la firma de Cloudinary.
+
+## Actualizar desde Windows sin instalar Python
+
+Desde la carpeta del proyecto, `node scripts/update-catalog.mjs` obtiene todas las categorías, páginas y fichas del catálogo. Conserva el catálogo anterior si la descarga o validación falla, y mantiene una copia local ignorada en `data/catalog-before-update.local.json` antes de reemplazarlo. Consulta `data/catalog-update-report.json` para revisar nuevos, modificados y retirados. Los productos retirados dejan de estar en la nueva instantánea del proveedor; la copia local permite recuperarlos antes de publicar. No borra fotos de Cloudinary. No utiliza credenciales para leer datos públicos ni publica automáticamente. Tras revisar el informe, copia fotos nuevas con el importador de Cloudinary, ejecuta `--apply`, verifica build/typecheck y sube únicamente los archivos previstos.
