@@ -1,0 +1,2218 @@
+{
+  "previousTotal": 687,
+  "currentTotal": 744,
+  "added": [
+    {
+      "id": "907ac525-9519-49b0-bf1e-d524d3f30e33",
+      "sku": "VY3187",
+      "name": "RUANA CON TOP VY3187"
+    },
+    {
+      "id": "d1f2b330-43cd-4fdc-9dd2-16019a0bce74",
+      "sku": "VY3145",
+      "name": "PANTALON CHIFON VY3145"
+    },
+    {
+      "id": "5d0e1793-1864-4826-aa46-c4fd752a5d61",
+      "sku": "VY3121",
+      "name": "SET BLEIZER RIBETE Y PANTALON VY3121"
+    },
+    {
+      "id": "a7557aaa-eb0a-4392-8f96-88eef004e867",
+      "sku": "VY3045",
+      "name": "CAMISERA POPELINA FLOR EN PIEDRAS VY3045"
+    },
+    {
+      "id": "390a69b4-ac5e-41b4-8f12-61916f015e93",
+      "sku": "DS16",
+      "name": "JEAN BAGGY COSTURAS CONTRASTADAS DS16"
+    },
+    {
+      "id": "4c068cf1-4d5a-4a96-9dde-fcb10d92dddf",
+      "sku": "VY3189",
+      "name": "VESTIDO LENTEJUELAS CON SET VY3189"
+    },
+    {
+      "id": "f0a616b5-75f8-4c6f-8bfa-638cbd19f52c",
+      "sku": "VY3169",
+      "name": "VESTIDO MAYA VY3169"
+    },
+    {
+      "id": "e032c71d-7603-4ae7-bc0d-e754e38473ef",
+      "sku": "VY3166",
+      "name": "VESTIDO CORTO HERRAJE PASADOR VY3166"
+    },
+    {
+      "id": "856cf81d-dd85-49b9-940c-45a116d6b422",
+      "sku": "VY3107",
+      "name": "VESTIDO LARGO CUELLO BANDEJA LULULEMON VY3107"
+    },
+    {
+      "id": "0cfcdd7d-5404-4688-b17c-dae3b06cd394",
+      "sku": "VY3093",
+      "name": "PANTALON TELA BORDADA VY3093"
+    },
+    {
+      "id": "dccacfc9-9f3e-4a79-bf64-ef7fb114a3eb",
+      "sku": "DS8",
+      "name": "SET DENIM BLUSA ESCOTE CUADRADO BOTONES Y JEAN CLASICO DS8"
+    },
+    {
+      "id": "82fa6289-5db0-40ef-8567-b06ba00ec8b0",
+      "sku": "M7",
+      "name": "BUZO CORTE MARIPOSA M7"
+    },
+    {
+      "id": "2e2388ba-d052-46bc-8cf0-c9711010ff97",
+      "sku": "VY3170",
+      "name": "VESTIDO SIZO LARGO HERRAJE VY3170"
+    },
+    {
+      "id": "a5a52125-f9dc-4ce3-93a9-550b17d3c9a6",
+      "sku": "VY3160",
+      "name": "VESTIDO SIZO VY3160"
+    },
+    {
+      "id": "61870ddf-2290-4f6b-bdc8-ec0168f3e8fd",
+      "sku": "VY3151",
+      "name": "BLUSA ASIMETRICA HERRAJE VY3151"
+    },
+    {
+      "id": "ab9f0f9e-d3f8-4312-940c-5320b4cd142f",
+      "sku": "M6",
+      "name": "BLUSA HILO OVERSIZE POLO RAYAS M6"
+    },
+    {
+      "id": "f0066d84-80ae-4a57-972c-783e4a3c7530",
+      "sku": "M8",
+      "name": "BLUSA POLO HILO DISEÑO ROMBOS M8"
+    },
+    {
+      "id": "92306a40-e002-49de-acda-69ee38aaf522",
+      "sku": "VY3150",
+      "name": "BLUSA MANGA LARGA CUELLO BANDEJA VY3150"
+    },
+    {
+      "id": "12c3cb15-e057-48df-b4d6-18b943f59969",
+      "sku": "VY3149",
+      "name": "SET CHALECO Y FALDA SHORT SESGOS VY3149"
+    },
+    {
+      "id": "c7d02664-ce1f-4fb5-b200-3de65495d61d",
+      "sku": "VY3102",
+      "name": "SET CHALECO RIBETE Y BERMUDA VY3102"
+    },
+    {
+      "id": "95739a53-714a-4719-93f8-ba4d1dd269f5",
+      "sku": "VY3141",
+      "name": "SET BLUSA CRUZADA Y PANTALON VY3141"
+    },
+    {
+      "id": "b1eb4928-5b32-4b2d-8212-8fd27c8596ae",
+      "sku": "VY3153",
+      "name": "SET BLUSA BOLERO Y PANTALON VY3153"
+    },
+    {
+      "id": "3ed73a89-0d93-4401-9186-0bb9ea2d9d49",
+      "sku": "VY3158",
+      "name": "SET BLUSA NAPOLEON Y PANTALON VY3158"
+    },
+    {
+      "id": "b4d235f1-70ea-4b2b-8980-93eb568aed02",
+      "sku": "VY3104",
+      "name": "SET CHAQUETA Y PANTALON VY3104"
+    },
+    {
+      "id": "696ab740-f59e-4ab3-a6f8-e708836bbe36",
+      "sku": "VY3152",
+      "name": "PANTALON SATIN VY3152"
+    },
+    {
+      "id": "1b034896-6bc7-40a6-8fc2-fca061f8c900",
+      "sku": "VY3140",
+      "name": "PANTALON CHARRETERA Y RIBETE VY3140"
+    },
+    {
+      "id": "73211e01-93a0-4372-bd02-871a46b0acbc",
+      "sku": "VY2519",
+      "name": "PANTALON BASICO ANCHO VY2519"
+    },
+    {
+      "id": "b0c9272f-7039-408a-8f61-f8a3cd6b94b8",
+      "sku": "VY3122",
+      "name": "PANTALON CHARRETERA Y RIBETE VY3122"
+    },
+    {
+      "id": "ad30c0a9-e08c-4d7d-8a4b-c17e953a4049",
+      "sku": "VY3210",
+      "name": "FALDA TRANSPARENCIA LUNARES VY3210"
+    },
+    {
+      "id": "e73a9b15-a545-426e-b410-9e58c1c8caf3",
+      "sku": "VY3197",
+      "name": "BODY STRAPLE DOBLE HERRAJE VY3197"
+    },
+    {
+      "id": "06ae2b32-3168-4936-8ba8-14a15cb77282",
+      "sku": "VY3196",
+      "name": "BLUSA HERRAJE VY3196"
+    },
+    {
+      "id": "f0c494ae-a59e-4201-a393-bd730c84b46e",
+      "sku": "VY319332",
+      "name": "BODY HERRAJE HOMBRO VY319332"
+    },
+    {
+      "id": "b2ee0af8-43b5-4186-a892-ff1e0bc5d3c7",
+      "sku": "VY3188",
+      "name": "RUANA CON TOP VY3188"
+    },
+    {
+      "id": "0aa35746-d223-485b-a0ed-b3d1ff1bc3ad",
+      "sku": "VY3186",
+      "name": "SET BUZO Y FALDA VY3186"
+    },
+    {
+      "id": "ceba25d6-119a-4454-8416-1647d11b0f1d",
+      "sku": "VY3185",
+      "name": "BUZO MAYATEX PIEDRAS VY3185"
+    },
+    {
+      "id": "e6e9a28d-116b-49e4-bf20-2f55f15c8e57",
+      "sku": "VY3182",
+      "name": "CAMISETA 2 FLORES FLECO VY3182"
+    },
+    {
+      "id": "bd449319-31b2-4f0e-b58b-45b45701541a",
+      "sku": "VY3181",
+      "name": "CAMISETA 5 FLORES VY3181"
+    },
+    {
+      "id": "1eccc9bc-f02f-4a85-9ca2-3e4f3acce300",
+      "sku": "VY3174",
+      "name": "SET RUANA Y PANTALON VY3174"
+    },
+    {
+      "id": "b1f1ff59-4bc3-4175-a953-6e2338832678",
+      "sku": "VY3171",
+      "name": "SET BUZO Y FALDA VY3171"
+    },
+    {
+      "id": "68a15188-9c5d-49e5-899a-e840759f2088",
+      "sku": "VY3168",
+      "name": "SET CHALECO Y PANTALON VY3168"
+    },
+    {
+      "id": "ad72da3d-0c90-4d77-8f05-bfae04ac1cbe",
+      "sku": "VY3167",
+      "name": "VESTIDO CORTO HERRAJE HOMBRO VY3167"
+    },
+    {
+      "id": "b335784a-06ea-4e6f-86eb-146ab7661fff",
+      "sku": "VY3162",
+      "name": "BLUSA MANGA LARGA CRUZADA MAYATEX ESTAMPADO VY3162"
+    },
+    {
+      "id": "82dc83f1-22bb-4122-a7da-d77be2d34816",
+      "sku": "VY3161",
+      "name": "VESTIDO PICAPIEDRA BOLERO Y HERRAJE VY3161"
+    },
+    {
+      "id": "83403e4d-d15b-42a3-b284-775ea676e84d",
+      "sku": "VY3157",
+      "name": "SET BLUSA Y FALDA SHORT HERRAJES VY3157"
+    },
+    {
+      "id": "e7296bd9-ccb8-4cf5-ac69-7ae903327ce1",
+      "sku": "VY3155",
+      "name": "SET BLUSA Y FALDA VY3155"
+    },
+    {
+      "id": "7d3eae57-d2a2-493f-a9ee-9f4af2f52ae4",
+      "sku": "VY3154",
+      "name": "SET BLUSA Y PANTALON VY3154"
+    },
+    {
+      "id": "2f503195-969e-4307-8e43-04b3f27ada33",
+      "sku": "VY3142",
+      "name": "PANTALON ANCHO CHIFON VY3142"
+    },
+    {
+      "id": "92d2f36d-7ddc-46f4-840e-394eecbbcbd9",
+      "sku": "VY3139",
+      "name": "ENTERIZO MOMA VY3139"
+    },
+    {
+      "id": "0b58ceea-d4b6-4c16-a36f-7fa9af7104b1",
+      "sku": "Q397",
+      "name": "JEAN RIGIDO TIRO ALTO CORTE A Q397"
+    },
+    {
+      "id": "f809d308-81a0-41f3-9126-95a70ea048f3",
+      "sku": "Q393",
+      "name": "SHORT LICRADO CLASICO Q393"
+    },
+    {
+      "id": "a1a87fa1-404a-432b-945c-d628f2fa86f5",
+      "sku": "Q387",
+      "name": "BERMUDA DISEÑO BOLSILLOS Q387"
+    },
+    {
+      "id": "030b17f7-e19c-475d-ba3b-7d955fbb3b91",
+      "sku": "Q386",
+      "name": "BERMUDA CUERO INDUSTRIAL Q386"
+    },
+    {
+      "id": "86f86d70-035d-4d4d-ad7f-175b13341c58",
+      "sku": "Q383",
+      "name": "JEAN EFECTO HUMO LICRADO Q383"
+    },
+    {
+      "id": "91029c52-11ce-4f9f-9da3-f7897cf3d56c",
+      "sku": "Q379",
+      "name": "JEAN BALLOON PINZADO BOTA Q379"
+    },
+    {
+      "id": "4abf0622-0df3-4a2d-8f99-6dc75c0f5f4f",
+      "sku": "Q371",
+      "name": "JEAN LEOPARDO RELIEVE Q371"
+    },
+    {
+      "id": "98666532-86e0-4033-840c-4370728b7806",
+      "sku": "Q33230",
+      "name": "PANTALON CUERO INDUSTRIAL Q33230"
+    },
+    {
+      "id": "bc4632bb-7658-4e39-a64c-e0480b354c9f",
+      "sku": "DS15",
+      "name": "CHAQUETA CIERRE CINTURA RESORTADA DS15"
+    },
+    {
+      "id": "c3d23338-3dba-4eec-993b-b6d7438bc42f",
+      "sku": "DS9",
+      "name": "CHAQUETA DENIM OVERSIZE PINZAS MANGAS Y BOLSILLOS CARGO DS9"
+    },
+    {
+      "id": "221281e4-5ecb-4c90-8cf2-f4d40e10fde2",
+      "sku": "DS13",
+      "name": "CHAQUETA DENIM BOTONES EN ESPALDA DS13"
+    },
+    {
+      "id": "da4d8b60-d63b-43e1-abb8-cf6e06088e6d",
+      "sku": "DS12",
+      "name": "CAMISON DENIM OVERSIZE DS12"
+    },
+    {
+      "id": "595caeb3-fd49-421b-b7d4-bd7780a398df",
+      "sku": "DS11",
+      "name": "CHAQUETA DENIM ESTILO HARLEY DS11"
+    },
+    {
+      "id": "b4bc63f4-1735-475d-9d17-f9e91a0b9091",
+      "sku": "DS10",
+      "name": "CHAQUETA OVERSIZE DS10"
+    },
+    {
+      "id": "d1248354-ab53-456f-8812-dce250d150e6",
+      "sku": "DS14",
+      "name": "CHAQUETA DENIM HOMBRERAS Y METIDOS DS14"
+    },
+    {
+      "id": "06fffe4a-358e-49b1-ad6c-3ccf1c3f792c",
+      "sku": "VY2717",
+      "name": "BLUSA EMELLY CORTA CIZA SESGOS COLORES VY2717"
+    },
+    {
+      "id": "1b9d4b7e-0149-4206-b974-d9916ae66d7d",
+      "sku": "VY3256",
+      "name": "CAMISETA REGULAR VY3256"
+    },
+    {
+      "id": "9f2ded21-505f-4e94-bd74-7761e5fd5cb5",
+      "sku": "VY840",
+      "name": "BUZO HILO CORTA CUELLO REDONDO VY840"
+    },
+    {
+      "id": "83b050fa-d1f1-4931-a921-668d79f36558",
+      "sku": "VY3156",
+      "name": "SET BLUSA Y PANTALON PUNTO ROMA VY3156"
+    },
+    {
+      "id": "cbbb5e38-7c27-4718-bf5e-fc2762ef9427",
+      "sku": "Q306",
+      "name": "CHAQUETA DENIM CUELLO ALTO Y BOLSILLOS TAPAS Q306"
+    },
+    {
+      "id": "b4796eff-07be-4017-8a13-b24a9fc64466",
+      "sku": "VY2218",
+      "name": "BODY MANGA CORTA CUELLO REDONDO VY2218"
+    },
+    {
+      "id": "69f5e560-08ad-488a-a6bc-d9296cd55bdf",
+      "sku": "Q001",
+      "name": "SHORT VICTORY EN JEAN Q001"
+    },
+    {
+      "id": "084d6f25-5512-4683-aff0-fe71a408d3ad",
+      "sku": "VY1000",
+      "name": "TOP CORTO ESTILO PRINCESA BRILLANTE VY1000"
+    }
+  ],
+  "removed": [
+    {
+      "id": "ab8db0aa-f13b-4fe5-b217-381a2d35bf77",
+      "sku": "VY3229",
+      "name": "CAMISETA FRIA REGULAR ESTAMPADO DOLCE VITA VY3229"
+    },
+    {
+      "id": "51d194d8-a15d-4974-86fa-c67623e76907",
+      "sku": "VY3127",
+      "name": "BUZO CORAZONES VY3127"
+    },
+    {
+      "id": "225f40e2-5ef8-4191-b9a1-964ea37397c1",
+      "sku": "VY2849",
+      "name": "BLUSA CIZA CORTA RIB VY2849"
+    },
+    {
+      "id": "e3c75697-8ae6-4679-a373-9a486dde4c06",
+      "sku": "M4",
+      "name": "BUZO POLO RAYAS MULTICOLOR M4"
+    },
+    {
+      "id": "be201fb5-19c2-464f-be2a-e8e55f86ac55",
+      "sku": "VY3072",
+      "name": "SET RIB BLUSA HILADILLA Y PANTALON VY3072"
+    },
+    {
+      "id": "b0681eda-8980-41ef-b804-5864864b3ec3",
+      "sku": "VY2031",
+      "name": "BODY BASICO METIDO V BUSTO VY2031"
+    },
+    {
+      "id": "c65e456c-51db-474d-b4b9-22d730e04d42",
+      "sku": "VY2218",
+      "name": "BODY MANGA CORTA CUELLO REDONDO VY2218"
+    },
+    {
+      "id": "7e3e41bc-f50d-44d8-9a66-a965e420ec4d",
+      "sku": "VY2952",
+      "name": "CAMISETA CORTA HILADILLAS VY2952"
+    },
+    {
+      "id": "941d8565-a77d-4de1-a0f6-95ddd9987ae4",
+      "sku": "VY840",
+      "name": "BUZO HILO CORTA CUELLO REDONDO VY840"
+    },
+    {
+      "id": "d7cb7367-8659-4c1b-a916-f0fd43cf1470",
+      "sku": "VY2595",
+      "name": "SET CAMISA Y PANTALON LINO BOLSILLOS TAPAS VY2595"
+    },
+    {
+      "id": "539119ff-6057-46aa-b522-14fae61d62d7",
+      "sku": "VY2638",
+      "name": "PANTALON PRENCES ADELANTE Y EN BOTA VY2638"
+    },
+    {
+      "id": "a61810ba-3061-4c63-aefd-912834f4fbe7",
+      "sku": "VY2644",
+      "name": "PANTALON CRUDO CINTURON EN LA PRETINA VY2644"
+    },
+    {
+      "id": "cca51941-97fc-4558-a001-df7bee10d108",
+      "sku": "VY2695",
+      "name": "CAMISETA FRIA REGULAR CON APLIQUE 89 NEW YORK EN DENIM VY2695"
+    },
+    {
+      "id": "240106af-dc2b-4f09-a45e-b680e48d6ba8",
+      "sku": "VY2717",
+      "name": "BLUSA EMELLY CORTA CIZA SESGOS COLORES  VY2717"
+    }
+  ],
+  "updated": [
+    {
+      "id": "ce2f3523-60f5-4a75-9d71-dd9e6d32c72e",
+      "sku": "VY3028",
+      "name": "CHAQUETA SESGOS BOTONES VY3028"
+    },
+    {
+      "id": "6158182e-7ba3-47b2-8435-45c19b1080d9",
+      "sku": "261002",
+      "name": "CAMISETA CAPRI SLIM ESTAMPADO 4 CORAZONES IT'S ALL PART OF THE PROCESS 261002"
+    },
+    {
+      "id": "3ef2256b-c6ca-441a-9dec-91e5893463c8",
+      "sku": "261001",
+      "name": "CAMISETA CAPRI SLIM BOLSILLO MEAN TO BE LIVE 261001"
+    },
+    {
+      "id": "7008568b-9cc0-445d-a50f-1829638bd6b4",
+      "sku": "261003",
+      "name": "CAMISETA CAPRI SLIM ESTAMPADO YOU ARE BEAUTIFUL CORAZON 261003"
+    },
+    {
+      "id": "2131ef2d-0601-4692-a894-8f3666f59d11",
+      "sku": "VY3120",
+      "name": "BODY CUELLO REDONDO MANGA CORTA LULULEMON VY3120"
+    },
+    {
+      "id": "e91ff384-5b3e-48aa-b530-86457ab1f7c6",
+      "sku": "VY2996",
+      "name": "SET CHAQUETA Y PANTALON VY2996"
+    },
+    {
+      "id": "a4084047-b932-421d-9083-e446f8ccfa3c",
+      "sku": "VY3046",
+      "name": "CAMISERA TELA BORDADA VY3046"
+    },
+    {
+      "id": "8c2b438f-7c11-403c-be8d-4841fa9e533d",
+      "sku": "VY3053",
+      "name": "CAMISERA 2 BOLSILLO CORDON CINTURA VY3053"
+    },
+    {
+      "id": "139480db-94f3-4782-83b9-568fc3c85729",
+      "sku": "VY3059",
+      "name": "SET CAMISERA ENCAJE Y PANTALON VY3059"
+    },
+    {
+      "id": "ace2e5af-7ec3-4f99-80cc-c2e39359ecf7",
+      "sku": "VY3087",
+      "name": "CHALECO DISEÑO PERILLA Y RIBETE VY3087"
+    },
+    {
+      "id": "8c9ece96-e5f8-4b4f-8061-c00156408249",
+      "sku": "VY3111",
+      "name": "CAMISETA 2 LINEAS VY3111"
+    },
+    {
+      "id": "29914939-e499-456c-8e41-d8706008c74a",
+      "sku": "VY3055",
+      "name": "SET CHALECO TAPAS Y PANTALON TAPAS VY3055"
+    },
+    {
+      "id": "b5b3fece-4868-4f6d-9be2-b5fe9d64204e",
+      "sku": "VY3108",
+      "name": "SET BUZO Y PANTALON VY3108"
+    },
+    {
+      "id": "e7bacbfd-119a-4e95-a1dd-932a7d039244",
+      "sku": "VY2989",
+      "name": "SET CHAQUETA CIERRE Y PANTALON VY2989"
+    },
+    {
+      "id": "4a56b365-a653-4402-bcab-9661c14e7f8c",
+      "sku": "VY3136",
+      "name": "CAMISETA APLIQUE CORAZON VY3136"
+    },
+    {
+      "id": "ca9e3b19-da05-4d3d-9f30-5008563e7df9",
+      "sku": "VY3048",
+      "name": "BERMUDA RIBETE VY3048"
+    },
+    {
+      "id": "2fadab50-e423-4ea7-a418-df34572146eb",
+      "sku": "VY3036",
+      "name": "CAMISERA DOS BOLSILLOS VY3036"
+    },
+    {
+      "id": "78a64b08-b0fb-465d-b1c1-f4f29d41b284",
+      "sku": "VY3062",
+      "name": "VESTIDO LARGO CUELLO BANDEJA CON NUDO VY3062"
+    },
+    {
+      "id": "bd2c676e-442b-40bd-b164-a5625e6b15bf",
+      "sku": "VY3050",
+      "name": "VESTIDO LARGO UNA MANGA CIZA Y UN LADO RESORTADO VY3050"
+    },
+    {
+      "id": "aaf80faa-00c2-4dd3-aeea-b2537a08564c",
+      "sku": "VY3100",
+      "name": "FALDA MAYATEX VY3100"
+    },
+    {
+      "id": "2f77cec2-6a22-4812-a3fa-47fc287fba21",
+      "sku": "VY3209",
+      "name": "BUZO MAYATEX ESTAMPADO SIRENA VY3209"
+    },
+    {
+      "id": "b745721f-d656-4e37-b6db-6e8ceb4c66f6",
+      "sku": "VY3144",
+      "name": "PANTALON SESGOS FRENTE VY3144"
+    },
+    {
+      "id": "cd304163-94f2-4ca2-a1bd-e1821d35e1ef",
+      "sku": "VY3230",
+      "name": "CAMISETA FRIA REGULAR ESTAMPADO MORE AMOR VY3230"
+    },
+    {
+      "id": "a64fc93c-f560-4ca2-a280-db2b7f2ed9d5",
+      "sku": "VY3146",
+      "name": "PANTALON RIBETE VY3146"
+    },
+    {
+      "id": "cd84bfdc-b098-4bfd-bf15-cc8d541f2b9d",
+      "sku": "VY2853",
+      "name": "BODY EMELLY SESGOS COLORES VY2853"
+    },
+    {
+      "id": "7c74a12d-e912-45a7-b6bf-e54cd727ba52",
+      "sku": "VY2851",
+      "name": "BODY EMILLY CIZO CIERRE CON SESGOS VY2851"
+    },
+    {
+      "id": "557647ed-ee97-46a6-a017-8d5dc7be37f6",
+      "sku": "VY3228",
+      "name": "CAMISETA FRIA REGULAR ESTAMPADO TEQUILLA VY3228"
+    },
+    {
+      "id": "409a6fe6-b772-4e53-ab8f-4850d43c1838",
+      "sku": "VY3183",
+      "name": "CAMISETA FRIA REGULAR ESTAMPADO DOGUE VY3183"
+    },
+    {
+      "id": "40aa9b2d-0e08-4fbb-bc98-30eb4287f045",
+      "sku": "VY3224",
+      "name": "CAMISETA FRIA REGULAR ESTAMPADO PERRO GAFAS MOÑO VY3224"
+    },
+    {
+      "id": "ec9e2f38-35b5-423d-9182-53a62e282757",
+      "sku": "VY3223",
+      "name": "CAMISETA FRIA REGULAR ESTAMPADO CEST LA VIE VY3223"
+    },
+    {
+      "id": "eced5023-19cb-4c5a-9e9e-2f4cf801691f",
+      "sku": "VY3147",
+      "name": "FALDA SHORT RIBETE VY3147"
+    },
+    {
+      "id": "c7a33574-453f-4578-b0ec-e693299a0fc0",
+      "sku": "VY3071",
+      "name": "CHAQUETA BOTONES CINTURA RESORTADA VY3071"
+    },
+    {
+      "id": "15117741-fa8c-4028-8d15-247612bd246d",
+      "sku": "VY3116",
+      "name": "BLUSA MOMA TIRAS ENCAJE CUELLO VY3116"
+    },
+    {
+      "id": "1145d542-8f77-4760-827c-a83215298afa",
+      "sku": "VY3113",
+      "name": "BLUSA TIRAS TIPO STRAPLE BORDADA VY3113"
+    },
+    {
+      "id": "98898eb4-f258-47ea-9dcc-f5416cee8517",
+      "sku": "T20",
+      "name": "BLUSA HILO SISA CUELLO TORTUGA T20"
+    },
+    {
+      "id": "98427f51-8178-4ae5-8d6e-6ce939e16b12",
+      "sku": "VY3203",
+      "name": "CAMISETA FRIA REGULAR ESTAMPADO CUADRO PERRO GAFAS VY3203"
+    },
+    {
+      "id": "3a2fc877-46cc-409e-a38c-1f3fbd6e200a",
+      "sku": "VY2449",
+      "name": "SET RIB CHAQUETA CIERRE Y PANTALON VY2449"
+    },
+    {
+      "id": "856c64ae-0dc3-413c-927e-7ac6706841f7",
+      "sku": "VY2054",
+      "name": "BODY MANGA CORTA CUELLO CUADRADO VY2054"
+    },
+    {
+      "id": "b32d9e53-2d54-4232-8678-7d3fc6bd9a25",
+      "sku": "Q302",
+      "name": "VESTIDO DENIM ANCHO CON BOLSILLOS Q302"
+    },
+    {
+      "id": "25f7b3d3-99ec-4253-8142-1a5745ce276f",
+      "sku": "Q328",
+      "name": "JEAN MOM FIT Q328"
+    },
+    {
+      "id": "139a8164-0f3b-4a6f-b8b3-5f14151b39c6",
+      "sku": "VY2929",
+      "name": "BODY TRASPARENCIA ENCAJE MANGA LARGA VY2929"
+    },
+    {
+      "id": "f5b4e1ee-bb30-49b6-b897-7deedbab6aae",
+      "sku": "VY2844",
+      "name": "BUZO VELVETIN EN MAYA VY2844"
+    },
+    {
+      "id": "0544b386-8dbd-4c14-9ea1-2af1527af017",
+      "sku": "VY2843",
+      "name": "BODY MANGA LARGA HERRAJE VY2843"
+    },
+    {
+      "id": "a5f89f6a-c6ca-4019-9e6d-b84157a454e6",
+      "sku": "VY2817",
+      "name": "BODY MANGA LARGA BLOQUES TRANSPARENCIA VY2817"
+    },
+    {
+      "id": "26fc2503-b3b4-4980-84c4-ce42de7a4699",
+      "sku": "VY2790",
+      "name": "BLUSA TIRAS PRENCE FRENTE VY2790"
+    },
+    {
+      "id": "6bb19d88-75cc-4cfc-95db-c01f415084d5",
+      "sku": "VY268838",
+      "name": "CHALECO BOTONES ABERTURA ESPALDA VY268838"
+    },
+    {
+      "id": "7f7f4173-a92e-42b9-9653-f994ffa3c851",
+      "sku": "Q247",
+      "name": "BLUSA DENIM RIGIDO BOMBACHA AMARRAR FRENTE Q247"
+    },
+    {
+      "id": "07e9eaf3-2a3d-40a3-9d76-42f7a45c5a11",
+      "sku": "VY3101",
+      "name": "BLAZER CORTO ALKALA BASICO VY3101"
+    },
+    {
+      "id": "560f6bfd-6439-4ac4-9a63-35897505826a",
+      "sku": "VY3049",
+      "name": "BLAZER ESTAMPADO SNOOPY CUADROS VY3049"
+    },
+    {
+      "id": "c2df3e1a-eb2a-425f-bdae-12b8d9ab8137",
+      "sku": "VY3030",
+      "name": "PANTALON RIBETE CORREA VY3030"
+    },
+    {
+      "id": "bb44299c-014b-4c2a-9112-54d015771fc6",
+      "sku": "VY725",
+      "name": "SET CHALECO BOLSILLO 4 BOTONES Y PANTALON VY725"
+    },
+    {
+      "id": "ed38e18c-4f73-478e-ab7b-319122fa1bd2",
+      "sku": "VY2447",
+      "name": "BLUSA ASIMETRICA FRENTE VY2447"
+    },
+    {
+      "id": "869362d1-2f38-4b78-a569-752710da4379",
+      "sku": "VY3075",
+      "name": "CAMISETA FRIA REGULAR BASICA VY3075"
+    },
+    {
+      "id": "6b78f16e-4123-4eec-a61c-0ee995a34300",
+      "sku": "VY3099",
+      "name": "BODY CIERRE VY3099"
+    },
+    {
+      "id": "95747c9f-28b2-4b4e-9788-24594a5b6476",
+      "sku": "VY3134",
+      "name": "BLUSA MAYATEX ESTAMPADO LOVE VY3134"
+    },
+    {
+      "id": "f57112e6-c0de-44bb-a70b-de8b56fdbf40",
+      "sku": "VY3175",
+      "name": "CAMISETA FRIA REGULAR CORAZONES LAZER VY3175"
+    },
+    {
+      "id": "24b89826-0d43-4404-925a-e012b5df2390",
+      "sku": "VY3131",
+      "name": "BUZO MAYATEX ESTAMPADO BLOOM SOL VY3131"
+    },
+    {
+      "id": "985d0102-eb17-45cd-ae15-c0f3281fe176",
+      "sku": "VY3009",
+      "name": "PANTALON RIBETE PUNTOS VY3009"
+    },
+    {
+      "id": "61532965-985e-457a-8af0-969e5ec8f729",
+      "sku": "VY2983",
+      "name": "SUDADERA RIB DOBLE SESGOS LATERALES VY2983"
+    },
+    {
+      "id": "dd299431-f14e-4b15-8729-b73f557f0393",
+      "sku": "VY2625",
+      "name": "CHAQUETA CIERRE Y BOTONES DORADOS VY2625"
+    },
+    {
+      "id": "13477e81-c612-410b-8bf7-aeb914d7b0c5",
+      "sku": "VY3130",
+      "name": "BUZO MAYATEX ESTAMPADO LEOPARDO Y SOL VY3130"
+    },
+    {
+      "id": "c7e16e8c-60e5-42a7-821c-cded30c9a11f",
+      "sku": "VY3085",
+      "name": "CHALECO RIBETES BOTONES FRENTE VY3085"
+    },
+    {
+      "id": "0c9d826b-669b-48b3-9d13-15eac825fe97",
+      "sku": "VY3112",
+      "name": "BODY MANGA LARGA ESPALDA DESTAPADA LULULEMON VY3112"
+    },
+    {
+      "id": "9fe3b78c-ea02-4940-bca9-bf00a1bb6cba",
+      "sku": "VY2597",
+      "name": "SET HILO BUZO Y PANTALON CON CINTA ANIMAL PRINT VY2597"
+    },
+    {
+      "id": "8206c98c-cfa3-40b0-ba66-e2bdbef85041",
+      "sku": "Q360",
+      "name": "SHORT DENIM PRELAVADO Q360"
+    },
+    {
+      "id": "428c3605-b845-4ffd-bc15-1168094c2877",
+      "sku": "VY3105",
+      "name": "CAMISERA CORTA MANGA LARGA POPELINA VY3105"
+    },
+    {
+      "id": "bf99c130-1652-486c-8d69-8162518c4434",
+      "sku": "VY2699",
+      "name": "PANTALON PRENCES CINTURA RESORTADA VY2699"
+    },
+    {
+      "id": "25d9be00-f498-49d9-9e9f-b2eb7d3f8fae",
+      "sku": "VY3097",
+      "name": "CAMISETA FRIA REGULAR APLIQUE 3 FLORES BORDADAS VY3097"
+    },
+    {
+      "id": "5faf0ebb-8f03-45aa-93c5-f573fed414f4",
+      "sku": "VY2053",
+      "name": "BODY CUELLO REDONDO CIZO VY2053"
+    },
+    {
+      "id": "23c65b48-7025-4e46-bc3b-04e2869c2db4",
+      "sku": "VY2562",
+      "name": "BERMUDA LARGA BOTON VY2562"
+    },
+    {
+      "id": "bbb98884-9b46-41a1-aff2-db96a37e67da",
+      "sku": "VY763",
+      "name": "PANTALON PRENCES DOBLE CINTURON VY763"
+    },
+    {
+      "id": "1daa3bfa-8b41-4cb3-9180-02d2b8a6d24e",
+      "sku": "VY3163",
+      "name": "CAMISETA CAPRI REGULAR RSTAMPADO FASHION PERRO VY3163"
+    },
+    {
+      "id": "42ee7b1f-2bf2-4882-af27-c3ab298502ce",
+      "sku": "VY3133",
+      "name": "BLUSA MAYATEX ESTAMPADO STAY POSITIVE VY3133"
+    },
+    {
+      "id": "2a296cca-83ec-49b5-bc92-447001b866f7",
+      "sku": "Q376",
+      "name": "PANTALON DENIM CARGO RESORTADO Q376"
+    },
+    {
+      "id": "6ff66f61-ff22-447c-9314-a6c1003f74ed",
+      "sku": "VY3124",
+      "name": "CHALECO TELA BORDADA VY3124"
+    },
+    {
+      "id": "9122f9da-5336-4ae3-825e-3cc6b8fce2c7",
+      "sku": "VY3103",
+      "name": "SET PUNTO ROMA BLUSA Y PANTALON VY3103"
+    },
+    {
+      "id": "2c1e08f3-9eb7-4f71-880d-92b515a87e04",
+      "sku": "VY3088",
+      "name": "CAMISETA FRIA REGULAR MANUAL MOÑO CORDON VY3088"
+    },
+    {
+      "id": "9ca870cb-4a64-4a69-bed0-cec53c7dd2a9",
+      "sku": "VY1069",
+      "name": "BODY CIZO CUELLO CUADRADO FIT VY1069"
+    },
+    {
+      "id": "7b5fb7c8-293a-4702-8cde-f4d0f0b98b0e",
+      "sku": "Q372",
+      "name": "FALDA PANTALON PROCESO DESGASTE EN CAPAS Q372"
+    },
+    {
+      "id": "1cc9f926-4f34-4f91-afd3-b8240f61fbe3",
+      "sku": "Q341",
+      "name": "JEAN WIDE LEG LICRADO COLORES Q341"
+    },
+    {
+      "id": "c3316379-ef5a-45b1-b215-65c78c687fc0",
+      "sku": "VY2618",
+      "name": "SET RIB BUZO CHOMPA Y PANTALON VY2618"
+    },
+    {
+      "id": "a4a0dda6-2510-4cb4-bf18-ebdecc68afe9",
+      "sku": "VY257238",
+      "name": "SET PANTALON Y BLUSA APLIQUE EN BOLSILLO VY257238"
+    },
+    {
+      "id": "eb256bbf-1d22-45a6-a6c3-bb5e600b71d2",
+      "sku": "VY3034",
+      "name": "CAMISERA AMARRAR ESPALDA VY3034"
+    },
+    {
+      "id": "6a9ba247-185b-473f-a889-1e1e8146ae60",
+      "sku": "VY1017",
+      "name": "BODY MANGA LARGA CUELLO ALTO FIT VY1017"
+    },
+    {
+      "id": "09ad09cc-35f5-411d-867a-cf296c2237df",
+      "sku": "VY3135",
+      "name": "CAMISETA APLIQUE FLORES VY3135"
+    },
+    {
+      "id": "e9abde8d-1369-472f-ac50-d8c60efef7bf",
+      "sku": "VY3115",
+      "name": "VESTIDO CORTO TIRAS MOMA VY3115"
+    },
+    {
+      "id": "88173b19-6e2d-4377-ab30-615878027266",
+      "sku": "VY3118",
+      "name": "PANTALON MARIPOSA VY3118"
+    },
+    {
+      "id": "6185d924-60ac-4b57-b323-48f95ef39d8e",
+      "sku": "VY3084",
+      "name": "CHALECO RIBETE Y TAPA VY3084"
+    },
+    {
+      "id": "d16fbab6-9ff5-4658-b79e-44eb5faa13b4",
+      "sku": "Q358",
+      "name": "JEAN CLASICO EFECTO DIRTY Q358"
+    },
+    {
+      "id": "c53e140c-7e02-4160-8b42-65c5393d4704",
+      "sku": "Q353",
+      "name": "JEAN DENIM LEOPARDO Q353"
+    },
+    {
+      "id": "c308f318-9513-4837-b9a2-b2181e63626a",
+      "sku": "Q362",
+      "name": "FALDA SHORT DENIM CLASICA Q362"
+    },
+    {
+      "id": "a195e146-e8fc-409d-ad07-acd902ef9361",
+      "sku": "VY3074",
+      "name": "BLUSA TIPO HALTER VY3074"
+    },
+    {
+      "id": "031036f8-75c9-4698-adbc-c79a5578d4be",
+      "sku": "VY3070",
+      "name": "SET BLUSA PERILLA Y PANTALON VY3070"
+    },
+    {
+      "id": "025e4b67-1a8e-4a7f-a13c-315bf8e124a7",
+      "sku": "DS6",
+      "name": "CHALECO DENIM FLORES BRILLANTES DS6"
+    },
+    {
+      "id": "885cf9a3-faab-4715-9ae4-898a1d4140f5",
+      "sku": "VY3138",
+      "name": "CAMISETA APLIQUE PERLA Y CANOTILLA VY3138"
+    },
+    {
+      "id": "78dc0c86-e1c7-4ef3-b9c7-2ed7530bb0c0",
+      "sku": "VY3137",
+      "name": "CAMISETA APLIQUE LOVE VY3137"
+    },
+    {
+      "id": "2757a5d8-d673-4db8-a752-919bb23ba17a",
+      "sku": "VY3095",
+      "name": "SET BLUSA Y FALDA TELA BORDADA VY3095"
+    },
+    {
+      "id": "f2915866-765d-4f9d-944c-5276b7ee20e4",
+      "sku": "VY3061",
+      "name": "VESTIDO CORTO RECOGIDO LATERALES VY3061"
+    },
+    {
+      "id": "8536c9c1-84cc-4008-b3a6-4d426836494e",
+      "sku": "VY3060",
+      "name": "SET CHALECO TAPAS Y PANTALON VY3060"
+    },
+    {
+      "id": "a262fce9-313f-4744-ba3c-d1aa5297a188",
+      "sku": "Q352",
+      "name": "SET PANTALON 2 PIEZAS Q352"
+    },
+    {
+      "id": "66e43b77-fd90-4a6a-bc14-d313b3e0e78a",
+      "sku": "VY3069",
+      "name": "BLAZER ESTAMPADO ESTRELLAS VY3069"
+    },
+    {
+      "id": "150f2914-5167-4917-9b1f-ffcb9a44e924",
+      "sku": "VY3083",
+      "name": "VESTIDO LARGO HERRAJE VY3083"
+    },
+    {
+      "id": "e761cc63-2c1f-4019-8d0b-bf7d323ba746",
+      "sku": "VY3006",
+      "name": "CHAQUETA CINTURA RESORTADA VY3006"
+    },
+    {
+      "id": "96f6766a-3859-4806-9c6a-f2cffafc6ae9",
+      "sku": "Q354",
+      "name": "SET CHALECO Y JEAN DENIM CON BORDADO FLOR Q354"
+    },
+    {
+      "id": "06eb7897-5f45-4759-b0c6-750e1028235e",
+      "sku": "VY3086",
+      "name": "PANTALON HILADILLA Y RIBETE VY3086"
+    },
+    {
+      "id": "2a7cfd04-c564-45b9-86e3-e22208c43a52",
+      "sku": "VY3077",
+      "name": "CHAQUETA CIERRE CINTURA RESORTADA VY3077"
+    },
+    {
+      "id": "ff47854f-c6de-4ea8-b399-bdf0cfb6413b",
+      "sku": "VY3073",
+      "name": "PANTALON PRENCES PINZAS ATRAS VY3073"
+    },
+    {
+      "id": "eb62a46b-8c75-416d-b0c5-e667a37a263e",
+      "sku": "VY3076",
+      "name": "PANTALON TELA CUERO BORDADA VY3076"
+    },
+    {
+      "id": "68b43d92-844e-4bb2-9780-032de7d2ae0e",
+      "sku": "VY3128",
+      "name": "BUZO NEVER VY3128"
+    },
+    {
+      "id": "02de9181-8474-4720-83c4-7f0f707af19d",
+      "sku": "VY3065",
+      "name": "BODY MANGA LARGA CUELLO BANDEJA VY3065"
+    },
+    {
+      "id": "373b5258-543e-4e8f-8308-8277d72c5d44",
+      "sku": "Q375",
+      "name": "JEAN DISEÑO CORTES Q375"
+    },
+    {
+      "id": "ec3dcca2-c9a9-407f-91a9-923cd5fc488a",
+      "sku": "VY3081",
+      "name": "FALDA TABLAS Y CINTURON FORRADO VY3081"
+    },
+    {
+      "id": "2f31126c-37fd-4d60-b2c9-7e3d39974781",
+      "sku": "VY3117",
+      "name": "BODY CIZO ESPALDA MAYATEX VY3117"
+    },
+    {
+      "id": "ce44e260-1de5-47b0-b325-5c1ae54cc5d6",
+      "sku": "VY3098",
+      "name": "BLUSA PICAPIEDRA ENCAJE VY3098"
+    },
+    {
+      "id": "8f6483f6-2b43-4085-944c-2ba60e141adc",
+      "sku": "VY3051",
+      "name": "SET CHAQUETA Y PANTALON ENCAJE FLOR VY3051"
+    },
+    {
+      "id": "f3f34388-9859-4b35-bfe4-6a6b77d41fbe",
+      "sku": "DS4",
+      "name": "CHALECO DENIM OVERSIZE COSTURAS CONTRASTADAS DS4"
+    },
+    {
+      "id": "b9654b2c-0e1b-48f3-87b0-87156693e854",
+      "sku": "VY515",
+      "name": "SET CHAQUETA CON SELLOS Y PANTALON RIB VY515"
+    },
+    {
+      "id": "64adad44-f1dd-4547-ab69-eb2c9f2d89fb",
+      "sku": "Q336",
+      "name": "BAGGY DENIM LICRADO TAPAS ATRAS Q336"
+    },
+    {
+      "id": "f9108876-526f-4399-9bbc-b8046a79fe87",
+      "sku": "VY2716",
+      "name": "BODY BICOLOR CIZO VY2716"
+    },
+    {
+      "id": "af3efaeb-f11c-4947-8c87-462edc60d869",
+      "sku": "VY3109",
+      "name": "BUZO CORTO ESTAMPADO NEW YORK VY3109"
+    },
+    {
+      "id": "5956803c-469e-44d4-a538-7d6be28606c9",
+      "sku": "VY2248",
+      "name": "BUZO BASICO TRANSPARENCIA VY2248"
+    },
+    {
+      "id": "dfe5b6a2-19d0-4b1c-a46a-4d537d0978cd",
+      "sku": "VY2881",
+      "name": "VESTIDO TELA BORDADA VY2881"
+    },
+    {
+      "id": "289ad922-93a1-4569-9d98-d9956339c202",
+      "sku": "VY2948",
+      "name": "PANTALON RIBETE CINTURON DELGADO VY2948"
+    },
+    {
+      "id": "c07fcc86-a1c8-4976-b94f-3ee491b102ee",
+      "sku": "VY3044",
+      "name": "PANTALON TAPAS BOLSILLO TRASERO CHARRETERA ATRAS VY3044"
+    },
+    {
+      "id": "019286a9-f289-402d-926e-691f5eebe08d",
+      "sku": "VY3026",
+      "name": "PANTALON HILADILLAS TACHES LATERALES VY3026"
+    },
+    {
+      "id": "89aeb3f7-d9b0-411b-80c3-51a6c35da33e",
+      "sku": "VY2616",
+      "name": "SET BUZO CIERRE Y PANTALON COMBINADO VY2616"
+    },
+    {
+      "id": "a4fea5b4-b910-4d36-8383-f64a8d434711",
+      "sku": "VY2866",
+      "name": "CHAQUETA CINTURON RESORTADA CON CHARRETERA Y BOTONES VY2866"
+    },
+    {
+      "id": "285d2795-5d0b-4461-a343-a309379f1796",
+      "sku": "VY3040",
+      "name": "SET RIB CHOMPA CORDON HILADILLA CORAZONES Y PANTALON VY3040"
+    },
+    {
+      "id": "62b64aa0-8189-4230-ace6-66209dd30059",
+      "sku": "VY691",
+      "name": "BODY CIZO CUELLO REDONDO VY691"
+    },
+    {
+      "id": "c77bb3b2-43cd-4a2d-bf66-b6a86b07df40",
+      "sku": "Q361",
+      "name": "SET DENIM BLUSA ESTRAPLE  AMARRA ESPALDA Y PANTALON Q361"
+    },
+    {
+      "id": "31cc016d-d843-4824-a44a-53dfbf97a6ab",
+      "sku": "VY2702",
+      "name": "BODY MANGA LARGA CUELLO BANDEJA VY2702"
+    },
+    {
+      "id": "efc036b2-ed35-44d3-b4fe-a1fa1c4f8ce7",
+      "sku": "VY912",
+      "name": "BUZO HILO CUELLO REDONDO 4 BROCHES ADELANTE VY912"
+    },
+    {
+      "id": "78ee2b73-b37e-4dc4-bef1-bb9be739bdb1",
+      "sku": "VY3000",
+      "name": "CAMISERA CORTA TANQUETA RECOGER LADO VY3000"
+    },
+    {
+      "id": "9b5aa752-24f9-41d6-a043-47341c5f80b7",
+      "sku": "VY2242",
+      "name": "PANTALON CON TUNEL CINTURON VY2242"
+    },
+    {
+      "id": "bbc3e7ef-1bdb-48b7-a8b1-9597c25998c3",
+      "sku": "VY2981",
+      "name": "PANTALON ENCAJE LATERAL VY2981"
+    },
+    {
+      "id": "efa96117-6564-4dbf-8c70-7468dff2f879",
+      "sku": "VY2977",
+      "name": "SET CHAQUETA Y PANTALON VY2977"
+    },
+    {
+      "id": "048f8fb8-5129-4294-8ca5-0a43f4fedf68",
+      "sku": "VY3001",
+      "name": "CAMISERA CORTA MANGA 3/4 AMARRAR ATRAS VY3001"
+    },
+    {
+      "id": "d5972e4f-b87a-4788-9fc5-bbcc549b0b9b",
+      "sku": "VY2937",
+      "name": "FALDA SHORT CON HERRAJE ADELANTE VY2937"
+    },
+    {
+      "id": "54ef71ed-0d79-4818-aca4-63b48bd740f4",
+      "sku": "VY3018",
+      "name": "BLUSA BOLERO Y PUNTILLA VY3018"
+    },
+    {
+      "id": "a9127cb8-7f68-47f4-bff1-51887fb0dd6f",
+      "sku": "VY2984",
+      "name": "SET CHAQUETA BOLSILLO Y PANTALON VY2984"
+    },
+    {
+      "id": "6a50ffe9-8ccd-4163-bf1e-4ddd877aa6e4",
+      "sku": "VY2950",
+      "name": "CHALECO BOTONES METALICOS VY2950"
+    },
+    {
+      "id": "9368a045-fc63-455d-acca-52ad45ebcfc7",
+      "sku": "VY2936",
+      "name": "ENTERIZO ENCAJE VY2936"
+    },
+    {
+      "id": "7f6b1a49-84f7-4a4a-95e8-3d9258213812",
+      "sku": "VY2997",
+      "name": "SET BLUSA AMARRAR Y PANTALON VY2997"
+    },
+    {
+      "id": "16a5db24-f440-43a4-a76a-e37bd6ba7edb",
+      "sku": "VY2982",
+      "name": "PANTALON RIBETE VY2982"
+    },
+    {
+      "id": "41b9b5c8-1a3a-4d49-80ae-c91e64a007e6",
+      "sku": "VY3021",
+      "name": "PANTALON PERLAS LATERALES VY3021"
+    },
+    {
+      "id": "d3dcf9ef-828b-4662-9ae7-2de424d194b1",
+      "sku": "VY1046",
+      "name": "BODY HILO CUELLO REDONDO MANGA LARGA BROCHES ADELANTE VY1046"
+    },
+    {
+      "id": "44356141-fdda-40a8-a1bc-62781a5369bc",
+      "sku": "VY3020",
+      "name": "CAMISETA FRIA REGULAR ESTAMPADA LOS ANGELES CALIFORNIA VY3020"
+    },
+    {
+      "id": "339a04e3-f3fa-494c-8071-3cded3009677",
+      "sku": "VY3039",
+      "name": "SET RIB CAMISETA Y SHORT HILADILLA CON PIEDRAS VY3039"
+    },
+    {
+      "id": "22362a24-8cba-463f-a18f-c7c299a5aa65",
+      "sku": "VY2980",
+      "name": "SET CHALECO RIBETE Y PANTALON VY2980"
+    },
+    {
+      "id": "718308e6-c910-48a6-b81f-938261f4fbcf",
+      "sku": "VY514",
+      "name": "SET VICTORY RIB VY514"
+    },
+    {
+      "id": "4aadebaa-2730-4805-95f8-e5588b124b36",
+      "sku": "VY3011",
+      "name": "BODY MAYATEX MANGA LARGA CUELLO VY3011"
+    },
+    {
+      "id": "c5a6dce7-5314-484c-843f-951f233c510a",
+      "sku": "VY440",
+      "name": "PANTALON VICTORY CORTE ZARA VY440"
+    },
+    {
+      "id": "7869d645-3954-40b7-8413-2279890c240e",
+      "sku": "VY666",
+      "name": "VESTIDO RIB ABERTURA CINTURA VY666"
+    },
+    {
+      "id": "15bf49c5-a3c0-4d77-8045-d7ae01bf9e80",
+      "sku": "VY2951",
+      "name": "CHAQUETA CHARRETERA HOMBROS CINTURA RESORTADA VY2951"
+    },
+    {
+      "id": "8a4a3ecb-abb8-43fc-9317-2f0c666befe3",
+      "sku": "VY3014",
+      "name": "BODY CORTE MANGA MAYATEX VY3014"
+    },
+    {
+      "id": "ba422be3-3e09-40f8-b84c-f93faf1dfbf2",
+      "sku": "VY3024",
+      "name": "CAMISETA DISEÑO CROCHE HOMBROS Y PERLAS REGULAR VY3024"
+    },
+    {
+      "id": "b07fd766-f9d0-4249-b25f-e4456f07fbae",
+      "sku": "V2847",
+      "name": "BODY CIZO RIB SESGOS RIB ABERTURA LATERAL V2847"
+    },
+    {
+      "id": "06aad257-f13e-4e69-a289-ba3b2188bd1a",
+      "sku": "VY3066",
+      "name": "SET RIB CHAQUETA Y PANTALON VY3066"
+    },
+    {
+      "id": "418dbe0f-2807-4b1c-bf12-2506db18c2bb",
+      "sku": "VY2847",
+      "name": "BODY CIZO RIB ABERTURA LATERALES VY2847"
+    },
+    {
+      "id": "d58f2041-6a78-4d03-91ce-511905f8cabc",
+      "sku": "VY2975",
+      "name": "PANTALON OJALETE VY2975"
+    },
+    {
+      "id": "c385335f-e932-4b76-acde-835883eaf96a",
+      "sku": "VY3043",
+      "name": "CAMISETA FRIA REGULAR MANUALIDAD CORDON EN TRENZA VY3043"
+    },
+    {
+      "id": "08c9e50b-f3d9-4202-8bd9-e203ef5bc00f",
+      "sku": "VY3013",
+      "name": "BODY CIZO METIDO MAYATEX ADELANTE VY3013"
+    },
+    {
+      "id": "c802636d-6503-4d3e-9e57-76bffda563ac",
+      "sku": "Q363",
+      "name": "BERMUDA JEAN BOLSILLO CARPINTERO Q363"
+    },
+    {
+      "id": "90b801e6-fe73-4876-acbe-20673e660daf",
+      "sku": "M2",
+      "name": "BUZO HILO POLO LEOPARDO M2"
+    },
+    {
+      "id": "6a7737b1-b194-4d95-a04b-7a7d4b9d26ee",
+      "sku": "VY442",
+      "name": "BLUSA VICTORY TIRAS VY442"
+    },
+    {
+      "id": "dfcab82c-d248-4a4d-b7f5-b4593cdde325",
+      "sku": "VY3010",
+      "name": "BODY LULULEMON CON MANGA LARGA MAYATEX VY3010"
+    },
+    {
+      "id": "d42f9ec0-84bf-4ac0-9323-d79629f6c390",
+      "sku": "VY2955",
+      "name": "BODY RIB CUELLO REDONDO CIZO VY2955"
+    },
+    {
+      "id": "67bfcafb-d8d3-4751-9cd5-a47254e0a738",
+      "sku": "VY2967",
+      "name": "CAMISERA MANGA LARGA ENCAJE EN PUÑO Y PARTE INFERIOR VY2967"
+    },
+    {
+      "id": "8a9af7e1-e8a9-49bd-9c5b-455ae6c462f4",
+      "sku": "VY2970",
+      "name": "PANTALON RIB CORTE SESGOS LATERALES VY2970"
+    },
+    {
+      "id": "e1d5e7fe-d92f-4380-8f2e-1ffb0251529d",
+      "sku": "VY3015",
+      "name": "BODY MANGA LARGA ESPALDA DESTAPADA VY3015"
+    },
+    {
+      "id": "b73adf08-494c-4952-a980-489028224220",
+      "sku": "VY742",
+      "name": "SET BLUSA TIPO STRAPLE Y PANTALON ROKY VY742"
+    },
+    {
+      "id": "b814b2e9-921b-4b99-a626-c45c1f64da7d",
+      "sku": "Q214",
+      "name": "PANTALON JOGGER TELA TEXTURA Q214"
+    },
+    {
+      "id": "8e750d72-c8f5-455b-b7fc-47b9774961e5",
+      "sku": "Q176",
+      "name": "JEAN WIDE LEG CLASICO Q176"
+    },
+    {
+      "id": "c0855e5c-8f9a-4440-bfbe-e89b09d6d0e2",
+      "sku": "260601",
+      "name": "CAMISETA CAPRI SLIM ESTAMPADO LOS ANGELES 23 260601"
+    },
+    {
+      "id": "81dab975-c77c-4874-b665-0da89cec9ffd",
+      "sku": "Q314",
+      "name": "CHAQUETA CORTA Q314"
+    },
+    {
+      "id": "11e7b7e0-ba81-40fe-98e7-2cea648873bb",
+      "sku": "VY844",
+      "name": "BLAZER PUNTO ROMA VY844"
+    },
+    {
+      "id": "5786aff9-36ca-40c6-80ea-dc90345d8fa5",
+      "sku": "VY2460",
+      "name": "SET RIB CHAQUETA CIERRE Y PANTALON VY2460"
+    },
+    {
+      "id": "a987304c-b5bc-4ca1-b7fb-ba42b1cfc276",
+      "sku": "VY2957",
+      "name": "SUDADERA RIB SESGOS LATERALES VY2957"
+    },
+    {
+      "id": "9c3469d1-61b6-4c78-b3a9-cd026a29d206",
+      "sku": "VY2932",
+      "name": "BLUSA MANGA LARGA ABIERTA ADELANTE AMARRAR BLONDA VY2932"
+    },
+    {
+      "id": "5f29f320-6b8d-4aa3-bfad-f708d05f6eb3",
+      "sku": "VY511",
+      "name": "SUDADERA LINEAS APLIQUE VY511"
+    },
+    {
+      "id": "699acc33-a571-4c79-bdf3-9d4d7df90845",
+      "sku": "VY2236",
+      "name": "BLUSA HILO CORTA CIZA VY2236"
+    },
+    {
+      "id": "15a26c65-c77e-4410-b1ff-e99b069a2648",
+      "sku": "VY2606",
+      "name": "BLUSA CIZA CUELLO REDONDO LULULEMON VY2606"
+    },
+    {
+      "id": "25c0b174-8312-44e5-8626-880acfe02255",
+      "sku": "VY2872",
+      "name": "CHAQUETA BOTONES DORADOS VY2872"
+    },
+    {
+      "id": "18fbc8d1-23fe-40a6-a405-0b88617dbdaf",
+      "sku": "Q222",
+      "name": "CHALECO DENIM CORTO TONOS PASTELES Q222"
+    },
+    {
+      "id": "3f0eef59-7b95-416a-88e3-e4ad695fd608",
+      "sku": "VY670",
+      "name": "SET CHALECO Y PANTALON BOTONES FRENTE VY670"
+    },
+    {
+      "id": "b377183a-f1b4-4065-a0c0-3a44e5a9e217",
+      "sku": "Q330",
+      "name": "JEAN DISEÑO CHARRETERA CINTURA Q330"
+    },
+    {
+      "id": "7bdcb2e3-6e0f-4529-8b36-4fbe20719135",
+      "sku": "VY2911",
+      "name": "PANTALON VENA Y CINTURON VY2911"
+    },
+    {
+      "id": "27920587-bc01-468e-b983-b0013fea900d",
+      "sku": "VY2916",
+      "name": "CHAQUETA FORRADA BOTON MADERA VY2916"
+    },
+    {
+      "id": "be61d51b-b426-4084-873d-95f3033956a7",
+      "sku": "VY2873",
+      "name": "CHAQUETA BOLSILLOS Y BOTON HONGO VY2873"
+    },
+    {
+      "id": "ae71be45-386c-489d-a15f-aab6574cab32",
+      "sku": "VY2793",
+      "name": "CAMISETA BODY CAPRI SLIM VY2793"
+    },
+    {
+      "id": "587fded8-02cb-4f34-acfb-1523ac1559f6",
+      "sku": "VY2963",
+      "name": "BLUSA TIRAS METIDO BLONDA VY2963"
+    },
+    {
+      "id": "98bef399-7037-48ed-a953-3fdfdaad0939",
+      "sku": "VY2945",
+      "name": "BLUSA HERRAJE TRASERO VY2945"
+    },
+    {
+      "id": "fcdb05c1-4771-4673-a85d-52c209fecde4",
+      "sku": "Q326",
+      "name": "BERMUDA CARPINERA DENIM PITON Q326"
+    },
+    {
+      "id": "ff554c61-86e7-43b2-b210-8747737b6f7c",
+      "sku": "VY2985",
+      "name": "CAMISETA FRIA REGULAR ALTO RELIEVE NEW YORK VY2985"
+    },
+    {
+      "id": "7b485684-9464-45ce-bc59-30f2948e0a64",
+      "sku": "VY2566",
+      "name": "SET CHALECO CORTO Y BERMUDA RIBETE ATRAS VY2566"
+    },
+    {
+      "id": "243f5d4f-b972-4f87-9ca1-6e7d4810cfab",
+      "sku": "VY534",
+      "name": "CHALECO BOTONES FRENTE EVILLA ATRAS VY534"
+    },
+    {
+      "id": "974ddc8d-5a1b-4347-ad4c-60eee11b172d",
+      "sku": "VY2969",
+      "name": "CAMISERA MANGA ANCHA VY2969"
+    },
+    {
+      "id": "a8269fc4-2121-4578-9162-c771936886e5",
+      "sku": "VY2908",
+      "name": "BLUSA TIRAS ENCAJE VY2908"
+    },
+    {
+      "id": "fb261842-09a3-43f0-8ea4-44ddc471bc18",
+      "sku": "VY2940",
+      "name": "BLUSA RIB CORTA SESGOS CIZA VY2940"
+    },
+    {
+      "id": "512c4f07-98ed-41f3-af6e-669508ae4468",
+      "sku": "VY2986",
+      "name": "CAMISETA FRIA REGULAR ALTO RELIEVE LOS ANGELES VY2986"
+    },
+    {
+      "id": "8a7f9cdb-3cae-4f45-8724-dd11a5eea153",
+      "sku": "VY2726",
+      "name": "PANTALON ESTAMPADO VY2726"
+    },
+    {
+      "id": "4ce8be31-73ae-4136-aa41-3a536b00118a",
+      "sku": "VY2855",
+      "name": "ENTERIZO VY2855"
+    },
+    {
+      "id": "6cc0408d-96ee-4370-ac14-26bf58b02c04",
+      "sku": "VY2697",
+      "name": "CAMISETA CAPRI REGULA MANUAL FLORES CON CANUTILLO VY2697"
+    },
+    {
+      "id": "bf7f8508-d279-4097-91a9-58c2e086ee2f",
+      "sku": "VY2848",
+      "name": "BODY CIZO RIB VY2848"
+    },
+    {
+      "id": "08f8e428-5e68-422d-88d9-540b4435cd0b",
+      "sku": "VY2968",
+      "name": "BLUSA ENCAJE VY2968"
+    },
+    {
+      "id": "e417a110-c545-4e16-9050-90ed0412ed73",
+      "sku": "VY1098",
+      "name": "SET RIB CHAQUETA Y PANTALON CINTA LADOS VY1098"
+    },
+    {
+      "id": "587db039-23b3-47da-8638-5a4e8befa6e6",
+      "sku": "VY2877",
+      "name": "SET CHAQUETA Y PANTALON VY2877"
+    },
+    {
+      "id": "5c8a75b5-b203-4c0b-ba4b-1e67fb35d159",
+      "sku": "VY2917",
+      "name": "SET CHALECO Y PANTALON VY2917"
+    },
+    {
+      "id": "cac0db48-197b-467f-ab98-3992bca2bfc6",
+      "sku": "VY2874",
+      "name": "BLAZER MULTIBOTON VY2874"
+    },
+    {
+      "id": "c0379343-1869-4098-b7c4-d241ab6cf41c",
+      "sku": "VY2886",
+      "name": "SUDADERA SESGOS ANIMAL PRINT VY2886"
+    },
+    {
+      "id": "76c340bb-d0d4-40c4-a669-ad09fc75fbf7",
+      "sku": "VY2899",
+      "name": "SHORT TIRA CON CHAQUIRAS VY2899"
+    },
+    {
+      "id": "d490f9a0-5f9f-45af-be65-2f9fee2c829c",
+      "sku": "VY2903",
+      "name": "SET HILO BUZO CRUZADO ADELANTE Y PANTALON VY2903"
+    },
+    {
+      "id": "7d0906bd-2b48-4472-826a-f3cefa0d3a6b",
+      "sku": "VY2437",
+      "name": "PANTALÓN RIB LÍNEA TEJIDA Y ABERTURA BOTA VY2437"
+    },
+    {
+      "id": "e1124d67-8282-4849-a8b5-9d30e963142d",
+      "sku": "Q280",
+      "name": "JEAN DISEÑO PINSAS LATERALES Q280"
+    },
+    {
+      "id": "814f8b47-25f9-4a79-bf06-e5b71869ea37",
+      "sku": "VY2912",
+      "name": "FALDA CORTA TELA BORDADA VY2912"
+    },
+    {
+      "id": "a00183c9-0711-47e9-a98d-a7aaff2dabb9",
+      "sku": "Q305",
+      "name": "CHAQUETA DENIM OVERSIZE PINZAS MANGAS Y BOLSILLOS CARGO Q305"
+    },
+    {
+      "id": "03b02e5d-ac16-4548-857e-cee5a56ecb94",
+      "sku": "VY2865",
+      "name": "CHALECO CIERRE CINTURA RESORTADA VY2865"
+    },
+    {
+      "id": "35840dc1-769c-4c20-8623-904a6e604832",
+      "sku": "VY2954",
+      "name": "CAMISERA MANGA LARGA ANIMAL PRINT VY2954"
+    },
+    {
+      "id": "2c9dd8fc-44bf-4a03-b8d7-06cab2975c3a",
+      "sku": "VY2772",
+      "name": "BLUSA RIB CIZA SESGOS COLORES VY2772"
+    },
+    {
+      "id": "3bff9c3f-fadc-45c3-8e18-7f8626dae09b",
+      "sku": "VY2898",
+      "name": "CAMISA CORTA CON CON ENCAJE VY2898"
+    },
+    {
+      "id": "4e98c2a9-cb35-42af-85f8-947dcff47573",
+      "sku": "VY2919",
+      "name": "BLUSA CON GUARDA VY2919"
+    },
+    {
+      "id": "bf9c76c8-1611-4d34-a594-e2a1c4f0e3a2",
+      "sku": "VY2934",
+      "name": "BLUSA CORTA AMARRADO VY2934"
+    },
+    {
+      "id": "5066f50c-8237-4dee-aeca-87fa4e0337d6",
+      "sku": "VY2883",
+      "name": "BLUSA CAPRI PUNTO VY2883"
+    },
+    {
+      "id": "995bfd68-d3f9-4246-a9e7-041d98fec85c",
+      "sku": "VY2904",
+      "name": "SUDADERA CONTRASTE VY2904"
+    },
+    {
+      "id": "376c8be5-7108-4697-b468-58510eb72b1f",
+      "sku": "VY2920",
+      "name": "SET BLUSA AMARRAR Y SHORT VY2920"
+    },
+    {
+      "id": "e691f86f-02d4-44dd-b37c-f82d3b0c6c96",
+      "sku": "VY2876",
+      "name": "SET CHALECO PANTALON MODAL RIBETES VY2876"
+    },
+    {
+      "id": "4ca89efe-e9b3-4bb7-9582-5c62b7f2eee1",
+      "sku": "Q202",
+      "name": "JEAN MOM FIT PRENSE Y PINZA BOTA Q202"
+    },
+    {
+      "id": "e0b38a0c-2565-414f-86e8-83c134d364a3",
+      "sku": "VY2953",
+      "name": "CAMISA MANGA CORTA LEOPARDO VY2953"
+    },
+    {
+      "id": "d857a766-a801-4e4e-85c3-5c1fc9cff3ac",
+      "sku": "VY2927",
+      "name": "BLUSA SIZA CUELLO ENCAJE VY2927"
+    },
+    {
+      "id": "1a0c925d-2b2c-44c4-975b-f64a1be51416",
+      "sku": "VY2930",
+      "name": "BLUSA CIZA BLONDA RECOGIDO LATERALES VY2930"
+    },
+    {
+      "id": "2d214de1-07be-4ebd-a7b6-816c038676d0",
+      "sku": "VY2956",
+      "name": "BLUSA LARGA CIZA BLONDA VY2956"
+    },
+    {
+      "id": "075a9cc3-87d2-4523-a97a-e5beef84f7e7",
+      "sku": "VY2913",
+      "name": "BLUSA ASIMETRICA VY2913"
+    },
+    {
+      "id": "736c1a27-b931-44e2-9ffb-2e9a0771c35c",
+      "sku": "Q322",
+      "name": "VESTIDO TENCEL SISO BOLERO Q322"
+    },
+    {
+      "id": "962f21d0-c5bd-4915-a3ed-cd075b172b41",
+      "sku": "VY619",
+      "name": "SET RIB BLUSA TIRAS Y PANTALON PRENCES VY619"
+    },
+    {
+      "id": "ef990509-505a-494b-8bb8-9f785bcc3ede",
+      "sku": "VY2891",
+      "name": "SET CHALECO RIBETE VY2891"
+    },
+    {
+      "id": "e1e008c8-0e14-4d87-aebc-281784475a1e",
+      "sku": "VY2828",
+      "name": "SET CHALECO MODAL VY2828"
+    },
+    {
+      "id": "ea1db2c0-b589-4b8e-b3e3-0c36c93a59ed",
+      "sku": "VY2884",
+      "name": "PANTALON CINTURON DOBLE DELGADO VY2884"
+    },
+    {
+      "id": "66c2cf7d-a13e-4157-9da2-bd59eaa00905",
+      "sku": "Q260",
+      "name": "CHALECO DENIM OVERSIZE BOLSILLOS Q260"
+    },
+    {
+      "id": "28bf765b-cd0c-41df-8115-60397388132f",
+      "sku": "VY2892",
+      "name": "BLUSÓN ENCAJE ABERTURA ESPALDA VY2892"
+    },
+    {
+      "id": "66e4a632-74fa-4fc8-b792-b429e875a0e8",
+      "sku": "VY2926",
+      "name": "BLUSA SIZA CORTE TRASERO VY2926"
+    },
+    {
+      "id": "5759f901-cbe0-4473-a502-306db5584bb4",
+      "sku": "VY2941",
+      "name": "BLUSA MANGA CORTA CUELLO CUADRADO VY2941"
+    },
+    {
+      "id": "c85afd9e-1d78-4aa7-8964-10ba509df4e3",
+      "sku": "VY2939",
+      "name": "BLUSA CORTA MANGA CORTA RIB CON SESGOS VY2939"
+    },
+    {
+      "id": "92198cc1-901e-43c2-898f-d9221cf3798a",
+      "sku": "VY2895",
+      "name": "VESTIDO CON MANUALIDAD TIRAS VY2895"
+    },
+    {
+      "id": "9b8ae3f8-e2fc-49ef-b581-d14c36a64c8d",
+      "sku": "VY2875",
+      "name": "SET CHALECO CRUZADO PANTALON MODAL VY2875"
+    },
+    {
+      "id": "85ca780c-898b-4b0a-8d4c-c3631c833381",
+      "sku": "VY2890",
+      "name": "SET CHALECO ASIMETRICO VY2890"
+    },
+    {
+      "id": "ba350791-c565-46c5-b7ee-59372cdaef13",
+      "sku": "VY2889",
+      "name": "PANTALON CON SOBREPUESTO VY2889"
+    },
+    {
+      "id": "c085fc1f-5556-456d-89ef-f070225aca2d",
+      "sku": "VY2910",
+      "name": "PANTALON CAMPANA VY2910"
+    },
+    {
+      "id": "13be0f90-3033-4803-b27b-cb090709155c",
+      "sku": "VY2906",
+      "name": "FALDA CORTA ENCAJE VY2906"
+    },
+    {
+      "id": "796507a7-8544-45f3-89d9-14ff5d19c6fb",
+      "sku": "Q316",
+      "name": "ENTERIZOD ENIM LICRADO ABERTURA ABDOMEN Q316"
+    },
+    {
+      "id": "a07ccaba-ad4c-48a5-918c-cd9733643faa",
+      "sku": "VY2922",
+      "name": "ENTERIZO CON BLONDA EN SHORT VY2922"
+    },
+    {
+      "id": "a2ddb4d3-e54e-4711-8126-e07bf89d0e3e",
+      "sku": "VY2864",
+      "name": "CHALECO BROCHES CINTURA RESOSTADA VY2864"
+    },
+    {
+      "id": "755514ab-e021-476c-82a7-67a0c0b92530",
+      "sku": "Q324",
+      "name": "CHAQUETA DENIM CORTA CON DESGASTE EN HOMBRO Q324"
+    },
+    {
+      "id": "e9dace96-405d-40e2-9994-dc3a71489e3c",
+      "sku": "VY2972",
+      "name": "CAMISETA MANUALIDAD VY2972"
+    },
+    {
+      "id": "dc6eb1dd-d99a-47ff-9e94-d3049217a796",
+      "sku": "VY2882",
+      "name": "BLUSA CAPRI ENCAJE VY2882"
+    },
+    {
+      "id": "2b4d9696-f163-4599-a482-dda900b1213b",
+      "sku": "VY2861",
+      "name": "SET MODAL CHALECO PANTALON VY2861"
+    },
+    {
+      "id": "fde491a8-52c7-4e47-a946-b7c070135e6e",
+      "sku": "Q318",
+      "name": "CROP TOP DENIM CIERRE ESPALDA Q318"
+    },
+    {
+      "id": "d9f04935-7c11-4e9c-bff5-276194e7e1bb",
+      "sku": "T49",
+      "name": "BLUSA HILO COMBINADA ESCOTE ESPALDA T49"
+    },
+    {
+      "id": "86995b9a-dcce-40d6-bc26-f31cacaaec0c",
+      "sku": "VY2830",
+      "name": "SET DENIM VY2830"
+    },
+    {
+      "id": "aed01e16-9bd3-42df-89e1-aa30360280ba",
+      "sku": "VY2780",
+      "name": "SET SHORT Y CAMISA VY2780"
+    },
+    {
+      "id": "cfa357fa-86c8-4e70-8b45-b9eb4b16e2c5",
+      "sku": "VY2746",
+      "name": "PANTALON ALADINO VY2746"
+    },
+    {
+      "id": "f627a0e6-b504-42fe-aab8-33bdbb75c52f",
+      "sku": "Q331",
+      "name": "JEAN WIDE LEG TEÑIDO Q331"
+    },
+    {
+      "id": "99d447a1-d973-4092-b8c7-833c086f847d",
+      "sku": "VY2827",
+      "name": "FALDA PANTALON VY2827"
+    },
+    {
+      "id": "369ecf76-a7fe-4271-9d32-4b39e3f93497",
+      "sku": "VY2971",
+      "name": "CAMISETA BOLSILLO PERLAS VY2971"
+    },
+    {
+      "id": "98298d21-6bd3-4d69-af90-3c5cad804e53",
+      "sku": "Q320",
+      "name": "CROP TOP DENIM PICO Q320"
+    },
+    {
+      "id": "7f97c509-c053-4cbf-a484-8b6ec54ef69f",
+      "sku": "T48",
+      "name": "BLUSA HILO BABERO ESCOTE ESPALDA T48"
+    },
+    {
+      "id": "556bb840-51f9-45b8-b0f5-5e0aeef551dd",
+      "sku": "VY2834",
+      "name": "BLUSA SATIN NACAR VY2834"
+    },
+    {
+      "id": "705e69a1-4942-4f0e-a28c-ab5933de8122",
+      "sku": "VY2879",
+      "name": "BLUSA BLONDA MANGAS SATIN VY2879"
+    },
+    {
+      "id": "3695baa8-4940-46ed-bf9a-4d529343120f",
+      "sku": "VY2289",
+      "name": "SET PANTALON Y BLUSA ASIMETRICA VY2289"
+    },
+    {
+      "id": "7292b2fe-272b-4fd1-8b3e-846bb9abf33a",
+      "sku": "VY2918",
+      "name": "SET CAMISERA Y SHORT VY2918"
+    },
+    {
+      "id": "09a34717-6a36-4d31-8e4c-8ce18b5a49ac",
+      "sku": "VY2102",
+      "name": "PANTALON PRENSES CON CINTURON VY2102"
+    },
+    {
+      "id": "8dc6830f-4453-42a7-b0da-5d84305c9b99",
+      "sku": "VY2801",
+      "name": "PANTALON PRENCES AMARRA AL LADO VY2801"
+    },
+    {
+      "id": "3a2a641a-1e64-4226-a1fc-b73a93578797",
+      "sku": "VY2924",
+      "name": "FALDA SHORT VY2924"
+    },
+    {
+      "id": "d4fec27d-36e6-49a2-869a-3282ae72889a",
+      "sku": "VY2871",
+      "name": "CAMISETA FRIA REGULAR EST LA VIE VY2871"
+    },
+    {
+      "id": "9d67be25-0649-42f4-bce3-71966e2b77bb",
+      "sku": "VY2846",
+      "name": "BLAZER FORRADO BOLSILLOS TAPAS VY2846"
+    },
+    {
+      "id": "00442231-65d1-4bba-a14a-a760fadb7244",
+      "sku": "VY2907",
+      "name": "SET BLUSA Y PANTALON VY2907"
+    },
+    {
+      "id": "7ec76565-2bb2-4868-8f5b-7ae76525ec7a",
+      "sku": "VY2914",
+      "name": "SET BLUSA CORTA Y PANTALON VY2914"
+    },
+    {
+      "id": "650abbd8-2d57-434c-816d-68ae40edd887",
+      "sku": "VY2856",
+      "name": "ENTERIZO NUDO CRUZADO VY2856"
+    },
+    {
+      "id": "140974ca-921f-4e46-842e-e3c51daddb0d",
+      "sku": "VY2888",
+      "name": "SET CHALECO Y SHORT TELA BORDADA VY2888"
+    },
+    {
+      "id": "0877d8ea-3de7-4c73-9895-c928f7e1d5fc",
+      "sku": "VY2829",
+      "name": "PANTALON DIESEL VY2829"
+    },
+    {
+      "id": "5099e897-d421-4c06-b614-c27b2daa3aa8",
+      "sku": "Q319",
+      "name": "CROP TOP DENIM AMARRAR ESPALDA Q319"
+    },
+    {
+      "id": "b7975d31-efa3-4dee-a4bf-9ea29c3fbb69",
+      "sku": "Q307",
+      "name": "PENDIENTE POR NOMBRE Q307"
+    },
+    {
+      "id": "e73c678b-2522-435e-9b73-deeadd031b05",
+      "sku": "Q104",
+      "name": "CHALECO DENIM TRES BOTONES Q104"
+    },
+    {
+      "id": "a365b841-0d4f-411d-9805-2df919322c03",
+      "sku": "Q310",
+      "name": "CHAQUETA CORTA Q310"
+    },
+    {
+      "id": "4f7dfe8d-d747-4bab-a4a9-cc6d86512d67",
+      "sku": "Q286",
+      "name": "CHAQUETA DENIM HOMBRERAS Y METIDOS Q286"
+    },
+    {
+      "id": "9ce741ab-9382-4373-83e8-0e40939eeecf",
+      "sku": "Q189",
+      "name": "JEAN GRIS DOBLE BOTA Q189"
+    },
+    {
+      "id": "c60e252b-4ba2-44af-a79e-29f4ed621e9a",
+      "sku": "VY2857",
+      "name": "BLUSA PERLAS VY2857"
+    },
+    {
+      "id": "1605adc5-3275-4c46-b47d-46fb5fc2e13c",
+      "sku": "VY2897",
+      "name": "BLAZER CRUZADO VY2897"
+    },
+    {
+      "id": "d5809a83-1aa4-4770-ab14-3ced33f15c6f",
+      "sku": "VY2821",
+      "name": "SET PANTALON Y CHALECO DOBLE CINTURON VY2821"
+    },
+    {
+      "id": "5733d9f3-fe31-42c8-b559-acdde2b45681",
+      "sku": "Q243",
+      "name": "JEAN WIDE LEG VENA Q243"
+    },
+    {
+      "id": "2dfad4fb-bbb5-42a3-889c-31ec342c22a8",
+      "sku": "Q164",
+      "name": "CHALECO AMARRAR FRENTE Y RIBETE Q164"
+    },
+    {
+      "id": "1adfb8fb-0c70-433e-8520-9606b30da448",
+      "sku": "Q261",
+      "name": "ENTERIZO DENIM LARGO BOTONES Q261"
+    },
+    {
+      "id": "56141866-53ac-4d45-b38a-069b54dd68f9",
+      "sku": "VY2925",
+      "name": "BLUSA CORTA BANDEJA VY2925"
+    },
+    {
+      "id": "63dc8865-9366-4754-9ead-84c19a26558a",
+      "sku": "VY2818",
+      "name": "PARKA DRILL VY2818"
+    },
+    {
+      "id": "cdcd8a7f-1fb4-488b-81c4-871ba9dc4bc2",
+      "sku": "VY2836",
+      "name": "CHAQUETA BORDADA VY2836"
+    },
+    {
+      "id": "fa41a6a5-506f-4587-86da-68a40e89cd2c",
+      "sku": "VY665",
+      "name": "SET RIB FALDA Y BUSO VY665"
+    },
+    {
+      "id": "2c5af658-72dc-46eb-8942-13cac9a9fecf",
+      "sku": "VY2905",
+      "name": "PANTALON CORDON FASHION VY2905"
+    },
+    {
+      "id": "688abb88-baad-4816-a030-c43be7581e2a",
+      "sku": "VY2539",
+      "name": "BODY MANGA LARGA CUELLO ALTO VY2539"
+    },
+    {
+      "id": "da73d019-a5f1-40ba-86c5-981ecb2ea82f",
+      "sku": "VY427",
+      "name": "BLAZER VICTORY CORTO VY427"
+    },
+    {
+      "id": "6650b749-be30-4097-adba-0a2a28dd791a",
+      "sku": "T14",
+      "name": "BUZO HILO AMARRAR FRENTE T14"
+    },
+    {
+      "id": "85b91663-cd89-4ad3-9d00-37878bc0ea06",
+      "sku": "VY2900",
+      "name": "BODY PICAPIEDRA HERRAJES VY2900"
+    },
+    {
+      "id": "a48b89bd-f363-40f1-ab0a-a57101b4b86e",
+      "sku": "Q297",
+      "name": "BLUSA TENCEL TIRAS DISEÑO BUSTO Q297"
+    },
+    {
+      "id": "6b0c7f3c-0f84-47fb-91e4-8769feb9210b",
+      "sku": "Q233",
+      "name": "JEAN GRIS HUMO LICRADO Q233"
+    },
+    {
+      "id": "683e5dd5-032c-447f-a5c7-2eb62912e01e",
+      "sku": "Q299",
+      "name": "BLUSA TENCEL SISA BOTONES FORRADOS Q299"
+    },
+    {
+      "id": "044ff521-6fd9-4d97-a11d-9d275707109a",
+      "sku": "VY2928",
+      "name": "CAMISETA FRIA REGULAR YOU ARE ENOUGH VY2928"
+    },
+    {
+      "id": "2de9532b-c83d-40d3-bc83-d6c6cd6953bb",
+      "sku": "VY2931",
+      "name": "CAMISETA FRIA REGULAR YOU ARE VY2931"
+    },
+    {
+      "id": "1b7d781f-1a29-44c0-b792-ffbd3047017a",
+      "sku": "Q298",
+      "name": "BLUSA TENCEL TIRAS PINZA FRENTE Q298"
+    },
+    {
+      "id": "cb669bc5-c000-4fd6-a1e3-1a2a3f33f84b",
+      "sku": "VY2775",
+      "name": "SET BLAZER Y PANTALON HILADILLAS VY2775"
+    },
+    {
+      "id": "c0b20147-4d78-41e6-998d-97ee4adc042e",
+      "sku": "VY2863",
+      "name": "SET CHAQUETA Y PANTALON BURDA VY2863"
+    },
+    {
+      "id": "c6a38991-8e80-424b-9360-7608a2511561",
+      "sku": "VY787",
+      "name": "VESTIDO RIB VY787"
+    },
+    {
+      "id": "285421a1-8f6a-4bfe-9fb1-85e6189fefe4",
+      "sku": "VY690",
+      "name": "BLUSA CIZA RIB VY690"
+    },
+    {
+      "id": "b262ac95-1436-404d-ba5a-5a609d619496",
+      "sku": "VY2820",
+      "name": "BLUSA BOTONES Y TAPAS VY2820"
+    },
+    {
+      "id": "979432a2-8218-4174-a1e7-6fafdb8150dc",
+      "sku": "VY2823",
+      "name": "ENTERIZO DISENO ESPALDA VY2823"
+    },
+    {
+      "id": "60309f0c-7f35-486a-aa33-6c48e351848d",
+      "sku": "VY842",
+      "name": "VESTIDO HILO SISO LARGO VY842"
+    },
+    {
+      "id": "85f76699-6ecf-4ae6-bd13-8d8344667e52",
+      "sku": "VY617",
+      "name": "SET RIB BLUSA CIZA Y LEGUIS APLIQUE ADELANTE CON PRETINA VY617"
+    },
+    {
+      "id": "ad831c93-7847-42a1-9474-0af404e7e7f0",
+      "sku": "Q291",
+      "name": "SET DENIM BLUSA ESCOTE CUADRADO BOTONES Y JEAN CLASICO Q291"
+    },
+    {
+      "id": "39b93f02-0824-4dc0-a4f1-581f0ec8ae41",
+      "sku": "VY2819",
+      "name": "SET ZAFIRO CHALECO VY2819"
+    },
+    {
+      "id": "b76e3034-2702-4ccf-ae3d-de82e5e5e90f",
+      "sku": "Q293",
+      "name": "BLUSA DENIM ESCOTE ESPALDA Y PINSAS DELANTERAS Q293"
+    },
+    {
+      "id": "6221db41-e992-4fef-8afd-edd1cc425d87",
+      "sku": "Q315",
+      "name": "JEAN CLASICO VELVETIN Q315"
+    },
+    {
+      "id": "b3cae558-457b-43a1-9070-0dee1c31fcae",
+      "sku": "VY2814",
+      "name": "BODY MANGA LARGA ESCOTE ESPALDA VY2814"
+    },
+    {
+      "id": "4d567d52-a731-446b-9593-22e05a6167d4",
+      "sku": "VY2680",
+      "name": "BLUSA PUNTO ROMA MANGA CORTA VY2680"
+    },
+    {
+      "id": "ef1e2147-c32e-4dc9-a55b-9d39ab32b955",
+      "sku": "VY2747",
+      "name": "SET CHALECO Y PANTALON BOTONES FORRADOS VY2747"
+    },
+    {
+      "id": "74ed1573-e98c-49af-aa60-8f84a15ef215",
+      "sku": "vy2838",
+      "name": "BLUSA PICAPIEDRA BOTONES Y TAPA VY2838"
+    },
+    {
+      "id": "c458e866-037b-4e42-99e2-f57903ea0fcf",
+      "sku": "VY2614",
+      "name": "CHAQUETA CIERRE BOMBACHA VY2614"
+    },
+    {
+      "id": "40d3318b-7f0d-434e-8fc8-a73f385f08a0",
+      "sku": "VY2530",
+      "name": "SET CAMISERA Y PANTALON VY2530"
+    },
+    {
+      "id": "65451570-b495-4da2-8a37-97135b77e9cf",
+      "sku": "VY2744",
+      "name": "SET ZAFIRO PANTALON CHALECO VY2744"
+    },
+    {
+      "id": "aa7aecaf-43f1-4652-9127-c6d9a35df383",
+      "sku": "VY841",
+      "name": "SET RIB BLUSA CIZA Y FALDA VY841"
+    },
+    {
+      "id": "13746645-5499-4b7a-8c98-4b6e83bd17a9",
+      "sku": "VY2701",
+      "name": "SET CHALECO LARGO Y PANTALON BOTON DORADO VY2701"
+    },
+    {
+      "id": "990f75fd-2ee3-443d-a33e-5a128f509a8a",
+      "sku": "VY2705",
+      "name": "SET CHALECO ESCOTE ESPALDA Y PANTALON RIBETE  VY2705"
+    },
+    {
+      "id": "29765f33-b5c9-4bdc-91b4-c63f7946297f",
+      "sku": "VY2752",
+      "name": "SET CHALECO ESCOTE CUADRADO Y PANTALON VY2752"
+    },
+    {
+      "id": "f0c5850a-fe1a-4614-97cd-c3f152c5bfe4",
+      "sku": "VY2735",
+      "name": "SET CHALECO CORTO HERRAJE Y PANTALON VY2735"
+    },
+    {
+      "id": "68f1d760-0e1c-48f7-b0ce-2fcd18a0b8fb",
+      "sku": "VY2707",
+      "name": "SET CHALECO CON CINTURON Y PANTALON EN LINO VY2707"
+    },
+    {
+      "id": "5841edf8-20e8-4b28-b21f-f8e90f36bef7",
+      "sku": "VY1067",
+      "name": "SET BLUSA CORTA APLIQUE EN BOLSILLO Y PANTALON CON DOBLE CORDON  VY1067"
+    },
+    {
+      "id": "b3bbbe8b-6417-4ac7-9dd8-92ffacfd0cc4",
+      "sku": "VY2488",
+      "name": "PANTALON ENCAJE CON SHORT INTERNO VY2488"
+    },
+    {
+      "id": "ea5df4ac-68e5-4e65-87ce-5fae7c139d59",
+      "sku": "VY2202",
+      "name": "PANTALON CON CORREA VY2202"
+    },
+    {
+      "id": "b532070f-eb28-430c-ad78-d33f533c244f",
+      "sku": "VY769",
+      "name": "PANTALON CINTURON DELGADO VY769"
+    },
+    {
+      "id": "8a372825-932d-470b-ace4-06c3b3b5ab2a",
+      "sku": "VY2683",
+      "name": "PANTALON BICOLOR BOTA RECTA  VY2683"
+    },
+    {
+      "id": "e79fe2ad-a00a-43d8-a6a2-622c5235dc46",
+      "sku": "Q279",
+      "name": "JEAN RIGIDO LINEA TACHES Q279"
+    },
+    {
+      "id": "8ca31f91-b038-4e0a-aa08-a115e0dabe7d",
+      "sku": "Q284",
+      "name": "JEAN CLASICO COLORES Q284"
+    },
+    {
+      "id": "2437a88b-85e8-42cc-9c57-8913b14dc84c",
+      "sku": "Q276",
+      "name": "JEAN BARREL CON PRENSES EN BOTA  Q276 "
+    },
+    {
+      "id": "4195c7b5-0291-4e29-ae45-82e919f53d6e",
+      "sku": "VY2708",
+      "name": "ENTERIZO PICAPIEDRA  VY2708"
+    },
+    {
+      "id": "db4ca291-7af9-4401-b7b7-a5a19514b2dc",
+      "sku": "VY2600",
+      "name": "ENTERIZO DESTAPADO ESPALDA CINTUROA RESORTADA VY2600"
+    },
+    {
+      "id": "9e932356-3a65-4887-9116-0c86129592a4",
+      "sku": "VY559",
+      "name": "CROPTO RIB TIRAS VY559"
+    },
+    {
+      "id": "adc06b34-1676-42d5-8886-082cbd688073",
+      "sku": "VY2743",
+      "name": "CAMISETA FRIA REGULAR SHINE BRIGHTER VY2743"
+    },
+    {
+      "id": "c96f338f-b2cf-4e2a-801c-7328e4730a63",
+      "sku": "260207",
+      "name": "CAMISETA CAPRI SLIM AND TOGETHER 260207"
+    },
+    {
+      "id": "38e2f5aa-1df7-43b9-b9ec-65c73d15ceb4",
+      "sku": "VY2770",
+      "name": "BODY MANGA CORTA BICOLOR VY2770"
+    },
+    {
+      "id": "ecfddbf2-f413-4977-ad64-62fee76382e1",
+      "sku": "VY854",
+      "name": "BODY HILO CUELLO REDONDO VY854"
+    },
+    {
+      "id": "95a2cb9e-422d-4cea-9ec2-133fe8ddd5d6",
+      "sku": "VY813",
+      "name": "BODY CON CUELLO NUDO ADELANTE  VY813"
+    },
+    {
+      "id": "bb6086a1-60df-452f-a437-df12dab6895f",
+      "sku": "VY2718",
+      "name": "BLUSA RIB LARGA CIZA SESGO COLORES VY2718"
+    },
+    {
+      "id": "46662a67-3f99-4fe1-9bc6-902d1ef73d3f",
+      "sku": "VY2815",
+      "name": "BLUSA PICAPIEDRA  VY2815"
+    },
+    {
+      "id": "475759c8-d64e-4691-8033-050796303611",
+      "sku": "VY2076",
+      "name": "BLUSA MANGA CORTA ABIERTA ESPALDA VY2076"
+    },
+    {
+      "id": "c00e69cc-4999-417b-8494-4704e81959ff",
+      "sku": "Q300",
+      "name": "BLUSA DENIM TIPO CHALECO BOTONES  Q300"
+    },
+    {
+      "id": "342c5224-e934-4f0e-bc89-686292598ac2",
+      "sku": "VY2797",
+      "name": "BLUSA CUELLO ALTO MULTI BOTON VY2797"
+    },
+    {
+      "id": "4932edf7-422c-41b0-848e-46c070ba40d4",
+      "sku": "VY429",
+      "name": "BLAZER VICTORY LARGO VY429"
+    },
+    {
+      "id": "1ab46697-e783-4c31-89f5-e41ff091675e",
+      "sku": "Q143",
+      "name": "BERMUDA JEAN Q143"
+    }
+  ],
+  "importedAt": "2026-10-23T16:45:12.360Z",
+  "missingImages": [
+    {
+      "id": "69f5e560-08ad-488a-a6bc-d9296cd55bdf",
+      "sku": "Q001",
+      "name": "SHORT VICTORY EN JEAN Q001"
+    },
+    {
+      "id": "084d6f25-5512-4683-aff0-fe71a408d3ad",
+      "sku": "VY1000",
+      "name": "TOP CORTO ESTILO PRINCESA BRILLANTE VY1000"
+    }
+  ]
+}

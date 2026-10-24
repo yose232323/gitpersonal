@@ -16177,6 +16177,1546 @@
       "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792193634/alma-latina/catalog/bd4dc8c68073f378c0bfba8880e2ff4fb7a9e7393e192519cd21850ea14e3885.jpg",
       "bytes": 179359,
       "verifiedAt": "2026-10-16T23:33:57.731Z"
+    },
+    "0cd026251afd3ddb8fa8dbcf13d458ad125a9d94e36dea976bc674de1d133e14": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/0f531a33-5b62-4201-a7d3-f27f81b4e018.jpg",
+      "publicId": "alma-latina/catalog/0cd026251afd3ddb8fa8dbcf13d458ad125a9d94e36dea976bc674de1d133e14",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863302/alma-latina/catalog/0cd026251afd3ddb8fa8dbcf13d458ad125a9d94e36dea976bc674de1d133e14.jpg",
+      "bytes": 182484,
+      "verifiedAt": "2026-10-24T17:35:03.513Z"
+    },
+    "92bc9ac3b76585cbffaed10b8c04a20fb78f0b434933912510bf37454b4937b7": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/94fe2e60-d1a3-4185-b4c2-6cf9904cbdb1.jpg",
+      "publicId": "alma-latina/catalog/92bc9ac3b76585cbffaed10b8c04a20fb78f0b434933912510bf37454b4937b7",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863304/alma-latina/catalog/92bc9ac3b76585cbffaed10b8c04a20fb78f0b434933912510bf37454b4937b7.jpg",
+      "bytes": 119976,
+      "verifiedAt": "2026-10-24T17:35:04.655Z"
+    },
+    "b90fd9152ee855b63609df9db3a5c76b8220484aa31a3d6138688b161e35d2b9": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/deace8d3-2fc8-4f25-a865-fdaa3ca68e96.jpg",
+      "publicId": "alma-latina/catalog/b90fd9152ee855b63609df9db3a5c76b8220484aa31a3d6138688b161e35d2b9",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863305/alma-latina/catalog/b90fd9152ee855b63609df9db3a5c76b8220484aa31a3d6138688b161e35d2b9.jpg",
+      "bytes": 179835,
+      "verifiedAt": "2026-10-24T17:35:05.924Z"
+    },
+    "1ab72f2df2861a8a55e9f03fb958f28ad457b4891654bf5641687558711e0a94": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/5db2e581-821b-4992-b8eb-1579815d0dcd.jpg",
+      "publicId": "alma-latina/catalog/1ab72f2df2861a8a55e9f03fb958f28ad457b4891654bf5641687558711e0a94",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863306/alma-latina/catalog/1ab72f2df2861a8a55e9f03fb958f28ad457b4891654bf5641687558711e0a94.jpg",
+      "bytes": 157225,
+      "verifiedAt": "2026-10-24T17:35:07.023Z"
+    },
+    "373787ebb38a40ca4b15de3c1a9a5036b7935e73a1054379ae47d917c1dd082e": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/9d948692-4458-4dc0-b1bf-6948c4d55f27.jpeg",
+      "publicId": "alma-latina/catalog/373787ebb38a40ca4b15de3c1a9a5036b7935e73a1054379ae47d917c1dd082e",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863307/alma-latina/catalog/373787ebb38a40ca4b15de3c1a9a5036b7935e73a1054379ae47d917c1dd082e.jpg",
+      "bytes": 137647,
+      "verifiedAt": "2026-10-24T17:35:07.992Z"
+    },
+    "015b413457a9ff2c9a424f4492e738e077ca360df2d05fe1f137945805e03592": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/b3bcd339-e326-4814-932d-c939324789b2.jpg",
+      "publicId": "alma-latina/catalog/015b413457a9ff2c9a424f4492e738e077ca360df2d05fe1f137945805e03592",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863308/alma-latina/catalog/015b413457a9ff2c9a424f4492e738e077ca360df2d05fe1f137945805e03592.jpg",
+      "bytes": 143823,
+      "verifiedAt": "2026-10-24T17:35:08.988Z"
+    },
+    "2a4bb2447badcb879e9899eb29a55181ec090fedca620061a592290494f463e8": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/f8592fd4-fca2-4863-b330-0b074cddd4e0.jpg",
+      "publicId": "alma-latina/catalog/2a4bb2447badcb879e9899eb29a55181ec090fedca620061a592290494f463e8",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863309/alma-latina/catalog/2a4bb2447badcb879e9899eb29a55181ec090fedca620061a592290494f463e8.jpg",
+      "bytes": 157225,
+      "verifiedAt": "2026-10-24T17:35:10.013Z"
+    },
+    "44c971a0f4fbd0cd31342dedd55ef07f524505264bab203f05b86ff7716f8a74": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/658ad4d7-f6b2-4f67-bf5b-4589a339d0df.jpg",
+      "publicId": "alma-latina/catalog/44c971a0f4fbd0cd31342dedd55ef07f524505264bab203f05b86ff7716f8a74",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863310/alma-latina/catalog/44c971a0f4fbd0cd31342dedd55ef07f524505264bab203f05b86ff7716f8a74.jpg",
+      "bytes": 166260,
+      "verifiedAt": "2026-10-24T17:35:10.976Z"
+    },
+    "1b5c5e59e34581d3cbe16d656d8dbf006d1d2e432ae5b36c879f5fbb90ad5ad9": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/c6c814ef-3279-4a1a-9020-667e9fc8f8e5.jpeg",
+      "publicId": "alma-latina/catalog/1b5c5e59e34581d3cbe16d656d8dbf006d1d2e432ae5b36c879f5fbb90ad5ad9",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863311/alma-latina/catalog/1b5c5e59e34581d3cbe16d656d8dbf006d1d2e432ae5b36c879f5fbb90ad5ad9.jpg",
+      "bytes": 98553,
+      "verifiedAt": "2026-10-24T17:35:11.929Z"
+    },
+    "621c0b38185ea5cc88b7f1713e3bfa84055d22cbebf3663f3dd93e9c9ec37aa4": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/554c6493-30e8-4c35-906c-f28a98e164cd.jpg",
+      "publicId": "alma-latina/catalog/621c0b38185ea5cc88b7f1713e3bfa84055d22cbebf3663f3dd93e9c9ec37aa4",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863312/alma-latina/catalog/621c0b38185ea5cc88b7f1713e3bfa84055d22cbebf3663f3dd93e9c9ec37aa4.jpg",
+      "bytes": 155522,
+      "verifiedAt": "2026-10-24T17:35:13.237Z"
+    },
+    "0f63014567ff505f43da8f717d752df391f019796ee581f6014c54d1e0c6560b": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/948d85f2-d723-4cec-943b-bf3a5f562625.jpg",
+      "publicId": "alma-latina/catalog/0f63014567ff505f43da8f717d752df391f019796ee581f6014c54d1e0c6560b",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863313/alma-latina/catalog/0f63014567ff505f43da8f717d752df391f019796ee581f6014c54d1e0c6560b.jpg",
+      "bytes": 124756,
+      "verifiedAt": "2026-10-24T17:35:14.400Z"
+    },
+    "d6a29711ece3d83b0bcf1ef74907ad645322d3e78e5db395acb784b6e110bc6a": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/cc9011f5-d080-4d2e-9c30-df534ff514a2.jpg",
+      "publicId": "alma-latina/catalog/d6a29711ece3d83b0bcf1ef74907ad645322d3e78e5db395acb784b6e110bc6a",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863315/alma-latina/catalog/d6a29711ece3d83b0bcf1ef74907ad645322d3e78e5db395acb784b6e110bc6a.jpg",
+      "bytes": 136591,
+      "verifiedAt": "2026-10-24T17:35:16.312Z"
+    },
+    "52cef7063a12f6c7a6260140585e6170847ef809d8a0bedd846c53184fe3b8be": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/0002a6b5-8905-4035-8ac7-c023fe87e69b.jpg",
+      "publicId": "alma-latina/catalog/52cef7063a12f6c7a6260140585e6170847ef809d8a0bedd846c53184fe3b8be",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863317/alma-latina/catalog/52cef7063a12f6c7a6260140585e6170847ef809d8a0bedd846c53184fe3b8be.jpg",
+      "bytes": 153948,
+      "verifiedAt": "2026-10-24T17:35:18.171Z"
+    },
+    "b4c563567d4ec570784a66aec06af39188f38fb9fc09a7b15cffe1dcbdad44c7": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/f94ff6ba-46c3-4891-93c5-9650c6fadfa4.jpg",
+      "publicId": "alma-latina/catalog/b4c563567d4ec570784a66aec06af39188f38fb9fc09a7b15cffe1dcbdad44c7",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863318/alma-latina/catalog/b4c563567d4ec570784a66aec06af39188f38fb9fc09a7b15cffe1dcbdad44c7.jpg",
+      "bytes": 141687,
+      "verifiedAt": "2026-10-24T17:35:19.186Z"
+    },
+    "d0dd3649452db9a33a1e0ccc9a66743610446cc1b557842ee458bda08324e2d2": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/11dd29b2-15fe-4ae7-9ea1-f98f04f097eb.jpg",
+      "publicId": "alma-latina/catalog/d0dd3649452db9a33a1e0ccc9a66743610446cc1b557842ee458bda08324e2d2",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863319/alma-latina/catalog/d0dd3649452db9a33a1e0ccc9a66743610446cc1b557842ee458bda08324e2d2.jpg",
+      "bytes": 140471,
+      "verifiedAt": "2026-10-24T17:35:20.308Z"
+    },
+    "e3cde692fbc849f6436eba41f19b68a5b4f1f757a1a1bbe33649cfd9656decd3": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/49e4bac0-ff37-4fb6-bf00-02074839304b.jpg",
+      "publicId": "alma-latina/catalog/e3cde692fbc849f6436eba41f19b68a5b4f1f757a1a1bbe33649cfd9656decd3",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863321/alma-latina/catalog/e3cde692fbc849f6436eba41f19b68a5b4f1f757a1a1bbe33649cfd9656decd3.jpg",
+      "bytes": 104300,
+      "verifiedAt": "2026-10-24T17:35:21.607Z"
+    },
+    "65a9f409df490240c29eba5e9cba654e5d823ddd8398a604b525761e59ba5ecd": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/ea0d7308-e862-4d1c-b3ca-92dfe50e7858.jpeg",
+      "publicId": "alma-latina/catalog/65a9f409df490240c29eba5e9cba654e5d823ddd8398a604b525761e59ba5ecd",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863322/alma-latina/catalog/65a9f409df490240c29eba5e9cba654e5d823ddd8398a604b525761e59ba5ecd.jpg",
+      "bytes": 116554,
+      "verifiedAt": "2026-10-24T17:35:22.502Z"
+    },
+    "f0a4f5a77eba74f4521a23f9b87fb8295781b7e08b0afc9bcd8ef3c8e57bc19c": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/956f62ce-a3bf-4793-bab2-eba440d66f0d.jpeg",
+      "publicId": "alma-latina/catalog/f0a4f5a77eba74f4521a23f9b87fb8295781b7e08b0afc9bcd8ef3c8e57bc19c",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863323/alma-latina/catalog/f0a4f5a77eba74f4521a23f9b87fb8295781b7e08b0afc9bcd8ef3c8e57bc19c.jpg",
+      "bytes": 118167,
+      "verifiedAt": "2026-10-24T17:35:23.441Z"
+    },
+    "5bd8318b964cac28cb8312c5fff74fee7aefd50948b9cbd7f9d4107518434ae4": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/22f0c4ce-7999-42a6-8255-2e422bb28179.jpg",
+      "publicId": "alma-latina/catalog/5bd8318b964cac28cb8312c5fff74fee7aefd50948b9cbd7f9d4107518434ae4",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863324/alma-latina/catalog/5bd8318b964cac28cb8312c5fff74fee7aefd50948b9cbd7f9d4107518434ae4.jpg",
+      "bytes": 210908,
+      "verifiedAt": "2026-10-24T17:35:24.447Z"
+    },
+    "a724ce7065950b45023c405950a7675954e424117eb704cf6b5b72717ac155a6": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/28e4e579-4305-465e-9650-feb8fbb3c010.jpg",
+      "publicId": "alma-latina/catalog/a724ce7065950b45023c405950a7675954e424117eb704cf6b5b72717ac155a6",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863325/alma-latina/catalog/a724ce7065950b45023c405950a7675954e424117eb704cf6b5b72717ac155a6.jpg",
+      "bytes": 172380,
+      "verifiedAt": "2026-10-24T17:35:25.804Z"
+    },
+    "9a98266518224d3af5a27affa348329439a17c9ac1500df1079a8658cad54a0e": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/5a778ab5-330c-40ed-9d59-298ca7df873b.jpg",
+      "publicId": "alma-latina/catalog/9a98266518224d3af5a27affa348329439a17c9ac1500df1079a8658cad54a0e",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863326/alma-latina/catalog/9a98266518224d3af5a27affa348329439a17c9ac1500df1079a8658cad54a0e.jpg",
+      "bytes": 124506,
+      "verifiedAt": "2026-10-24T17:35:27.187Z"
+    },
+    "5993482b7ca7520b8727a2ae0d71d4e950d437d4323ed5673a8a13ddbae4106e": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/0065d0a5-305d-415d-b73b-7c689d942e36.jpeg",
+      "publicId": "alma-latina/catalog/5993482b7ca7520b8727a2ae0d71d4e950d437d4323ed5673a8a13ddbae4106e",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863327/alma-latina/catalog/5993482b7ca7520b8727a2ae0d71d4e950d437d4323ed5673a8a13ddbae4106e.jpg",
+      "bytes": 138298,
+      "verifiedAt": "2026-10-24T17:35:28.031Z"
+    },
+    "a55044024559fbb978b6284265ad23d10b69d02253e20beafdd8c8bc7b22cbda": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/3de17a6f-ab38-4d3b-bcb9-4ef04e2da0e7.jpg",
+      "publicId": "alma-latina/catalog/a55044024559fbb978b6284265ad23d10b69d02253e20beafdd8c8bc7b22cbda",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863328/alma-latina/catalog/a55044024559fbb978b6284265ad23d10b69d02253e20beafdd8c8bc7b22cbda.jpg",
+      "bytes": 134326,
+      "verifiedAt": "2026-10-24T17:35:29.130Z"
+    },
+    "49f100f21a923a84ca45c93a25a04133b61593b1eb470401e0c9fee0a7fa7d87": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/3db810cb-2a82-4bf1-a0dd-16967104dde0.jpg",
+      "publicId": "alma-latina/catalog/49f100f21a923a84ca45c93a25a04133b61593b1eb470401e0c9fee0a7fa7d87",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863329/alma-latina/catalog/49f100f21a923a84ca45c93a25a04133b61593b1eb470401e0c9fee0a7fa7d87.jpg",
+      "bytes": 124128,
+      "verifiedAt": "2026-10-24T17:35:30.051Z"
+    },
+    "956b0f839edca058573bb7417030840b8a1f737bd271ae449fd7681cf332803d": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/60ed28b3-b11b-4d1a-bf84-6cc10ee4eec7.jpg",
+      "publicId": "alma-latina/catalog/956b0f839edca058573bb7417030840b8a1f737bd271ae449fd7681cf332803d",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863330/alma-latina/catalog/956b0f839edca058573bb7417030840b8a1f737bd271ae449fd7681cf332803d.jpg",
+      "bytes": 361822,
+      "verifiedAt": "2026-10-24T17:35:31.104Z"
+    },
+    "8eeeba872006c3d720aaf8b23250d24c03c66de0286d4357c67e0ac436dc507b": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/598a6e50-0199-472f-9108-c730147961ac.jpg",
+      "publicId": "alma-latina/catalog/8eeeba872006c3d720aaf8b23250d24c03c66de0286d4357c67e0ac436dc507b",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863331/alma-latina/catalog/8eeeba872006c3d720aaf8b23250d24c03c66de0286d4357c67e0ac436dc507b.jpg",
+      "bytes": 202167,
+      "verifiedAt": "2026-10-24T17:35:32.209Z"
+    },
+    "17ebb5e2d1889f89af7c950d91129b1268f37debf526cbc787df1f768624ecb2": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/bf4b87a7-9204-4998-b769-bf2036a14cd0.jpg",
+      "publicId": "alma-latina/catalog/17ebb5e2d1889f89af7c950d91129b1268f37debf526cbc787df1f768624ecb2",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863332/alma-latina/catalog/17ebb5e2d1889f89af7c950d91129b1268f37debf526cbc787df1f768624ecb2.jpg",
+      "bytes": 212534,
+      "verifiedAt": "2026-10-24T17:35:34.016Z"
+    },
+    "17a1c45f2bdddf56f4e96b57be7c58508ec1038dd00b032323591fea1f069e6b": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/998dc217-ff75-4527-8a2a-20e84a4817b0.jpg",
+      "publicId": "alma-latina/catalog/17a1c45f2bdddf56f4e96b57be7c58508ec1038dd00b032323591fea1f069e6b",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863334/alma-latina/catalog/17a1c45f2bdddf56f4e96b57be7c58508ec1038dd00b032323591fea1f069e6b.jpg",
+      "bytes": 186449,
+      "verifiedAt": "2026-10-24T17:35:35.363Z"
+    },
+    "28baf2bdd3999d43033ee79ece1ead651020e2f2d76cebf2b5f709de93aad560": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/6f57015a-21d4-4469-a3ab-da2a88b9c83a.jpg",
+      "publicId": "alma-latina/catalog/28baf2bdd3999d43033ee79ece1ead651020e2f2d76cebf2b5f709de93aad560",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863336/alma-latina/catalog/28baf2bdd3999d43033ee79ece1ead651020e2f2d76cebf2b5f709de93aad560.jpg",
+      "bytes": 195502,
+      "verifiedAt": "2026-10-24T17:35:36.547Z"
+    },
+    "02a44751d76950c76f0721191316bb8268f510f0d23d613585cd3b44ec0c6938": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/1cb65a3d-39fa-4225-9837-f241f7be9116.jpg",
+      "publicId": "alma-latina/catalog/02a44751d76950c76f0721191316bb8268f510f0d23d613585cd3b44ec0c6938",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863337/alma-latina/catalog/02a44751d76950c76f0721191316bb8268f510f0d23d613585cd3b44ec0c6938.jpg",
+      "bytes": 223063,
+      "verifiedAt": "2026-10-24T17:35:37.502Z"
+    },
+    "dd337ad325e70627484db52bd9c5c8c038f58152194eeaa9781466308b4af35b": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/8f8ea317-7b50-40ff-a831-8a9131e24fb1.jpg",
+      "publicId": "alma-latina/catalog/dd337ad325e70627484db52bd9c5c8c038f58152194eeaa9781466308b4af35b",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863338/alma-latina/catalog/dd337ad325e70627484db52bd9c5c8c038f58152194eeaa9781466308b4af35b.jpg",
+      "bytes": 115731,
+      "verifiedAt": "2026-10-24T17:35:38.538Z"
+    },
+    "0689823006c80124b98b1322990bf5b03b64232e461277dca09179afa5893499": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/ec1e566f-87c5-44c7-8839-fcad67ce8940.jpg",
+      "publicId": "alma-latina/catalog/0689823006c80124b98b1322990bf5b03b64232e461277dca09179afa5893499",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863339/alma-latina/catalog/0689823006c80124b98b1322990bf5b03b64232e461277dca09179afa5893499.jpg",
+      "bytes": 112513,
+      "verifiedAt": "2026-10-24T17:35:39.587Z"
+    },
+    "975281332f5fb3a110981e7d6f37a1ee54548b88e8ef11a60db2e8ff8b813281": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/37e49bfa-e29f-4ace-a695-a45825be8e31.jpg",
+      "publicId": "alma-latina/catalog/975281332f5fb3a110981e7d6f37a1ee54548b88e8ef11a60db2e8ff8b813281",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863340/alma-latina/catalog/975281332f5fb3a110981e7d6f37a1ee54548b88e8ef11a60db2e8ff8b813281.jpg",
+      "bytes": 155175,
+      "verifiedAt": "2026-10-24T17:35:41.694Z"
+    },
+    "4d6d8ec02af5b1f3a8900f89a734b18dcdd166fb70dd53a283e66f42cc4f7555": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/cbb8163a-bf40-4a85-bad9-40fce6fdb7ab.jpg",
+      "publicId": "alma-latina/catalog/4d6d8ec02af5b1f3a8900f89a734b18dcdd166fb70dd53a283e66f42cc4f7555",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863342/alma-latina/catalog/4d6d8ec02af5b1f3a8900f89a734b18dcdd166fb70dd53a283e66f42cc4f7555.jpg",
+      "bytes": 169755,
+      "verifiedAt": "2026-10-24T17:35:42.708Z"
+    },
+    "7c734faabd654c5a3c32b29564ef681047c27ebdedfd0bda7b66ba6e0f8ea34b": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/c664d67c-00c0-46a5-937b-d3beaf2730d8.jpg",
+      "publicId": "alma-latina/catalog/7c734faabd654c5a3c32b29564ef681047c27ebdedfd0bda7b66ba6e0f8ea34b",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863343/alma-latina/catalog/7c734faabd654c5a3c32b29564ef681047c27ebdedfd0bda7b66ba6e0f8ea34b.jpg",
+      "bytes": 185100,
+      "verifiedAt": "2026-10-24T17:35:43.826Z"
+    },
+    "bf2493a410c689b6c13346d378039234dd433fe398095536ac73ff543b350396": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/22462bab-93d2-47f2-b279-54466a0fde77.jpg",
+      "publicId": "alma-latina/catalog/bf2493a410c689b6c13346d378039234dd433fe398095536ac73ff543b350396",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863344/alma-latina/catalog/bf2493a410c689b6c13346d378039234dd433fe398095536ac73ff543b350396.jpg",
+      "bytes": 164615,
+      "verifiedAt": "2026-10-24T17:35:44.856Z"
+    },
+    "1f4dca79fa7d445e6e5693af69105e180e045087853796e77fbfb68428ebf928": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/5e7d5d10-9465-4e8a-a02c-a0c83dcc4985.jpg",
+      "publicId": "alma-latina/catalog/1f4dca79fa7d445e6e5693af69105e180e045087853796e77fbfb68428ebf928",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863345/alma-latina/catalog/1f4dca79fa7d445e6e5693af69105e180e045087853796e77fbfb68428ebf928.jpg",
+      "bytes": 118307,
+      "verifiedAt": "2026-10-24T17:35:45.771Z"
+    },
+    "454890e2c1b13f67ad3e6c10a9ef46ebe751909928cda949407774abd1c4bdd6": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/3fca0a77-9652-4d05-9f0d-8cc09f7aa04d.jpg",
+      "publicId": "alma-latina/catalog/454890e2c1b13f67ad3e6c10a9ef46ebe751909928cda949407774abd1c4bdd6",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863346/alma-latina/catalog/454890e2c1b13f67ad3e6c10a9ef46ebe751909928cda949407774abd1c4bdd6.jpg",
+      "bytes": 167075,
+      "verifiedAt": "2026-10-24T17:35:47.157Z"
+    },
+    "8f9074dca020df4dd379d8b2629b600a2b2bba897042c884fbf4db38ec3ebc21": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/2292ecee-5e23-44aa-92e8-95735c4f911a.jpg",
+      "publicId": "alma-latina/catalog/8f9074dca020df4dd379d8b2629b600a2b2bba897042c884fbf4db38ec3ebc21",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863347/alma-latina/catalog/8f9074dca020df4dd379d8b2629b600a2b2bba897042c884fbf4db38ec3ebc21.jpg",
+      "bytes": 154563,
+      "verifiedAt": "2026-10-24T17:35:48.103Z"
+    },
+    "ff7e49332e7cac801a6c69b821f32ae1d3ad407d6b289ba2c620bb6b599b2209": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/d5988922-ab3d-4b53-a05a-c4437fcd9f54.jpg",
+      "publicId": "alma-latina/catalog/ff7e49332e7cac801a6c69b821f32ae1d3ad407d6b289ba2c620bb6b599b2209",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863348/alma-latina/catalog/ff7e49332e7cac801a6c69b821f32ae1d3ad407d6b289ba2c620bb6b599b2209.jpg",
+      "bytes": 115772,
+      "verifiedAt": "2026-10-24T17:35:49.529Z"
+    },
+    "ff2fd54505ad5c92d2047d36cc93deae3c5aedbff2e188f52ba60b42b3cab67d": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/e0748936-6e27-413a-8f11-6caf76bcc275.jpg",
+      "publicId": "alma-latina/catalog/ff2fd54505ad5c92d2047d36cc93deae3c5aedbff2e188f52ba60b42b3cab67d",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863350/alma-latina/catalog/ff2fd54505ad5c92d2047d36cc93deae3c5aedbff2e188f52ba60b42b3cab67d.jpg",
+      "bytes": 116485,
+      "verifiedAt": "2026-10-24T17:35:50.405Z"
+    },
+    "10e202fc82e1f8cfe1ae0fc148ec529613e0fac4d2e369b0ce14c19a55afdb7e": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/fca0ef60-8f6a-44ac-b8f3-d73a0f533921.jpg",
+      "publicId": "alma-latina/catalog/10e202fc82e1f8cfe1ae0fc148ec529613e0fac4d2e369b0ce14c19a55afdb7e",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863350/alma-latina/catalog/10e202fc82e1f8cfe1ae0fc148ec529613e0fac4d2e369b0ce14c19a55afdb7e.jpg",
+      "bytes": 116835,
+      "verifiedAt": "2026-10-24T17:35:51.324Z"
+    },
+    "57325bd2dc808569f37306f4de1954f50ef2bd357940eb789091c2a5e7110f93": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/b75b988f-6409-4359-9901-91f985db541a.jpg",
+      "publicId": "alma-latina/catalog/57325bd2dc808569f37306f4de1954f50ef2bd357940eb789091c2a5e7110f93",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863351/alma-latina/catalog/57325bd2dc808569f37306f4de1954f50ef2bd357940eb789091c2a5e7110f93.jpg",
+      "bytes": 139702,
+      "verifiedAt": "2026-10-24T17:35:53.048Z"
+    },
+    "a9971fb561fba957053a6df136772fb59c49f1fb6e3f0916926c6cb349454637": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/fc1fc722-78cb-43a4-8f92-771a93ab8211.jpg",
+      "publicId": "alma-latina/catalog/a9971fb561fba957053a6df136772fb59c49f1fb6e3f0916926c6cb349454637",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863353/alma-latina/catalog/a9971fb561fba957053a6df136772fb59c49f1fb6e3f0916926c6cb349454637.jpg",
+      "bytes": 125021,
+      "verifiedAt": "2026-10-24T17:35:54.049Z"
+    },
+    "221db84954992f4bf9f407ac5414e1fba6c4772ec80db21b2b96669e9cb5855f": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/17e80bb3-4be6-482f-814b-82445f6c4884.jpg",
+      "publicId": "alma-latina/catalog/221db84954992f4bf9f407ac5414e1fba6c4772ec80db21b2b96669e9cb5855f",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863354/alma-latina/catalog/221db84954992f4bf9f407ac5414e1fba6c4772ec80db21b2b96669e9cb5855f.jpg",
+      "bytes": 145074,
+      "verifiedAt": "2026-10-24T17:35:55.349Z"
+    },
+    "16d728198f301bb38ca156ef78436f04d1f666ee3ec463c8e9c56c6405fda806": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/d9633165-260d-4204-8c96-9bd017fb0268.jpg",
+      "publicId": "alma-latina/catalog/16d728198f301bb38ca156ef78436f04d1f666ee3ec463c8e9c56c6405fda806",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863355/alma-latina/catalog/16d728198f301bb38ca156ef78436f04d1f666ee3ec463c8e9c56c6405fda806.jpg",
+      "bytes": 119073,
+      "verifiedAt": "2026-10-24T17:35:56.366Z"
+    },
+    "908635a9b5572848ae2185668e730374f2765e3d180c29bbec755fe3f94ee1ec": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/ab6a91a8-3e84-4a1a-953f-a75cc6a2feaa.jpg",
+      "publicId": "alma-latina/catalog/908635a9b5572848ae2185668e730374f2765e3d180c29bbec755fe3f94ee1ec",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863356/alma-latina/catalog/908635a9b5572848ae2185668e730374f2765e3d180c29bbec755fe3f94ee1ec.jpg",
+      "bytes": 139106,
+      "verifiedAt": "2026-10-24T17:35:57.222Z"
+    },
+    "e2cff65cfae25ffb2d846cfd3f75a18afaa944c4fc1739066fb06caf3855310f": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/387a91b2-ef23-4740-993b-165e1bd1990e.jpg",
+      "publicId": "alma-latina/catalog/e2cff65cfae25ffb2d846cfd3f75a18afaa944c4fc1739066fb06caf3855310f",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863357/alma-latina/catalog/e2cff65cfae25ffb2d846cfd3f75a18afaa944c4fc1739066fb06caf3855310f.jpg",
+      "bytes": 138584,
+      "verifiedAt": "2026-10-24T17:35:58.098Z"
+    },
+    "ca2ebbb0d9ebe3d871e82ff1376387ff2e5abec6c739f223c9cd901a99b78b10": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/636302fb-5823-404d-a587-d19faa29a771.jpg",
+      "publicId": "alma-latina/catalog/ca2ebbb0d9ebe3d871e82ff1376387ff2e5abec6c739f223c9cd901a99b78b10",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863358/alma-latina/catalog/ca2ebbb0d9ebe3d871e82ff1376387ff2e5abec6c739f223c9cd901a99b78b10.jpg",
+      "bytes": 112680,
+      "verifiedAt": "2026-10-24T17:35:59.102Z"
+    },
+    "d35e2463ca75be1cd3a5e35173babefff18a65876ad476f47d3fc03fd4a63d2b": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/5622efdc-5307-415a-a4f0-e9e551e54cc1.jpg",
+      "publicId": "alma-latina/catalog/d35e2463ca75be1cd3a5e35173babefff18a65876ad476f47d3fc03fd4a63d2b",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863359/alma-latina/catalog/d35e2463ca75be1cd3a5e35173babefff18a65876ad476f47d3fc03fd4a63d2b.jpg",
+      "bytes": 125194,
+      "verifiedAt": "2026-10-24T17:35:59.982Z"
+    },
+    "2ce83b199ad413a4b3ca657eec498bc2124c309325933a772fde14fde2743f2c": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/a4d65eee-4018-4da8-97ab-eb27fb064145.jpg",
+      "publicId": "alma-latina/catalog/2ce83b199ad413a4b3ca657eec498bc2124c309325933a772fde14fde2743f2c",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863360/alma-latina/catalog/2ce83b199ad413a4b3ca657eec498bc2124c309325933a772fde14fde2743f2c.jpg",
+      "bytes": 122473,
+      "verifiedAt": "2026-10-24T17:36:00.975Z"
+    },
+    "ee40f7e000ab639e3c4a72b4a63c2f51b81e7e580dfb2004f5204cd8a2d2da1e": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/7c41836d-5847-4a05-9ce5-b9f93aecba03.jpg",
+      "publicId": "alma-latina/catalog/ee40f7e000ab639e3c4a72b4a63c2f51b81e7e580dfb2004f5204cd8a2d2da1e",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863361/alma-latina/catalog/ee40f7e000ab639e3c4a72b4a63c2f51b81e7e580dfb2004f5204cd8a2d2da1e.jpg",
+      "bytes": 119593,
+      "verifiedAt": "2026-10-24T17:36:01.861Z"
+    },
+    "0e3a25068a6e7b4df7ff9477d4d7d9bad0600c7f689827f456efa9ef175aed5d": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/de7a91b0-f10a-4fb9-9b19-8b03d9bedcee.jpg",
+      "publicId": "alma-latina/catalog/0e3a25068a6e7b4df7ff9477d4d7d9bad0600c7f689827f456efa9ef175aed5d",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863362/alma-latina/catalog/0e3a25068a6e7b4df7ff9477d4d7d9bad0600c7f689827f456efa9ef175aed5d.jpg",
+      "bytes": 117618,
+      "verifiedAt": "2026-10-24T17:36:02.888Z"
+    },
+    "325c4094219148e5f30ef160e7261f102f6224eae606354fd9a2cc1eac6e180f": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/23e45045-c042-4eb0-a3bf-a819f5268677.jpg",
+      "publicId": "alma-latina/catalog/325c4094219148e5f30ef160e7261f102f6224eae606354fd9a2cc1eac6e180f",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863363/alma-latina/catalog/325c4094219148e5f30ef160e7261f102f6224eae606354fd9a2cc1eac6e180f.jpg",
+      "bytes": 108652,
+      "verifiedAt": "2026-10-24T17:36:03.938Z"
+    },
+    "130558e9baff8b06127f66f1b481503f827bff2e4fa5e68d3fde31f5d227b4dd": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/39761491-5f70-4fba-8864-add47755979f.jpeg",
+      "publicId": "alma-latina/catalog/130558e9baff8b06127f66f1b481503f827bff2e4fa5e68d3fde31f5d227b4dd",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863364/alma-latina/catalog/130558e9baff8b06127f66f1b481503f827bff2e4fa5e68d3fde31f5d227b4dd.jpg",
+      "bytes": 140658,
+      "verifiedAt": "2026-10-24T17:36:04.841Z"
+    },
+    "afbee8cfcb080330810fd96c4bd38dc5170ebe9856c169d02d93bcfe506e7aab": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/b35ddbe6-0b87-4d4d-bb43-ef7be0debf95.jpg",
+      "publicId": "alma-latina/catalog/afbee8cfcb080330810fd96c4bd38dc5170ebe9856c169d02d93bcfe506e7aab",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863365/alma-latina/catalog/afbee8cfcb080330810fd96c4bd38dc5170ebe9856c169d02d93bcfe506e7aab.jpg",
+      "bytes": 124223,
+      "verifiedAt": "2026-10-24T17:36:05.965Z"
+    },
+    "1387d63f3737533b881c6864598eff689aeae03a0c9c36e8720104a9f57377ce": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/cd0385c0-afef-4db0-be5a-869b418fe166.jpg",
+      "publicId": "alma-latina/catalog/1387d63f3737533b881c6864598eff689aeae03a0c9c36e8720104a9f57377ce",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863366/alma-latina/catalog/1387d63f3737533b881c6864598eff689aeae03a0c9c36e8720104a9f57377ce.jpg",
+      "bytes": 149759,
+      "verifiedAt": "2026-10-24T17:36:07.358Z"
+    },
+    "1f4576041b01e5191a87c0109557a7552b134669458d1065871139ce5221d7c7": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/b6f4d6f2-f23d-45d8-a543-db51e553ba53.jpg",
+      "publicId": "alma-latina/catalog/1f4576041b01e5191a87c0109557a7552b134669458d1065871139ce5221d7c7",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863367/alma-latina/catalog/1f4576041b01e5191a87c0109557a7552b134669458d1065871139ce5221d7c7.jpg",
+      "bytes": 115102,
+      "verifiedAt": "2026-10-24T17:36:08.241Z"
+    },
+    "ca8da59b9280ae24e83a7af820fedaab851eb3d14075abc7ebce29bf339cfcae": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/62284131-35d2-45a2-872b-f5c6b9d89499.jpg",
+      "publicId": "alma-latina/catalog/ca8da59b9280ae24e83a7af820fedaab851eb3d14075abc7ebce29bf339cfcae",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863368/alma-latina/catalog/ca8da59b9280ae24e83a7af820fedaab851eb3d14075abc7ebce29bf339cfcae.jpg",
+      "bytes": 113939,
+      "verifiedAt": "2026-10-24T17:36:09.086Z"
+    },
+    "5849078671dc8c3a4aa9abb4f6485bd25b727a0aad372e10372333df69b74f64": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/68f38c98-fabb-4611-b19e-f0cdc4aa9fb5.jpg",
+      "publicId": "alma-latina/catalog/5849078671dc8c3a4aa9abb4f6485bd25b727a0aad372e10372333df69b74f64",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863369/alma-latina/catalog/5849078671dc8c3a4aa9abb4f6485bd25b727a0aad372e10372333df69b74f64.jpg",
+      "bytes": 126011,
+      "verifiedAt": "2026-10-24T17:36:10.001Z"
+    },
+    "78517037d8615f441d333327a5b19209b5cec919372cbd13dec26bc6fdb4c9dc": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/34bbc6a4-2859-46d4-aea6-25057c5321f2.jpg",
+      "publicId": "alma-latina/catalog/78517037d8615f441d333327a5b19209b5cec919372cbd13dec26bc6fdb4c9dc",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863370/alma-latina/catalog/78517037d8615f441d333327a5b19209b5cec919372cbd13dec26bc6fdb4c9dc.jpg",
+      "bytes": 137846,
+      "verifiedAt": "2026-10-24T17:36:11.157Z"
+    },
+    "d105683bfb7bb907edfad6bc6fe60533ab1d8ddb64af90496ff251f442b66700": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/155b2e54-33a0-4bbf-9a07-da25a7b9361d.jpg",
+      "publicId": "alma-latina/catalog/d105683bfb7bb907edfad6bc6fe60533ab1d8ddb64af90496ff251f442b66700",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863371/alma-latina/catalog/d105683bfb7bb907edfad6bc6fe60533ab1d8ddb64af90496ff251f442b66700.jpg",
+      "bytes": 235300,
+      "verifiedAt": "2026-10-24T17:36:12.583Z"
+    },
+    "02fed42a5b0703a364cd87a5f2bf27f7b406dc1d05aa71631b0dce016c00ccdf": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/afae1bc2-e2b4-4e7d-b7f7-ee61ceb35eb4.jpg",
+      "publicId": "alma-latina/catalog/02fed42a5b0703a364cd87a5f2bf27f7b406dc1d05aa71631b0dce016c00ccdf",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863373/alma-latina/catalog/02fed42a5b0703a364cd87a5f2bf27f7b406dc1d05aa71631b0dce016c00ccdf.jpg",
+      "bytes": 107125,
+      "verifiedAt": "2026-10-24T17:36:13.589Z"
+    },
+    "e248092219060e122ea983459f0f1157d01bbb9770f40c403f75b7f17617ac80": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/4ce0ae34-e01a-46a1-83df-96881eade844.jpg",
+      "publicId": "alma-latina/catalog/e248092219060e122ea983459f0f1157d01bbb9770f40c403f75b7f17617ac80",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863374/alma-latina/catalog/e248092219060e122ea983459f0f1157d01bbb9770f40c403f75b7f17617ac80.jpg",
+      "bytes": 145258,
+      "verifiedAt": "2026-10-24T17:36:14.599Z"
+    },
+    "0b66935e71152ced5510c0f97f000bd1e1968c524bcf33c10a34ed0502e0438e": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/5f4c71ff-c716-418d-8bb3-88c90971a5aa.jpg",
+      "publicId": "alma-latina/catalog/0b66935e71152ced5510c0f97f000bd1e1968c524bcf33c10a34ed0502e0438e",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863375/alma-latina/catalog/0b66935e71152ced5510c0f97f000bd1e1968c524bcf33c10a34ed0502e0438e.jpg",
+      "bytes": 101564,
+      "verifiedAt": "2026-10-24T17:36:15.660Z"
+    },
+    "68fc76703eec5ad271c97ec5f103d02a28c15133453d9bda399549f05c3c6df8": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/943ee036-6f98-44a7-887e-8612779ea128.jpg",
+      "publicId": "alma-latina/catalog/68fc76703eec5ad271c97ec5f103d02a28c15133453d9bda399549f05c3c6df8",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863376/alma-latina/catalog/68fc76703eec5ad271c97ec5f103d02a28c15133453d9bda399549f05c3c6df8.jpg",
+      "bytes": 111427,
+      "verifiedAt": "2026-10-24T17:36:16.548Z"
+    },
+    "0a6a1ec92cbb62fa37611c12fd2f6dbd1abb6cecd751e480cd34b91c1e17f8b1": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/64086a8c-9c6d-4077-a3bf-1a22b42615ee.jpg",
+      "publicId": "alma-latina/catalog/0a6a1ec92cbb62fa37611c12fd2f6dbd1abb6cecd751e480cd34b91c1e17f8b1",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863377/alma-latina/catalog/0a6a1ec92cbb62fa37611c12fd2f6dbd1abb6cecd751e480cd34b91c1e17f8b1.jpg",
+      "bytes": 118786,
+      "verifiedAt": "2026-10-24T17:36:17.605Z"
+    },
+    "280d320d39339b3eb7c30989deb17fa3762048d76c55c66a71b32b1b4aa82b2e": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/4911539f-8aab-4611-bacc-70c5229e2b27.jpg",
+      "publicId": "alma-latina/catalog/280d320d39339b3eb7c30989deb17fa3762048d76c55c66a71b32b1b4aa82b2e",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863378/alma-latina/catalog/280d320d39339b3eb7c30989deb17fa3762048d76c55c66a71b32b1b4aa82b2e.jpg",
+      "bytes": 134026,
+      "verifiedAt": "2026-10-24T17:36:18.677Z"
+    },
+    "f72ad847b317e59224980fe44697bd484df7082106acc52e2dddcf1926c47e8e": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/cf8e04de-d108-4385-8736-267488a43192.jpg",
+      "publicId": "alma-latina/catalog/f72ad847b317e59224980fe44697bd484df7082106acc52e2dddcf1926c47e8e",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863379/alma-latina/catalog/f72ad847b317e59224980fe44697bd484df7082106acc52e2dddcf1926c47e8e.jpg",
+      "bytes": 110857,
+      "verifiedAt": "2026-10-24T17:36:19.659Z"
+    },
+    "25ab956cc0e0d979eac540521257d369ce8a845f3e0c0fc490253d34d4c8b3c2": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/4b253a72-40b3-4090-841a-800840c9ec86.jpg",
+      "publicId": "alma-latina/catalog/25ab956cc0e0d979eac540521257d369ce8a845f3e0c0fc490253d34d4c8b3c2",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863380/alma-latina/catalog/25ab956cc0e0d979eac540521257d369ce8a845f3e0c0fc490253d34d4c8b3c2.jpg",
+      "bytes": 106255,
+      "verifiedAt": "2026-10-24T17:36:20.596Z"
+    },
+    "df65f8eaf6a5c14eda9f91603c78fd63039e86db28bf3bcd14bf42e2b0226c97": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/a22c1601-edc2-43c2-bbb9-7bfcb46c8802.jpg",
+      "publicId": "alma-latina/catalog/df65f8eaf6a5c14eda9f91603c78fd63039e86db28bf3bcd14bf42e2b0226c97",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863381/alma-latina/catalog/df65f8eaf6a5c14eda9f91603c78fd63039e86db28bf3bcd14bf42e2b0226c97.jpg",
+      "bytes": 113557,
+      "verifiedAt": "2026-10-24T17:36:21.492Z"
+    },
+    "22d30d2b0b5074db51449dacd373da82924ecea1c60ab8c1fa2ca44cfe972fbf": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/7060221f-8e1a-4f14-9cd5-2aa192dd755b.jpg",
+      "publicId": "alma-latina/catalog/22d30d2b0b5074db51449dacd373da82924ecea1c60ab8c1fa2ca44cfe972fbf",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863382/alma-latina/catalog/22d30d2b0b5074db51449dacd373da82924ecea1c60ab8c1fa2ca44cfe972fbf.jpg",
+      "bytes": 110717,
+      "verifiedAt": "2026-10-24T17:36:22.446Z"
+    },
+    "2c92f877cbad39d30c708f0c5a163f7906247c5bf7d95d6ae18e814641753945": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/6fa4c136-c722-4cad-bb98-fa9b6f21edf8.jpg",
+      "publicId": "alma-latina/catalog/2c92f877cbad39d30c708f0c5a163f7906247c5bf7d95d6ae18e814641753945",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863383/alma-latina/catalog/2c92f877cbad39d30c708f0c5a163f7906247c5bf7d95d6ae18e814641753945.jpg",
+      "bytes": 113032,
+      "verifiedAt": "2026-10-24T17:36:23.369Z"
+    },
+    "618817df1faacc39a42a777abea6530a0009ce00f25ac8d19491040a86153a76": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/a94e80d6-5682-4b5c-a94f-25e55e7800f4.jpg",
+      "publicId": "alma-latina/catalog/618817df1faacc39a42a777abea6530a0009ce00f25ac8d19491040a86153a76",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863384/alma-latina/catalog/618817df1faacc39a42a777abea6530a0009ce00f25ac8d19491040a86153a76.jpg",
+      "bytes": 99564,
+      "verifiedAt": "2026-10-24T17:36:24.352Z"
+    },
+    "4cf5717881367d6b3c91ebdc60ffbef3a7004eb5e3376b6242c497c743015a39": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/9392ee3d-0d09-478a-8956-8da57bb7a06f.jpg",
+      "publicId": "alma-latina/catalog/4cf5717881367d6b3c91ebdc60ffbef3a7004eb5e3376b6242c497c743015a39",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863384/alma-latina/catalog/4cf5717881367d6b3c91ebdc60ffbef3a7004eb5e3376b6242c497c743015a39.jpg",
+      "bytes": 118121,
+      "verifiedAt": "2026-10-24T17:36:25.303Z"
+    },
+    "1d9431403c1e630a8d116f22d0f0a764dfc261655e0df0ade875c495f65f7029": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/3586d76d-d142-4247-b336-c04cea7f42b7.jpg",
+      "publicId": "alma-latina/catalog/1d9431403c1e630a8d116f22d0f0a764dfc261655e0df0ade875c495f65f7029",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863385/alma-latina/catalog/1d9431403c1e630a8d116f22d0f0a764dfc261655e0df0ade875c495f65f7029.jpg",
+      "bytes": 97473,
+      "verifiedAt": "2026-10-24T17:36:26.195Z"
+    },
+    "f17f4682ec762314cdb23b2b45741103758ecbfaf76c285edd0c55d43298e79c": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/4ea5a62d-ead0-41d1-abe1-74acb1f2347a.jpg",
+      "publicId": "alma-latina/catalog/f17f4682ec762314cdb23b2b45741103758ecbfaf76c285edd0c55d43298e79c",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863386/alma-latina/catalog/f17f4682ec762314cdb23b2b45741103758ecbfaf76c285edd0c55d43298e79c.jpg",
+      "bytes": 106027,
+      "verifiedAt": "2026-10-24T17:36:27.151Z"
+    },
+    "7670e062d7d714804e77159acc6211ef26fe69a4404bbbebf44ab7f2370eeba3": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/f5c2fec3-f8f4-48fc-948f-83902437e072.jpg",
+      "publicId": "alma-latina/catalog/7670e062d7d714804e77159acc6211ef26fe69a4404bbbebf44ab7f2370eeba3",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863387/alma-latina/catalog/7670e062d7d714804e77159acc6211ef26fe69a4404bbbebf44ab7f2370eeba3.jpg",
+      "bytes": 100773,
+      "verifiedAt": "2026-10-24T17:36:27.955Z"
+    },
+    "d149440ee1b54e1bc7c50c66e7cd6cfc94252501f1385484455e4d4a2b11de68": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/a31fcf03-398b-4880-8a8c-f292228ff5c4.jpg",
+      "publicId": "alma-latina/catalog/d149440ee1b54e1bc7c50c66e7cd6cfc94252501f1385484455e4d4a2b11de68",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863388/alma-latina/catalog/d149440ee1b54e1bc7c50c66e7cd6cfc94252501f1385484455e4d4a2b11de68.jpg",
+      "bytes": 104826,
+      "verifiedAt": "2026-10-24T17:36:28.949Z"
+    },
+    "a8de0bbb13a1e969502233c670a1b407f8279f1eed68979e5115a86efa4d7b11": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/610574e7-7849-4933-bfad-a99b1ce698e6.jpg",
+      "publicId": "alma-latina/catalog/a8de0bbb13a1e969502233c670a1b407f8279f1eed68979e5115a86efa4d7b11",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863389/alma-latina/catalog/a8de0bbb13a1e969502233c670a1b407f8279f1eed68979e5115a86efa4d7b11.jpg",
+      "bytes": 98593,
+      "verifiedAt": "2026-10-24T17:36:29.993Z"
+    },
+    "77903caec702b1e061ac140c97fa9fbfff9b93624d32a677de08cd227235ba9b": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/b22ef365-75de-42bb-a102-ca1e265d5726.jpg",
+      "publicId": "alma-latina/catalog/77903caec702b1e061ac140c97fa9fbfff9b93624d32a677de08cd227235ba9b",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863390/alma-latina/catalog/77903caec702b1e061ac140c97fa9fbfff9b93624d32a677de08cd227235ba9b.jpg",
+      "bytes": 99888,
+      "verifiedAt": "2026-10-24T17:36:30.960Z"
+    },
+    "eda1c9c33950d62aaa5483b526c1024a348ba98815a113ac986a7a9c31614a94": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/c1fd4efc-0182-4891-8086-9b4a2ab58a38.jpg",
+      "publicId": "alma-latina/catalog/eda1c9c33950d62aaa5483b526c1024a348ba98815a113ac986a7a9c31614a94",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863391/alma-latina/catalog/eda1c9c33950d62aaa5483b526c1024a348ba98815a113ac986a7a9c31614a94.jpg",
+      "bytes": 181145,
+      "verifiedAt": "2026-10-24T17:36:31.985Z"
+    },
+    "995872b890fb76fe7ae0dc1dfd2f3759245aefc82705b830b7952e0e1924c7b4": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/ecf4e689-f73f-41f9-b11e-2e08d4f216ab.jpeg",
+      "publicId": "alma-latina/catalog/995872b890fb76fe7ae0dc1dfd2f3759245aefc82705b830b7952e0e1924c7b4",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863392/alma-latina/catalog/995872b890fb76fe7ae0dc1dfd2f3759245aefc82705b830b7952e0e1924c7b4.jpg",
+      "bytes": 121178,
+      "verifiedAt": "2026-10-24T17:36:32.821Z"
+    },
+    "c5e8ac935e5921497f7dda64bb6a2f49e579eb8f311d3e62b11193a89003b6e7": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/7c27a88c-15a0-40b3-8536-d00f635bec12.jpg",
+      "publicId": "alma-latina/catalog/c5e8ac935e5921497f7dda64bb6a2f49e579eb8f311d3e62b11193a89003b6e7",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863393/alma-latina/catalog/c5e8ac935e5921497f7dda64bb6a2f49e579eb8f311d3e62b11193a89003b6e7.jpg",
+      "bytes": 265202,
+      "verifiedAt": "2026-10-24T17:36:33.963Z"
+    },
+    "a43b6202cb9f3c6def54d0bf629db3eeaaa18b349db99d5ee38b8aac2c6e23a2": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/60d03ce2-caae-4b3d-99c3-555a5a31d4d9.jpeg",
+      "publicId": "alma-latina/catalog/a43b6202cb9f3c6def54d0bf629db3eeaaa18b349db99d5ee38b8aac2c6e23a2",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863394/alma-latina/catalog/a43b6202cb9f3c6def54d0bf629db3eeaaa18b349db99d5ee38b8aac2c6e23a2.jpg",
+      "bytes": 116037,
+      "verifiedAt": "2026-10-24T17:36:35.368Z"
+    },
+    "6d0e9b31364d60dd079d69a77591bb0aab1002c09d5477c9d66e281d67b23b8d": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/d61c5f10-f93e-4d82-95a7-30ccecdb2372.jpg",
+      "publicId": "alma-latina/catalog/6d0e9b31364d60dd079d69a77591bb0aab1002c09d5477c9d66e281d67b23b8d",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863396/alma-latina/catalog/6d0e9b31364d60dd079d69a77591bb0aab1002c09d5477c9d66e281d67b23b8d.jpg",
+      "bytes": 265938,
+      "verifiedAt": "2026-10-24T17:36:36.451Z"
+    },
+    "66c9a392b86186867876f0e72617d91e1cbc818c20732a5db3308d114d489440": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/68ce6c79-da05-4987-959d-a4911271a5a6.jpeg",
+      "publicId": "alma-latina/catalog/66c9a392b86186867876f0e72617d91e1cbc818c20732a5db3308d114d489440",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863397/alma-latina/catalog/66c9a392b86186867876f0e72617d91e1cbc818c20732a5db3308d114d489440.jpg",
+      "bytes": 121399,
+      "verifiedAt": "2026-10-24T17:36:37.401Z"
+    },
+    "dcbec7f365892a10f3b35ce515c00b40eb1d95a3538d8e3f5f6b0c1b16106b3a": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/6d254f48-bffb-42d9-8fdc-a7152dd6d2be.jpeg",
+      "publicId": "alma-latina/catalog/dcbec7f365892a10f3b35ce515c00b40eb1d95a3538d8e3f5f6b0c1b16106b3a",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863397/alma-latina/catalog/dcbec7f365892a10f3b35ce515c00b40eb1d95a3538d8e3f5f6b0c1b16106b3a.jpg",
+      "bytes": 123182,
+      "verifiedAt": "2026-10-24T17:36:38.454Z"
+    },
+    "04052982f8cc80bafb001a29560b33204aa4017a8c17ac3cd62441bc3d542d43": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/6881536c-1140-4a6b-a790-987903430f16.jpg",
+      "publicId": "alma-latina/catalog/04052982f8cc80bafb001a29560b33204aa4017a8c17ac3cd62441bc3d542d43",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863399/alma-latina/catalog/04052982f8cc80bafb001a29560b33204aa4017a8c17ac3cd62441bc3d542d43.jpg",
+      "bytes": 181569,
+      "verifiedAt": "2026-10-24T17:36:39.430Z"
+    },
+    "1c2925b789479e80162675ec1d6dea6b4db0c28f88656de31a5f3b01bfbf0b1b": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/7bad01f2-1958-4d00-91fc-c9ed427fa03c.jpg",
+      "publicId": "alma-latina/catalog/1c2925b789479e80162675ec1d6dea6b4db0c28f88656de31a5f3b01bfbf0b1b",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863400/alma-latina/catalog/1c2925b789479e80162675ec1d6dea6b4db0c28f88656de31a5f3b01bfbf0b1b.jpg",
+      "bytes": 112852,
+      "verifiedAt": "2026-10-24T17:36:40.613Z"
+    },
+    "e6c606f8fe650106629b6b4e73dcc41e9d28e3b361320b89ad4a4fbd97c332b7": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/bac2eb53-2db2-406e-af41-dd10a1e5c2e1.jpg",
+      "publicId": "alma-latina/catalog/e6c606f8fe650106629b6b4e73dcc41e9d28e3b361320b89ad4a4fbd97c332b7",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863401/alma-latina/catalog/e6c606f8fe650106629b6b4e73dcc41e9d28e3b361320b89ad4a4fbd97c332b7.jpg",
+      "bytes": 103083,
+      "verifiedAt": "2026-10-24T17:36:41.862Z"
+    },
+    "3f54410215ad0ff561eef2de020a6966ec3733820b9d2b80d08da295ff477f38": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/519f981f-62c1-40fd-9c6d-b70c9e0a16ca.jpg",
+      "publicId": "alma-latina/catalog/3f54410215ad0ff561eef2de020a6966ec3733820b9d2b80d08da295ff477f38",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863402/alma-latina/catalog/3f54410215ad0ff561eef2de020a6966ec3733820b9d2b80d08da295ff477f38.jpg",
+      "bytes": 135670,
+      "verifiedAt": "2026-10-24T17:36:42.937Z"
+    },
+    "9ba677c0896329470712557d4583a83c4cad56ec8dcae19a1c9f84a4b1e6b62b": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/861dcbd1-45b5-464b-b9f0-88712a66a78e.jpg",
+      "publicId": "alma-latina/catalog/9ba677c0896329470712557d4583a83c4cad56ec8dcae19a1c9f84a4b1e6b62b",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863403/alma-latina/catalog/9ba677c0896329470712557d4583a83c4cad56ec8dcae19a1c9f84a4b1e6b62b.jpg",
+      "bytes": 125593,
+      "verifiedAt": "2026-10-24T17:36:43.933Z"
+    },
+    "16025a6cb8478fc481d3902aed42fe6024ce60e00d4ec5efd744f9593b09489b": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/66f55536-a06a-44b6-a24c-f745ee838270.jpg",
+      "publicId": "alma-latina/catalog/16025a6cb8478fc481d3902aed42fe6024ce60e00d4ec5efd744f9593b09489b",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863404/alma-latina/catalog/16025a6cb8478fc481d3902aed42fe6024ce60e00d4ec5efd744f9593b09489b.jpg",
+      "bytes": 156507,
+      "verifiedAt": "2026-10-24T17:36:44.862Z"
+    },
+    "0254eecf4226cf5ddea2205de67c22a1cce67d240109eabf00b343df95fe8488": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/e4d5e2f6-648b-4c4c-b5d0-604b37a67432.jpg",
+      "publicId": "alma-latina/catalog/0254eecf4226cf5ddea2205de67c22a1cce67d240109eabf00b343df95fe8488",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863405/alma-latina/catalog/0254eecf4226cf5ddea2205de67c22a1cce67d240109eabf00b343df95fe8488.jpg",
+      "bytes": 156859,
+      "verifiedAt": "2026-10-24T17:36:45.845Z"
+    },
+    "a50768dbf2ea682d9a8b94f53ecfb6ee2995fc3c5e3238cffc389bf9f4bb61b7": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/be219cef-11fa-4eab-999a-43e1e49af29b.jpeg",
+      "publicId": "alma-latina/catalog/a50768dbf2ea682d9a8b94f53ecfb6ee2995fc3c5e3238cffc389bf9f4bb61b7",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863406/alma-latina/catalog/a50768dbf2ea682d9a8b94f53ecfb6ee2995fc3c5e3238cffc389bf9f4bb61b7.jpg",
+      "bytes": 113574,
+      "verifiedAt": "2026-10-24T17:36:46.842Z"
+    },
+    "3fe8690ed80a5a1dda4ecb411e84b85ffa1f7c1baa35225e2d209d99ad36088d": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/37ad350f-3ede-4807-b253-28c88045df20.jpg",
+      "publicId": "alma-latina/catalog/3fe8690ed80a5a1dda4ecb411e84b85ffa1f7c1baa35225e2d209d99ad36088d",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863407/alma-latina/catalog/3fe8690ed80a5a1dda4ecb411e84b85ffa1f7c1baa35225e2d209d99ad36088d.jpg",
+      "bytes": 162427,
+      "verifiedAt": "2026-10-24T17:36:47.854Z"
+    },
+    "e29d51f6e011ce77ddd83a4e50ddfa47152cd8f7f942b1c1334b25920152e7f7": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/329b1a32-845d-499b-9aec-56e7d0108d7d.jpg",
+      "publicId": "alma-latina/catalog/e29d51f6e011ce77ddd83a4e50ddfa47152cd8f7f942b1c1334b25920152e7f7",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863408/alma-latina/catalog/e29d51f6e011ce77ddd83a4e50ddfa47152cd8f7f942b1c1334b25920152e7f7.jpg",
+      "bytes": 142192,
+      "verifiedAt": "2026-10-24T17:36:48.732Z"
+    },
+    "06cd1b46ac67fbcf6cf83381543cf75fba4c90a5ec67aab1e7c037f50f0fb6d0": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/e9df87a4-71df-430b-b647-0bf2471015a5.jpg",
+      "publicId": "alma-latina/catalog/06cd1b46ac67fbcf6cf83381543cf75fba4c90a5ec67aab1e7c037f50f0fb6d0",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863409/alma-latina/catalog/06cd1b46ac67fbcf6cf83381543cf75fba4c90a5ec67aab1e7c037f50f0fb6d0.jpg",
+      "bytes": 160391,
+      "verifiedAt": "2026-10-24T17:36:49.946Z"
+    },
+    "8ee760c565772b788edd952d91f24c4a01d4d7d0eff57a6ddd1976ad6c613a47": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/f656aad0-a74c-44bb-9426-18d10f9c9086.jpeg",
+      "publicId": "alma-latina/catalog/8ee760c565772b788edd952d91f24c4a01d4d7d0eff57a6ddd1976ad6c613a47",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863410/alma-latina/catalog/8ee760c565772b788edd952d91f24c4a01d4d7d0eff57a6ddd1976ad6c613a47.jpg",
+      "bytes": 98454,
+      "verifiedAt": "2026-10-24T17:36:50.892Z"
+    },
+    "9a5c3e270b2e376f00ced8b915857e31b0d198c21403b149095ddc99907ebe64": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/86265f0d-7f3d-484c-9ae9-9975b1de492d.jpg",
+      "publicId": "alma-latina/catalog/9a5c3e270b2e376f00ced8b915857e31b0d198c21403b149095ddc99907ebe64",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863411/alma-latina/catalog/9a5c3e270b2e376f00ced8b915857e31b0d198c21403b149095ddc99907ebe64.jpg",
+      "bytes": 141308,
+      "verifiedAt": "2026-10-24T17:36:51.850Z"
+    },
+    "9b4fbbefc46dfc2f850d7380ba7b6141141ad016b0d9551b8d0ba3e227ff99ac": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/ff869c09-f3a4-4e8c-91db-492ab4e71d6c.jpg",
+      "publicId": "alma-latina/catalog/9b4fbbefc46dfc2f850d7380ba7b6141141ad016b0d9551b8d0ba3e227ff99ac",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863412/alma-latina/catalog/9b4fbbefc46dfc2f850d7380ba7b6141141ad016b0d9551b8d0ba3e227ff99ac.jpg",
+      "bytes": 120922,
+      "verifiedAt": "2026-10-24T17:36:52.829Z"
+    },
+    "86a6ca7a8eafef51f950fb994ba88e891facdb27e9bf3c6768a44a50de8520f2": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/3fc8834d-9c70-4178-9996-1ea3eb3d02bf.jpg",
+      "publicId": "alma-latina/catalog/86a6ca7a8eafef51f950fb994ba88e891facdb27e9bf3c6768a44a50de8520f2",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863413/alma-latina/catalog/86a6ca7a8eafef51f950fb994ba88e891facdb27e9bf3c6768a44a50de8520f2.jpg",
+      "bytes": 149594,
+      "verifiedAt": "2026-10-24T17:36:53.774Z"
+    },
+    "fdd8189bbedc15b47f815c45ce56dcd94f8d8f77696ce79c1b767509bb0b5adc": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/48542bdf-90d0-4251-bed4-a687b25a322d.jpg",
+      "publicId": "alma-latina/catalog/fdd8189bbedc15b47f815c45ce56dcd94f8d8f77696ce79c1b767509bb0b5adc",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863414/alma-latina/catalog/fdd8189bbedc15b47f815c45ce56dcd94f8d8f77696ce79c1b767509bb0b5adc.jpg",
+      "bytes": 133094,
+      "verifiedAt": "2026-10-24T17:36:54.764Z"
+    },
+    "7c80dd850022717d21c9bd274a2bfcf648d08df9dffcbb540f27e9b6d5136d5c": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/1766b83b-895a-4171-aaca-a008fc64fcc3.jpg",
+      "publicId": "alma-latina/catalog/7c80dd850022717d21c9bd274a2bfcf648d08df9dffcbb540f27e9b6d5136d5c",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863415/alma-latina/catalog/7c80dd850022717d21c9bd274a2bfcf648d08df9dffcbb540f27e9b6d5136d5c.jpg",
+      "bytes": 113860,
+      "verifiedAt": "2026-10-24T17:36:56.114Z"
+    },
+    "9c40a95fd5aea151d09c17ccd033e2de52b86d384333e6066e154096200d03d8": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/692791b7-92a2-4a99-89e1-7b2b31682201.jpg",
+      "publicId": "alma-latina/catalog/9c40a95fd5aea151d09c17ccd033e2de52b86d384333e6066e154096200d03d8",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863416/alma-latina/catalog/9c40a95fd5aea151d09c17ccd033e2de52b86d384333e6066e154096200d03d8.jpg",
+      "bytes": 158159,
+      "verifiedAt": "2026-10-24T17:36:57.143Z"
+    },
+    "fa64d935d172804f9a7c7857fffe5f12b335359550e2ac3e7c2425c4630c85dd": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/b3f8b7ac-91a6-4a04-bdbb-455e2779d568.jpg",
+      "publicId": "alma-latina/catalog/fa64d935d172804f9a7c7857fffe5f12b335359550e2ac3e7c2425c4630c85dd",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863417/alma-latina/catalog/fa64d935d172804f9a7c7857fffe5f12b335359550e2ac3e7c2425c4630c85dd.jpg",
+      "bytes": 155823,
+      "verifiedAt": "2026-10-24T17:36:58.153Z"
+    },
+    "054f0c0023529cd3084457e071c22909bc430b929dced830f2c7a533430443c7": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/c82dd2ab-74d4-41d1-bcbb-e5d2ea618b18.jpg",
+      "publicId": "alma-latina/catalog/054f0c0023529cd3084457e071c22909bc430b929dced830f2c7a533430443c7",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863418/alma-latina/catalog/054f0c0023529cd3084457e071c22909bc430b929dced830f2c7a533430443c7.jpg",
+      "bytes": 103720,
+      "verifiedAt": "2026-10-24T17:36:59.077Z"
+    },
+    "e4819bd21268649f3e98eb8d7ef8229d7b0dce48563a7f5007fde6e763405d9f": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/94e6c65d-574a-461d-8028-7b2e90863e39.jpg",
+      "publicId": "alma-latina/catalog/e4819bd21268649f3e98eb8d7ef8229d7b0dce48563a7f5007fde6e763405d9f",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863419/alma-latina/catalog/e4819bd21268649f3e98eb8d7ef8229d7b0dce48563a7f5007fde6e763405d9f.jpg",
+      "bytes": 138583,
+      "verifiedAt": "2026-10-24T17:37:00.146Z"
+    },
+    "8ce6a6f1715ccd8a4ead399fa910b427fa9543b0f33f00223aa333cc0eb10f54": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/2c1fabdd-ebfb-4199-bd91-508cd7188fb5.jpg",
+      "publicId": "alma-latina/catalog/8ce6a6f1715ccd8a4ead399fa910b427fa9543b0f33f00223aa333cc0eb10f54",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863420/alma-latina/catalog/8ce6a6f1715ccd8a4ead399fa910b427fa9543b0f33f00223aa333cc0eb10f54.jpg",
+      "bytes": 138730,
+      "verifiedAt": "2026-10-24T17:37:01.099Z"
+    },
+    "8a325c9a20d332f4e17f72353b90bc0ed828ef79a00c8762f3d16faec5f3a8d7": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/524f1304-04df-4553-bd7a-6f16adabbe7b.jpeg",
+      "publicId": "alma-latina/catalog/8a325c9a20d332f4e17f72353b90bc0ed828ef79a00c8762f3d16faec5f3a8d7",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863421/alma-latina/catalog/8a325c9a20d332f4e17f72353b90bc0ed828ef79a00c8762f3d16faec5f3a8d7.jpg",
+      "bytes": 94264,
+      "verifiedAt": "2026-10-24T17:37:02.051Z"
+    },
+    "52661403c7575b938bf8790a263d782c1d410366f4c76da0a11f4fd1d837d7a6": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/a3555662-0118-459c-a0e2-2032b45cdb46.jpg",
+      "publicId": "alma-latina/catalog/52661403c7575b938bf8790a263d782c1d410366f4c76da0a11f4fd1d837d7a6",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863422/alma-latina/catalog/52661403c7575b938bf8790a263d782c1d410366f4c76da0a11f4fd1d837d7a6.jpg",
+      "bytes": 126754,
+      "verifiedAt": "2026-10-24T17:37:02.959Z"
+    },
+    "0702aec5bce41baf35505f3595fc5f9296853ccd2f02805f1bbaacac0ff805f6": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/f69a008c-061b-49a1-b4a0-4f9bbcda3a8d.jpg",
+      "publicId": "alma-latina/catalog/0702aec5bce41baf35505f3595fc5f9296853ccd2f02805f1bbaacac0ff805f6",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863423/alma-latina/catalog/0702aec5bce41baf35505f3595fc5f9296853ccd2f02805f1bbaacac0ff805f6.jpg",
+      "bytes": 140037,
+      "verifiedAt": "2026-10-24T17:37:03.936Z"
+    },
+    "aef9f14075b21197a958693224af62154089c83816229da14b7c4b8dd8ff03d6": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/26073eff-9253-40a4-ad56-0c19ed0669a2.jpg",
+      "publicId": "alma-latina/catalog/aef9f14075b21197a958693224af62154089c83816229da14b7c4b8dd8ff03d6",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863424/alma-latina/catalog/aef9f14075b21197a958693224af62154089c83816229da14b7c4b8dd8ff03d6.jpg",
+      "bytes": 136882,
+      "verifiedAt": "2026-10-24T17:37:05.345Z"
+    },
+    "a504aaf6734480bdefa9938664576ab689eb805ec0070aa87fa4955e4cc76756": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/ce3397f9-b270-432c-8b38-a939101eaa11.jpg",
+      "publicId": "alma-latina/catalog/a504aaf6734480bdefa9938664576ab689eb805ec0070aa87fa4955e4cc76756",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863426/alma-latina/catalog/a504aaf6734480bdefa9938664576ab689eb805ec0070aa87fa4955e4cc76756.jpg",
+      "bytes": 120659,
+      "verifiedAt": "2026-10-24T17:37:07.012Z"
+    },
+    "03c2612ddfefd0253b07b334dd142f538ececf7997f835ff56668daeb972d2f4": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/43f36bbf-7569-4544-89bc-f504505cde8c.jpg",
+      "publicId": "alma-latina/catalog/03c2612ddfefd0253b07b334dd142f538ececf7997f835ff56668daeb972d2f4",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863427/alma-latina/catalog/03c2612ddfefd0253b07b334dd142f538ececf7997f835ff56668daeb972d2f4.jpg",
+      "bytes": 130472,
+      "verifiedAt": "2026-10-24T17:37:08.055Z"
+    },
+    "b2640521849b97fd95100d5a9c10a6d6f601f14edf4c69059a0a44ff1b1993cb": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/35204981-397f-4317-828e-6e4a2cf87641.jpg",
+      "publicId": "alma-latina/catalog/b2640521849b97fd95100d5a9c10a6d6f601f14edf4c69059a0a44ff1b1993cb",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863428/alma-latina/catalog/b2640521849b97fd95100d5a9c10a6d6f601f14edf4c69059a0a44ff1b1993cb.jpg",
+      "bytes": 148293,
+      "verifiedAt": "2026-10-24T17:37:09.056Z"
+    },
+    "6130fee7b9576b11477abf236b32a7fc604cdc58f546086a06eb70caa0c1a9e2": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/bbcbbc92-6a82-4de7-b85f-d6861ed494bb.jpg",
+      "publicId": "alma-latina/catalog/6130fee7b9576b11477abf236b32a7fc604cdc58f546086a06eb70caa0c1a9e2",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863429/alma-latina/catalog/6130fee7b9576b11477abf236b32a7fc604cdc58f546086a06eb70caa0c1a9e2.jpg",
+      "bytes": 196246,
+      "verifiedAt": "2026-10-24T17:37:10.332Z"
+    },
+    "39ca986f8a51158bbcfae4842b12d50bbb59d29cdefe84864812caa02750214a": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/950c6124-e57a-4d2d-87b7-21cd28c34c44.jpeg",
+      "publicId": "alma-latina/catalog/39ca986f8a51158bbcfae4842b12d50bbb59d29cdefe84864812caa02750214a",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863430/alma-latina/catalog/39ca986f8a51158bbcfae4842b12d50bbb59d29cdefe84864812caa02750214a.jpg",
+      "bytes": 153215,
+      "verifiedAt": "2026-10-24T17:37:11.194Z"
+    },
+    "1b660d1baaef1f9e490dac9d57cb40d21afebf481686c44f733ffe3e9fa8203c": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/3d58e150-560b-448a-98f4-ab1c25eb66a1.jpg",
+      "publicId": "alma-latina/catalog/1b660d1baaef1f9e490dac9d57cb40d21afebf481686c44f733ffe3e9fa8203c",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863431/alma-latina/catalog/1b660d1baaef1f9e490dac9d57cb40d21afebf481686c44f733ffe3e9fa8203c.jpg",
+      "bytes": 134541,
+      "verifiedAt": "2026-10-24T17:37:12.080Z"
+    },
+    "67ac0cb63a431783ea5231f90854b39591d4dfd17ff99a7d1e474e272c80d107": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/cb8a3c66-b3f3-440d-a014-3e361f267089.jpg",
+      "publicId": "alma-latina/catalog/67ac0cb63a431783ea5231f90854b39591d4dfd17ff99a7d1e474e272c80d107",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863432/alma-latina/catalog/67ac0cb63a431783ea5231f90854b39591d4dfd17ff99a7d1e474e272c80d107.jpg",
+      "bytes": 134621,
+      "verifiedAt": "2026-10-24T17:37:12.971Z"
+    },
+    "cebb6814c640d4f1fc59b1ecdee8c34d764f9f4f283a2dd85cda2f58781447b3": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/1ab14d8d-6e41-4c49-a4c1-312a9f9d5264.jpeg",
+      "publicId": "alma-latina/catalog/cebb6814c640d4f1fc59b1ecdee8c34d764f9f4f283a2dd85cda2f58781447b3",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863433/alma-latina/catalog/cebb6814c640d4f1fc59b1ecdee8c34d764f9f4f283a2dd85cda2f58781447b3.jpg",
+      "bytes": 119976,
+      "verifiedAt": "2026-10-24T17:37:13.933Z"
+    },
+    "5dc816c99dd880e50657cc846dff4d25596fe44c0830b84fbf83f3daf9398637": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/9ee391f8-8f59-488a-9200-c161556cc6ef.jpg",
+      "publicId": "alma-latina/catalog/5dc816c99dd880e50657cc846dff4d25596fe44c0830b84fbf83f3daf9398637",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863434/alma-latina/catalog/5dc816c99dd880e50657cc846dff4d25596fe44c0830b84fbf83f3daf9398637.jpg",
+      "bytes": 128711,
+      "verifiedAt": "2026-10-24T17:37:15.071Z"
+    },
+    "c40d8593b9975a5229d767b896122fea7e2429d02b1f721a281a39c69de7818e": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/9e5bc263-b016-4580-af6d-deb894f1ac0c.jpeg",
+      "publicId": "alma-latina/catalog/c40d8593b9975a5229d767b896122fea7e2429d02b1f721a281a39c69de7818e",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863435/alma-latina/catalog/c40d8593b9975a5229d767b896122fea7e2429d02b1f721a281a39c69de7818e.jpg",
+      "bytes": 136737,
+      "verifiedAt": "2026-10-24T17:37:16.175Z"
+    },
+    "d9241b810ad4f4e3c63babfc232159e2b7566f2a34b54a005ed7634558e8e38c": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/850cc1b7-7f10-48ef-9ffe-06b569877e7c.jpg",
+      "publicId": "alma-latina/catalog/d9241b810ad4f4e3c63babfc232159e2b7566f2a34b54a005ed7634558e8e38c",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863436/alma-latina/catalog/d9241b810ad4f4e3c63babfc232159e2b7566f2a34b54a005ed7634558e8e38c.jpg",
+      "bytes": 151192,
+      "verifiedAt": "2026-10-24T17:37:17.190Z"
+    },
+    "ff8fe9d2e3c20f09d84d41ed8cf4eeb77ca8f889ffbc67cd3964bee14c3e1067": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/541357fb-e7fb-4b23-bba5-de654d5c4546.jpg",
+      "publicId": "alma-latina/catalog/ff8fe9d2e3c20f09d84d41ed8cf4eeb77ca8f889ffbc67cd3964bee14c3e1067",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863437/alma-latina/catalog/ff8fe9d2e3c20f09d84d41ed8cf4eeb77ca8f889ffbc67cd3964bee14c3e1067.jpg",
+      "bytes": 157620,
+      "verifiedAt": "2026-10-24T17:37:18.232Z"
+    },
+    "7439eacb2f381766b35215aa1964d8d61b384e59a72065adeb5aeb04ea3aae39": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/ade8d189-6837-44aa-b089-7b202bb5c4f0.jpg",
+      "publicId": "alma-latina/catalog/7439eacb2f381766b35215aa1964d8d61b384e59a72065adeb5aeb04ea3aae39",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863438/alma-latina/catalog/7439eacb2f381766b35215aa1964d8d61b384e59a72065adeb5aeb04ea3aae39.jpg",
+      "bytes": 125686,
+      "verifiedAt": "2026-10-24T17:37:19.078Z"
+    },
+    "3f951f953a12fbbb6a3e016db711686cd10a4b9aa5c77398275779cfe0dbb7b4": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/32e64c13-078f-44ae-a4eb-2843ec616721.jpg",
+      "publicId": "alma-latina/catalog/3f951f953a12fbbb6a3e016db711686cd10a4b9aa5c77398275779cfe0dbb7b4",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863439/alma-latina/catalog/3f951f953a12fbbb6a3e016db711686cd10a4b9aa5c77398275779cfe0dbb7b4.jpg",
+      "bytes": 203656,
+      "verifiedAt": "2026-10-24T17:37:20.181Z"
+    },
+    "b76744546c2f46bc77aace2b3331652ec5c428ef72a2956b7e81daed62ee9e58": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/0a623b54-d94e-4438-934c-4eb9e9898b9a.jpg",
+      "publicId": "alma-latina/catalog/b76744546c2f46bc77aace2b3331652ec5c428ef72a2956b7e81daed62ee9e58",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863440/alma-latina/catalog/b76744546c2f46bc77aace2b3331652ec5c428ef72a2956b7e81daed62ee9e58.jpg",
+      "bytes": 110355,
+      "verifiedAt": "2026-10-24T17:37:21.012Z"
+    },
+    "142a8e360a6705315e55ec40a81a0df52a1ea1468ad62c3051cb4d97dd6916f1": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/38413670-e9cf-4bb3-ab44-031ef9fe675b.jpg",
+      "publicId": "alma-latina/catalog/142a8e360a6705315e55ec40a81a0df52a1ea1468ad62c3051cb4d97dd6916f1",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863441/alma-latina/catalog/142a8e360a6705315e55ec40a81a0df52a1ea1468ad62c3051cb4d97dd6916f1.jpg",
+      "bytes": 181676,
+      "verifiedAt": "2026-10-24T17:37:21.986Z"
+    },
+    "1feb2065728449c5f5023854aef02a823fe01da15adf18104ea5df859f831617": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/5453b62b-6b1d-4363-ba85-57b4e82ef21b.jpg",
+      "publicId": "alma-latina/catalog/1feb2065728449c5f5023854aef02a823fe01da15adf18104ea5df859f831617",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863442/alma-latina/catalog/1feb2065728449c5f5023854aef02a823fe01da15adf18104ea5df859f831617.jpg",
+      "bytes": 134225,
+      "verifiedAt": "2026-10-24T17:37:23.001Z"
+    },
+    "8dbdbe2c007ad635dfdc5627ddc47675fcc8d0f27075a98a2207b3027532b7de": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/5a57b081-6a6a-4ba6-88b6-dfacf844ba7d.jpg",
+      "publicId": "alma-latina/catalog/8dbdbe2c007ad635dfdc5627ddc47675fcc8d0f27075a98a2207b3027532b7de",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863443/alma-latina/catalog/8dbdbe2c007ad635dfdc5627ddc47675fcc8d0f27075a98a2207b3027532b7de.jpg",
+      "bytes": 197010,
+      "verifiedAt": "2026-10-24T17:37:23.923Z"
+    },
+    "cdfc438ad801faf1a9e6af9737a80a2c84c2014171b69d2f1f014af4f1cc3b63": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/6aac5d45-a9c4-4e3b-adab-754ae191cecb.jpg",
+      "publicId": "alma-latina/catalog/cdfc438ad801faf1a9e6af9737a80a2c84c2014171b69d2f1f014af4f1cc3b63",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863444/alma-latina/catalog/cdfc438ad801faf1a9e6af9737a80a2c84c2014171b69d2f1f014af4f1cc3b63.jpg",
+      "bytes": 137647,
+      "verifiedAt": "2026-10-24T17:37:24.999Z"
+    },
+    "dff0cb4f08104b83f12e0742c965caf1b106d19051bd61517e060faf4b5aebd0": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/289335fb-df2f-40ef-a7fb-161bfcc58b77.jpg",
+      "publicId": "alma-latina/catalog/dff0cb4f08104b83f12e0742c965caf1b106d19051bd61517e060faf4b5aebd0",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863445/alma-latina/catalog/dff0cb4f08104b83f12e0742c965caf1b106d19051bd61517e060faf4b5aebd0.jpg",
+      "bytes": 175698,
+      "verifiedAt": "2026-10-24T17:37:25.851Z"
+    },
+    "e27095aac16d509ef6868ddd491fd4d2f351194afa361165214afe1b157f79e3": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/d9951f71-deb5-4758-b8df-b3aa28e77308.jpg",
+      "publicId": "alma-latina/catalog/e27095aac16d509ef6868ddd491fd4d2f351194afa361165214afe1b157f79e3",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863446/alma-latina/catalog/e27095aac16d509ef6868ddd491fd4d2f351194afa361165214afe1b157f79e3.jpg",
+      "bytes": 131980,
+      "verifiedAt": "2026-10-24T17:37:26.763Z"
+    },
+    "7903459d87c897ac5b5ed3db702a735b902a986cd05f21cf405f581f5ed12930": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/88f37c87-3677-43b8-a1a1-3954f3329365.jpg",
+      "publicId": "alma-latina/catalog/7903459d87c897ac5b5ed3db702a735b902a986cd05f21cf405f581f5ed12930",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863447/alma-latina/catalog/7903459d87c897ac5b5ed3db702a735b902a986cd05f21cf405f581f5ed12930.jpg",
+      "bytes": 142950,
+      "verifiedAt": "2026-10-24T17:37:28.133Z"
+    },
+    "475581669fe2f15c0e9c127d9b25c5d04308d06f4b47cd9dbea537f63842aac4": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/6f9f3c53-48f5-4e40-b240-f3c84bc808fa.jpg",
+      "publicId": "alma-latina/catalog/475581669fe2f15c0e9c127d9b25c5d04308d06f4b47cd9dbea537f63842aac4",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863448/alma-latina/catalog/475581669fe2f15c0e9c127d9b25c5d04308d06f4b47cd9dbea537f63842aac4.jpg",
+      "bytes": 172005,
+      "verifiedAt": "2026-10-24T17:37:29.105Z"
+    },
+    "c20468d9eaf59b14a17c40e0087dede1071d8a5f60d278ffbf16d2212e343f3f": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/1d674939-6a8a-4087-90df-feb3d2da4b33.jpg",
+      "publicId": "alma-latina/catalog/c20468d9eaf59b14a17c40e0087dede1071d8a5f60d278ffbf16d2212e343f3f",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863449/alma-latina/catalog/c20468d9eaf59b14a17c40e0087dede1071d8a5f60d278ffbf16d2212e343f3f.jpg",
+      "bytes": 105956,
+      "verifiedAt": "2026-10-24T17:37:30.032Z"
+    },
+    "18b6bf427a851607206238abcf1750c94fba0e24a9fb42c5495198a2e342edf5": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/95c05075-366f-46ae-a206-9a4daccb4eb5.jpg",
+      "publicId": "alma-latina/catalog/18b6bf427a851607206238abcf1750c94fba0e24a9fb42c5495198a2e342edf5",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863450/alma-latina/catalog/18b6bf427a851607206238abcf1750c94fba0e24a9fb42c5495198a2e342edf5.jpg",
+      "bytes": 234301,
+      "verifiedAt": "2026-10-24T17:37:30.985Z"
+    },
+    "0c7e278554e37211627f094d81a3bb68a5b8b5ff9e50b24b92ef6e3b7cc121e2": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/6e9e2c82-e531-4665-8362-b1741bbd458c.jpg",
+      "publicId": "alma-latina/catalog/0c7e278554e37211627f094d81a3bb68a5b8b5ff9e50b24b92ef6e3b7cc121e2",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863451/alma-latina/catalog/0c7e278554e37211627f094d81a3bb68a5b8b5ff9e50b24b92ef6e3b7cc121e2.jpg",
+      "bytes": 118630,
+      "verifiedAt": "2026-10-24T17:37:31.923Z"
+    },
+    "562a6b8edfa9073e8e2a10d44c5a404d6db4629068ab8261b73cbccdc307343b": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/5a279219-b03a-4ccf-a0d7-ee58f568d3a7.jpg",
+      "publicId": "alma-latina/catalog/562a6b8edfa9073e8e2a10d44c5a404d6db4629068ab8261b73cbccdc307343b",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863452/alma-latina/catalog/562a6b8edfa9073e8e2a10d44c5a404d6db4629068ab8261b73cbccdc307343b.jpg",
+      "bytes": 131938,
+      "verifiedAt": "2026-10-24T17:37:32.862Z"
+    },
+    "5abeced65a513d581b1452a6dbe44dcaf867412d591b6d06a8e47bf93487747b": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/36105582-3db8-421d-9eec-1535cb4ceb4c.jpg",
+      "publicId": "alma-latina/catalog/5abeced65a513d581b1452a6dbe44dcaf867412d591b6d06a8e47bf93487747b",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863453/alma-latina/catalog/5abeced65a513d581b1452a6dbe44dcaf867412d591b6d06a8e47bf93487747b.jpg",
+      "bytes": 248181,
+      "verifiedAt": "2026-10-24T17:37:34.039Z"
+    },
+    "8e06ce3e1d3c92d9924e64359abb305ffa706c6fca95d3a24a65a6a998204020": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/fad5a403-148f-4386-80f0-9b6d1982d31b.jpg",
+      "publicId": "alma-latina/catalog/8e06ce3e1d3c92d9924e64359abb305ffa706c6fca95d3a24a65a6a998204020",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863454/alma-latina/catalog/8e06ce3e1d3c92d9924e64359abb305ffa706c6fca95d3a24a65a6a998204020.jpg",
+      "bytes": 146060,
+      "verifiedAt": "2026-10-24T17:37:34.952Z"
+    },
+    "6baf799991e4287f1570b058ce8a1a8df441aa017c26676e797f9661c9225475": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/2e3704b0-7a4e-4d6c-8e6d-d3796b3bc7bc.jpg",
+      "publicId": "alma-latina/catalog/6baf799991e4287f1570b058ce8a1a8df441aa017c26676e797f9661c9225475",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863455/alma-latina/catalog/6baf799991e4287f1570b058ce8a1a8df441aa017c26676e797f9661c9225475.jpg",
+      "bytes": 102522,
+      "verifiedAt": "2026-10-24T17:37:36.031Z"
+    },
+    "7b6a72145eb975b7c3b0be0f56439aff8d437f9f263cb8ed7cf875fb09b8eeb1": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/0a957a5c-e1ac-4c7d-9d77-6c033b05d48e.jpg",
+      "publicId": "alma-latina/catalog/7b6a72145eb975b7c3b0be0f56439aff8d437f9f263cb8ed7cf875fb09b8eeb1",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863456/alma-latina/catalog/7b6a72145eb975b7c3b0be0f56439aff8d437f9f263cb8ed7cf875fb09b8eeb1.jpg",
+      "bytes": 107765,
+      "verifiedAt": "2026-10-24T17:37:36.997Z"
+    },
+    "b5c1b0ee93ff6a4f63d2b2d711171b344f4b85ab95ae9acdca1f4a95590f1ff8": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/7c3fde63-549b-4ddf-99d4-8f111956d6d0.jpg",
+      "publicId": "alma-latina/catalog/b5c1b0ee93ff6a4f63d2b2d711171b344f4b85ab95ae9acdca1f4a95590f1ff8",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863457/alma-latina/catalog/b5c1b0ee93ff6a4f63d2b2d711171b344f4b85ab95ae9acdca1f4a95590f1ff8.jpg",
+      "bytes": 106143,
+      "verifiedAt": "2026-10-24T17:37:38.068Z"
+    },
+    "4eff58938e426883bb30d9960d4aac224c02134f278c27d2821f9f4c5036e5fe": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/25a417ee-f508-4cf7-bddc-e41e1fa3a546.jpg",
+      "publicId": "alma-latina/catalog/4eff58938e426883bb30d9960d4aac224c02134f278c27d2821f9f4c5036e5fe",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863458/alma-latina/catalog/4eff58938e426883bb30d9960d4aac224c02134f278c27d2821f9f4c5036e5fe.jpg",
+      "bytes": 98540,
+      "verifiedAt": "2026-10-24T17:37:39.151Z"
+    },
+    "e9dd45e38d86a98fdd95db38f1c3dd1e867cea5d7fde98573a03d618f9ab3dfb": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/c7124d50-c8a5-43f3-8185-a4eebab80529.jpg",
+      "publicId": "alma-latina/catalog/e9dd45e38d86a98fdd95db38f1c3dd1e867cea5d7fde98573a03d618f9ab3dfb",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863459/alma-latina/catalog/e9dd45e38d86a98fdd95db38f1c3dd1e867cea5d7fde98573a03d618f9ab3dfb.jpg",
+      "bytes": 146971,
+      "verifiedAt": "2026-10-24T17:37:40.154Z"
+    },
+    "d60c9ec7f596354e70f8d30053446c887d8ab7473963378312f00c245ce36da9": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/a9990a87-ea11-4adc-af04-08a5c860f212.jpg",
+      "publicId": "alma-latina/catalog/d60c9ec7f596354e70f8d30053446c887d8ab7473963378312f00c245ce36da9",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863460/alma-latina/catalog/d60c9ec7f596354e70f8d30053446c887d8ab7473963378312f00c245ce36da9.jpg",
+      "bytes": 169731,
+      "verifiedAt": "2026-10-24T17:37:41.191Z"
+    },
+    "629ea29b25a20431967c4956b88345c495d1ad424efc8cd5d3a4656a6844381a": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/188ea32a-f4c4-4384-a14f-97143a3203ce.jpg",
+      "publicId": "alma-latina/catalog/629ea29b25a20431967c4956b88345c495d1ad424efc8cd5d3a4656a6844381a",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863461/alma-latina/catalog/629ea29b25a20431967c4956b88345c495d1ad424efc8cd5d3a4656a6844381a.jpg",
+      "bytes": 166573,
+      "verifiedAt": "2026-10-24T17:37:42.050Z"
+    },
+    "21031df2500ec5aed1514e916621dc796fd3b7b02f90bf2875280999484376e8": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/a7c13bbf-4e53-41e9-9592-5397fa3ebb5b.jpg",
+      "publicId": "alma-latina/catalog/21031df2500ec5aed1514e916621dc796fd3b7b02f90bf2875280999484376e8",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863462/alma-latina/catalog/21031df2500ec5aed1514e916621dc796fd3b7b02f90bf2875280999484376e8.jpg",
+      "bytes": 161185,
+      "verifiedAt": "2026-10-24T17:37:42.952Z"
+    },
+    "d2cbfd9643132aa8fec5ee85775839855b865fc0e8b1ac2021db3c6ab4e91901": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/f572d2fa-97be-43d2-8f8f-c696eeb3fd8d.jpg",
+      "publicId": "alma-latina/catalog/d2cbfd9643132aa8fec5ee85775839855b865fc0e8b1ac2021db3c6ab4e91901",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863463/alma-latina/catalog/d2cbfd9643132aa8fec5ee85775839855b865fc0e8b1ac2021db3c6ab4e91901.jpg",
+      "bytes": 87390,
+      "verifiedAt": "2026-10-24T17:37:43.774Z"
+    },
+    "0fd32ee9a10cc801a5e0986af79d5cbc980999b6ee83ad151c7ed7278516569a": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/7ac08ea4-05d7-49cd-a27d-8360372d329a.jpg",
+      "publicId": "alma-latina/catalog/0fd32ee9a10cc801a5e0986af79d5cbc980999b6ee83ad151c7ed7278516569a",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863464/alma-latina/catalog/0fd32ee9a10cc801a5e0986af79d5cbc980999b6ee83ad151c7ed7278516569a.jpg",
+      "bytes": 118345,
+      "verifiedAt": "2026-10-24T17:37:44.782Z"
+    },
+    "b84063d8de2f28aa9d04b4ced67d88807f1f34494e981426d89dc0059ed1c266": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/2583ea43-0f06-4bfe-b2bc-69e2c1a520cb.jpg",
+      "publicId": "alma-latina/catalog/b84063d8de2f28aa9d04b4ced67d88807f1f34494e981426d89dc0059ed1c266",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863465/alma-latina/catalog/b84063d8de2f28aa9d04b4ced67d88807f1f34494e981426d89dc0059ed1c266.jpg",
+      "bytes": 97131,
+      "verifiedAt": "2026-10-24T17:37:45.549Z"
+    },
+    "629f1bf67a506c9ff319d1267b6c821c3d1f27007aac20a2c28c56cb50dcf0d1": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/b0c17600-5dab-4944-af95-81740af9ba2e.jpg",
+      "publicId": "alma-latina/catalog/629f1bf67a506c9ff319d1267b6c821c3d1f27007aac20a2c28c56cb50dcf0d1",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863466/alma-latina/catalog/629f1bf67a506c9ff319d1267b6c821c3d1f27007aac20a2c28c56cb50dcf0d1.jpg",
+      "bytes": 97754,
+      "verifiedAt": "2026-10-24T17:37:46.488Z"
+    },
+    "323c194bf7a8a40d3307c4edc000c3b6d15777cf611ea20dcf175a5f00695f60": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/73af3ea0-b7b9-4ff1-84f5-249bc29539cb.jpg",
+      "publicId": "alma-latina/catalog/323c194bf7a8a40d3307c4edc000c3b6d15777cf611ea20dcf175a5f00695f60",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863467/alma-latina/catalog/323c194bf7a8a40d3307c4edc000c3b6d15777cf611ea20dcf175a5f00695f60.jpg",
+      "bytes": 153444,
+      "verifiedAt": "2026-10-24T17:37:47.382Z"
+    },
+    "759e9d828b1efb9025c862a0c40e25ff24b24e31aabe5b1fc153c1a9b3951509": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/52e17b60-dd9c-4ad8-ab76-c98df7a8cd45.jpg",
+      "publicId": "alma-latina/catalog/759e9d828b1efb9025c862a0c40e25ff24b24e31aabe5b1fc153c1a9b3951509",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863468/alma-latina/catalog/759e9d828b1efb9025c862a0c40e25ff24b24e31aabe5b1fc153c1a9b3951509.jpg",
+      "bytes": 159603,
+      "verifiedAt": "2026-10-24T17:37:48.419Z"
+    },
+    "abec73291b869357fbe027b97fd963aa43e5a9989bdb84887add9f539dea9f73": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/d6835e9d-3e6a-4f0f-a08b-909ec1782614.jpg",
+      "publicId": "alma-latina/catalog/abec73291b869357fbe027b97fd963aa43e5a9989bdb84887add9f539dea9f73",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863469/alma-latina/catalog/abec73291b869357fbe027b97fd963aa43e5a9989bdb84887add9f539dea9f73.jpg",
+      "bytes": 164252,
+      "verifiedAt": "2026-10-24T17:37:49.509Z"
+    },
+    "3624f7635bc08b602ca718dce35d0ce4ff5ff399bc89fa1e917cbb3b12d65852": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/1224014c-5178-4c34-812a-5be04d7f38d4.jpg",
+      "publicId": "alma-latina/catalog/3624f7635bc08b602ca718dce35d0ce4ff5ff399bc89fa1e917cbb3b12d65852",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863470/alma-latina/catalog/3624f7635bc08b602ca718dce35d0ce4ff5ff399bc89fa1e917cbb3b12d65852.jpg",
+      "bytes": 145403,
+      "verifiedAt": "2026-10-24T17:37:50.515Z"
+    },
+    "502b9f2a7fd2633ffc4279bc62c30ecd797ff2475e8b8b43e1a7d04340e2aa4a": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/e2bac0f1-9812-4a8b-b4eb-ee5f0ef19d85.jpg",
+      "publicId": "alma-latina/catalog/502b9f2a7fd2633ffc4279bc62c30ecd797ff2475e8b8b43e1a7d04340e2aa4a",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863471/alma-latina/catalog/502b9f2a7fd2633ffc4279bc62c30ecd797ff2475e8b8b43e1a7d04340e2aa4a.jpg",
+      "bytes": 134425,
+      "verifiedAt": "2026-10-24T17:37:51.377Z"
+    },
+    "e5f8c36568f8f025bb59d3316f13a2f45dfb7b7bc53de1a3c7e1e6eceb7995be": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/4e084336-7e8b-4fb0-a043-fe4acf60dd9e.jpg",
+      "publicId": "alma-latina/catalog/e5f8c36568f8f025bb59d3316f13a2f45dfb7b7bc53de1a3c7e1e6eceb7995be",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863471/alma-latina/catalog/e5f8c36568f8f025bb59d3316f13a2f45dfb7b7bc53de1a3c7e1e6eceb7995be.jpg",
+      "bytes": 119474,
+      "verifiedAt": "2026-10-24T17:37:52.349Z"
+    },
+    "a417ddc18581190e4b397f1d062c1e8b748453940728fb8d7ecc0af6980637cf": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/edcdfb5d-0dbf-4ef8-a967-02b0dd1a1d3d.jpg",
+      "publicId": "alma-latina/catalog/a417ddc18581190e4b397f1d062c1e8b748453940728fb8d7ecc0af6980637cf",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863472/alma-latina/catalog/a417ddc18581190e4b397f1d062c1e8b748453940728fb8d7ecc0af6980637cf.jpg",
+      "bytes": 130977,
+      "verifiedAt": "2026-10-24T17:37:53.375Z"
+    },
+    "2b9a84cbaf22e043def1bea35dd8fd2e34b5a7faccf856db46aa86eaaeb39c61": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/6935ef3a-1eac-481c-81a2-353f569bf7d2.jpg",
+      "publicId": "alma-latina/catalog/2b9a84cbaf22e043def1bea35dd8fd2e34b5a7faccf856db46aa86eaaeb39c61",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863474/alma-latina/catalog/2b9a84cbaf22e043def1bea35dd8fd2e34b5a7faccf856db46aa86eaaeb39c61.jpg",
+      "bytes": 199445,
+      "verifiedAt": "2026-10-24T17:37:54.390Z"
+    },
+    "7691459d7c74d268256ace6c656fb971a08769947f5f15878ea3d503ee81341f": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/033c3962-056e-49c0-a8e0-27daa44c3e56.jpg",
+      "publicId": "alma-latina/catalog/7691459d7c74d268256ace6c656fb971a08769947f5f15878ea3d503ee81341f",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863475/alma-latina/catalog/7691459d7c74d268256ace6c656fb971a08769947f5f15878ea3d503ee81341f.jpg",
+      "bytes": 185625,
+      "verifiedAt": "2026-10-24T17:37:55.298Z"
+    },
+    "5b4c91d083539507cb68c3ce459edf606afb8af46c50ad534e6f447381102631": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/16881b94-731d-4526-96ea-e6531787a053.jpg",
+      "publicId": "alma-latina/catalog/5b4c91d083539507cb68c3ce459edf606afb8af46c50ad534e6f447381102631",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863475/alma-latina/catalog/5b4c91d083539507cb68c3ce459edf606afb8af46c50ad534e6f447381102631.jpg",
+      "bytes": 169627,
+      "verifiedAt": "2026-10-24T17:37:56.216Z"
+    },
+    "90539c76a19899a2b00858b62718c6abddacc0ead5446bbfe9275c3d1811bbff": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/2c338037-39dc-4419-bd25-23c44d9e99c8.jpg",
+      "publicId": "alma-latina/catalog/90539c76a19899a2b00858b62718c6abddacc0ead5446bbfe9275c3d1811bbff",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863476/alma-latina/catalog/90539c76a19899a2b00858b62718c6abddacc0ead5446bbfe9275c3d1811bbff.jpg",
+      "bytes": 164050,
+      "verifiedAt": "2026-10-24T17:37:57.239Z"
+    },
+    "7944ff45e0a5897289e65872f4224a8e5ac1e818ea323ac8dd999c1749a3c955": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/d7ca08ea-8736-4b4a-a2a2-e7f3a3779f4c.jpeg",
+      "publicId": "alma-latina/catalog/7944ff45e0a5897289e65872f4224a8e5ac1e818ea323ac8dd999c1749a3c955",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863477/alma-latina/catalog/7944ff45e0a5897289e65872f4224a8e5ac1e818ea323ac8dd999c1749a3c955.jpg",
+      "bytes": 101839,
+      "verifiedAt": "2026-10-24T17:37:58.119Z"
+    },
+    "07736675418328ba4c564e5af0a7987f488058fd71f9ac4b29437ae4a2a9b7cd": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/fcf376f8-02bf-4861-9632-166e2ce16fbf.jpeg",
+      "publicId": "alma-latina/catalog/07736675418328ba4c564e5af0a7987f488058fd71f9ac4b29437ae4a2a9b7cd",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863478/alma-latina/catalog/07736675418328ba4c564e5af0a7987f488058fd71f9ac4b29437ae4a2a9b7cd.jpg",
+      "bytes": 165905,
+      "verifiedAt": "2026-10-24T17:37:58.955Z"
+    },
+    "ac242b25648dc9d05d1ae86be9cd06f981dd3b5e6a8ef21df849753c10b4782c": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/7eaec64e-792a-4aae-8795-8e44a3bb9cfb.jpeg",
+      "publicId": "alma-latina/catalog/ac242b25648dc9d05d1ae86be9cd06f981dd3b5e6a8ef21df849753c10b4782c",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863479/alma-latina/catalog/ac242b25648dc9d05d1ae86be9cd06f981dd3b5e6a8ef21df849753c10b4782c.jpg",
+      "bytes": 186247,
+      "verifiedAt": "2026-10-24T17:37:59.919Z"
+    },
+    "89e6df54e1b6f3f3d3618618fcda29f9c1def83c1762f5a5b2fe8d9c5f419be2": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/f600c02d-084b-47b7-8882-f9ae47edaec7.jpeg",
+      "publicId": "alma-latina/catalog/89e6df54e1b6f3f3d3618618fcda29f9c1def83c1762f5a5b2fe8d9c5f419be2",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863480/alma-latina/catalog/89e6df54e1b6f3f3d3618618fcda29f9c1def83c1762f5a5b2fe8d9c5f419be2.jpg",
+      "bytes": 113780,
+      "verifiedAt": "2026-10-24T17:38:01.036Z"
+    },
+    "04ffa701bcd090e78ef5de1c55d4901895c6e326e46b9a1f68893994c475ce70": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/5445b4ef-e1b5-4edd-947c-c9fbe6e92ac2.jpeg",
+      "publicId": "alma-latina/catalog/04ffa701bcd090e78ef5de1c55d4901895c6e326e46b9a1f68893994c475ce70",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863481/alma-latina/catalog/04ffa701bcd090e78ef5de1c55d4901895c6e326e46b9a1f68893994c475ce70.jpg",
+      "bytes": 121399,
+      "verifiedAt": "2026-10-24T17:38:01.991Z"
+    },
+    "fd99b9cee0bd5357e50f4a46262185dfefe4760abc1784314bc4f9a4765afa4b": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/e3ad36c0-ff57-451f-9467-362c778399dc.jpeg",
+      "publicId": "alma-latina/catalog/fd99b9cee0bd5357e50f4a46262185dfefe4760abc1784314bc4f9a4765afa4b",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863482/alma-latina/catalog/fd99b9cee0bd5357e50f4a46262185dfefe4760abc1784314bc4f9a4765afa4b.jpg",
+      "bytes": 191257,
+      "verifiedAt": "2026-10-24T17:38:02.888Z"
+    },
+    "5d5a9dc725a07c6c1805a253685cbf1ba855e191e704c3f5577f148f69adb52e": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/348be52a-63d8-4d81-8cfd-e3ca20c73c43.jpeg",
+      "publicId": "alma-latina/catalog/5d5a9dc725a07c6c1805a253685cbf1ba855e191e704c3f5577f148f69adb52e",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863483/alma-latina/catalog/5d5a9dc725a07c6c1805a253685cbf1ba855e191e704c3f5577f148f69adb52e.jpg",
+      "bytes": 200554,
+      "verifiedAt": "2026-10-24T17:38:03.831Z"
+    },
+    "c164571ed15eab184f294f56e030aaf74656f62fd0a552e2574decffc8312e36": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/9590a18c-c8c7-40d6-9533-bcc1970bcc1c.jpeg",
+      "publicId": "alma-latina/catalog/c164571ed15eab184f294f56e030aaf74656f62fd0a552e2574decffc8312e36",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863484/alma-latina/catalog/c164571ed15eab184f294f56e030aaf74656f62fd0a552e2574decffc8312e36.jpg",
+      "bytes": 196089,
+      "verifiedAt": "2026-10-24T17:38:04.838Z"
+    },
+    "c361d538c02afd5a76683eb12bb3b39c1f9a83f0b287b97aa0261da25d7918ee": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/83226d19-3605-46c1-8c0f-6e559651397a.jpeg",
+      "publicId": "alma-latina/catalog/c361d538c02afd5a76683eb12bb3b39c1f9a83f0b287b97aa0261da25d7918ee",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863485/alma-latina/catalog/c361d538c02afd5a76683eb12bb3b39c1f9a83f0b287b97aa0261da25d7918ee.jpg",
+      "bytes": 150019,
+      "verifiedAt": "2026-10-24T17:38:06.005Z"
+    },
+    "c0b70246d65e549dad976c44eabad6467904212be78910c4b597aa986a88406d": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/54d8311c-5202-4a76-9d22-f0d2b67ff7bf.jpeg",
+      "publicId": "alma-latina/catalog/c0b70246d65e549dad976c44eabad6467904212be78910c4b597aa986a88406d",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863486/alma-latina/catalog/c0b70246d65e549dad976c44eabad6467904212be78910c4b597aa986a88406d.jpg",
+      "bytes": 109883,
+      "verifiedAt": "2026-10-24T17:38:06.861Z"
+    },
+    "cf6e2ef35297b324fea11fb6cd8fe15d25f82162ed94ba7079bbc7444619c8d4": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/0513d637-7885-4a79-8a77-86a59d67310f.jpeg",
+      "publicId": "alma-latina/catalog/cf6e2ef35297b324fea11fb6cd8fe15d25f82162ed94ba7079bbc7444619c8d4",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863487/alma-latina/catalog/cf6e2ef35297b324fea11fb6cd8fe15d25f82162ed94ba7079bbc7444619c8d4.jpg",
+      "bytes": 149366,
+      "verifiedAt": "2026-10-24T17:38:07.930Z"
+    },
+    "07202555c804bc51e04cff4473d26cc314726c2570fe51145bb4950d153cd77e": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/3f4f3531-1c8f-4371-962b-66836a55aa22.jpeg",
+      "publicId": "alma-latina/catalog/07202555c804bc51e04cff4473d26cc314726c2570fe51145bb4950d153cd77e",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863488/alma-latina/catalog/07202555c804bc51e04cff4473d26cc314726c2570fe51145bb4950d153cd77e.jpg",
+      "bytes": 99987,
+      "verifiedAt": "2026-10-24T17:38:09.465Z"
+    },
+    "f91cc0999c1ee8c740bb3a1d46c5863ea936dc7dfffe9bb40de7de6a6f7e984a": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/4201bc8d-3773-4c99-a651-2b12572f293b.jpeg",
+      "publicId": "alma-latina/catalog/f91cc0999c1ee8c740bb3a1d46c5863ea936dc7dfffe9bb40de7de6a6f7e984a",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863489/alma-latina/catalog/f91cc0999c1ee8c740bb3a1d46c5863ea936dc7dfffe9bb40de7de6a6f7e984a.jpg",
+      "bytes": 117026,
+      "verifiedAt": "2026-10-24T17:38:10.413Z"
+    },
+    "1c86be2f895eb0ab9c9b9f243d2de388aa02636ceac5d06734cc3cd8e1e914f8": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/7d543077-35d5-4a96-addc-f9ae874cd151.jpeg",
+      "publicId": "alma-latina/catalog/1c86be2f895eb0ab9c9b9f243d2de388aa02636ceac5d06734cc3cd8e1e914f8",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863490/alma-latina/catalog/1c86be2f895eb0ab9c9b9f243d2de388aa02636ceac5d06734cc3cd8e1e914f8.jpg",
+      "bytes": 158353,
+      "verifiedAt": "2026-10-24T17:38:11.259Z"
+    },
+    "467a64f0cf89cce9cb1be03a8b6ad2720585832acfd5fe23a01858d3c6be4295": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/cfc1fb66-34fd-46b9-8a94-b42595023945.jpeg",
+      "publicId": "alma-latina/catalog/467a64f0cf89cce9cb1be03a8b6ad2720585832acfd5fe23a01858d3c6be4295",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863491/alma-latina/catalog/467a64f0cf89cce9cb1be03a8b6ad2720585832acfd5fe23a01858d3c6be4295.jpg",
+      "bytes": 163478,
+      "verifiedAt": "2026-10-24T17:38:12.266Z"
+    },
+    "653c48441dc060a20ab731a8ea81295cf2e398e9cc960b51c3ff4aeb608122be": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/7881264e-bef2-42d7-b1ba-27dbde1a70a3.jpeg",
+      "publicId": "alma-latina/catalog/653c48441dc060a20ab731a8ea81295cf2e398e9cc960b51c3ff4aeb608122be",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863492/alma-latina/catalog/653c48441dc060a20ab731a8ea81295cf2e398e9cc960b51c3ff4aeb608122be.jpg",
+      "bytes": 134871,
+      "verifiedAt": "2026-10-24T17:38:13.101Z"
+    },
+    "73a4e3dfdcd2248eae6bcf928a2997ad15187d3b2631ada52555f196817353f7": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/97e4796a-e684-4180-a353-69acb7c4b74b.jpeg",
+      "publicId": "alma-latina/catalog/73a4e3dfdcd2248eae6bcf928a2997ad15187d3b2631ada52555f196817353f7",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863493/alma-latina/catalog/73a4e3dfdcd2248eae6bcf928a2997ad15187d3b2631ada52555f196817353f7.jpg",
+      "bytes": 149623,
+      "verifiedAt": "2026-10-24T17:38:14.209Z"
+    },
+    "1de1e6342b7711bf0f839e18d8c9e485cba269536e0b0d835741ca77e42584d7": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/1af1a29d-f732-4b9d-9906-b541528a2a76.jpeg",
+      "publicId": "alma-latina/catalog/1de1e6342b7711bf0f839e18d8c9e485cba269536e0b0d835741ca77e42584d7",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863494/alma-latina/catalog/1de1e6342b7711bf0f839e18d8c9e485cba269536e0b0d835741ca77e42584d7.jpg",
+      "bytes": 152530,
+      "verifiedAt": "2026-10-24T17:38:15.088Z"
+    },
+    "45efc57dbc1ec83b5f851a97910600b99ead5bbfbed9e00cda2e04851dd24c4f": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/bfa0db15-2560-46f2-9d18-f48499e8899b.jpeg",
+      "publicId": "alma-latina/catalog/45efc57dbc1ec83b5f851a97910600b99ead5bbfbed9e00cda2e04851dd24c4f",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863495/alma-latina/catalog/45efc57dbc1ec83b5f851a97910600b99ead5bbfbed9e00cda2e04851dd24c4f.jpg",
+      "bytes": 125491,
+      "verifiedAt": "2026-10-24T17:38:15.990Z"
+    },
+    "52e029722caed8e93878bf764108222bcb819e2aadd6e58929d6362754bd282e": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/7d1796a9-c92b-4b6c-89c3-06adcc72e493.jpeg",
+      "publicId": "alma-latina/catalog/52e029722caed8e93878bf764108222bcb819e2aadd6e58929d6362754bd282e",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863496/alma-latina/catalog/52e029722caed8e93878bf764108222bcb819e2aadd6e58929d6362754bd282e.jpg",
+      "bytes": 149623,
+      "verifiedAt": "2026-10-24T17:38:16.828Z"
+    },
+    "2d9c7fbd965299aea92cf3e74264987ffb1ea112763c728c2e5a8ff75cb4c14c": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/6cc7a835-8979-4d21-9127-86f1987de24b.jpeg",
+      "publicId": "alma-latina/catalog/2d9c7fbd965299aea92cf3e74264987ffb1ea112763c728c2e5a8ff75cb4c14c",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863497/alma-latina/catalog/2d9c7fbd965299aea92cf3e74264987ffb1ea112763c728c2e5a8ff75cb4c14c.jpg",
+      "bytes": 247293,
+      "verifiedAt": "2026-10-24T17:38:17.792Z"
+    },
+    "b8760b99ec760c9f12af2bb31a765777b34dba8382e635bf3e3177c9487e4331": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/1f775109-8c84-4e6c-81fc-508e3ac12b70.jpeg",
+      "publicId": "alma-latina/catalog/b8760b99ec760c9f12af2bb31a765777b34dba8382e635bf3e3177c9487e4331",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863498/alma-latina/catalog/b8760b99ec760c9f12af2bb31a765777b34dba8382e635bf3e3177c9487e4331.jpg",
+      "bytes": 194881,
+      "verifiedAt": "2026-10-24T17:38:19.038Z"
+    },
+    "a5319a0a52de9d92be51b2818966bcf5f5aff2020d11908926dccad09e476213": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/60a54f82-fb61-4153-9d26-acd82bf4065a.jpeg",
+      "publicId": "alma-latina/catalog/a5319a0a52de9d92be51b2818966bcf5f5aff2020d11908926dccad09e476213",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863499/alma-latina/catalog/a5319a0a52de9d92be51b2818966bcf5f5aff2020d11908926dccad09e476213.jpg",
+      "bytes": 154581,
+      "verifiedAt": "2026-10-24T17:38:19.971Z"
+    },
+    "2a0be6d42303fb711bf92e826b233125b9125fc8c49313623e199db15cd63781": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/31b84742-c5e4-484b-87fa-36e40dd399b2.jpeg",
+      "publicId": "alma-latina/catalog/2a0be6d42303fb711bf92e826b233125b9125fc8c49313623e199db15cd63781",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863500/alma-latina/catalog/2a0be6d42303fb711bf92e826b233125b9125fc8c49313623e199db15cd63781.jpg",
+      "bytes": 124701,
+      "verifiedAt": "2026-10-24T17:38:20.883Z"
+    },
+    "b9b0834aaa5a172175e279716735854fdc2e8b35538464442c1eae15260128cc": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/facb9d49-3d2a-4180-82ec-e2039f051539.jpeg",
+      "publicId": "alma-latina/catalog/b9b0834aaa5a172175e279716735854fdc2e8b35538464442c1eae15260128cc",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863501/alma-latina/catalog/b9b0834aaa5a172175e279716735854fdc2e8b35538464442c1eae15260128cc.jpg",
+      "bytes": 114941,
+      "verifiedAt": "2026-10-24T17:38:21.908Z"
+    },
+    "fc49813c5a8537ed790c328c6bc262bfea8fec4ea2db4d50230412b8bf755bff": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/1b703b13-ab29-4ed8-9a5e-505c5530bc02.jpeg",
+      "publicId": "alma-latina/catalog/fc49813c5a8537ed790c328c6bc262bfea8fec4ea2db4d50230412b8bf755bff",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863502/alma-latina/catalog/fc49813c5a8537ed790c328c6bc262bfea8fec4ea2db4d50230412b8bf755bff.jpg",
+      "bytes": 135319,
+      "verifiedAt": "2026-10-24T17:38:22.810Z"
+    },
+    "6e46ddc6608255803bdea525e693278d6dcd0ef0a82e34e688b5f97a56d273ac": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/fa56caed-c8f4-43ff-8370-f17d2f0d90be.jpeg",
+      "publicId": "alma-latina/catalog/6e46ddc6608255803bdea525e693278d6dcd0ef0a82e34e688b5f97a56d273ac",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863503/alma-latina/catalog/6e46ddc6608255803bdea525e693278d6dcd0ef0a82e34e688b5f97a56d273ac.jpg",
+      "bytes": 175455,
+      "verifiedAt": "2026-10-24T17:38:23.830Z"
+    },
+    "9ee8d844f19773fa826700db6a312a1a040dd9772577c3e7e1a42837efd6d2b0": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/38ccf3f4-b753-4748-845d-d5dd33c2f003.jpeg",
+      "publicId": "alma-latina/catalog/9ee8d844f19773fa826700db6a312a1a040dd9772577c3e7e1a42837efd6d2b0",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863504/alma-latina/catalog/9ee8d844f19773fa826700db6a312a1a040dd9772577c3e7e1a42837efd6d2b0.jpg",
+      "bytes": 172990,
+      "verifiedAt": "2026-10-24T17:38:25.327Z"
+    },
+    "37be400f653fffac37f409696bfb4214bcb2ad2844a9c865453a5fd5f88a9615": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/feee711c-9f73-4024-856c-5253347effd8.jpeg",
+      "publicId": "alma-latina/catalog/37be400f653fffac37f409696bfb4214bcb2ad2844a9c865453a5fd5f88a9615",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863505/alma-latina/catalog/37be400f653fffac37f409696bfb4214bcb2ad2844a9c865453a5fd5f88a9615.jpg",
+      "bytes": 227485,
+      "verifiedAt": "2026-10-24T17:38:26.383Z"
+    },
+    "5b2cdb3ed2f703d7a8b4b3c5b0a69d6f5c5266d27a42c07dd34c4b1f7579377c": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/dd7fad3c-8b45-4c8f-86ad-55cded0ab097.jpeg",
+      "publicId": "alma-latina/catalog/5b2cdb3ed2f703d7a8b4b3c5b0a69d6f5c5266d27a42c07dd34c4b1f7579377c",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863507/alma-latina/catalog/5b2cdb3ed2f703d7a8b4b3c5b0a69d6f5c5266d27a42c07dd34c4b1f7579377c.jpg",
+      "bytes": 162116,
+      "verifiedAt": "2026-10-24T17:38:27.274Z"
+    },
+    "f180f78efd90aba01381dd1deb9e4cfe927f68800d92f6b6f21fc197dc8caaf7": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/79119d39-f079-46bb-bb69-2982f32fbc43.jpeg",
+      "publicId": "alma-latina/catalog/f180f78efd90aba01381dd1deb9e4cfe927f68800d92f6b6f21fc197dc8caaf7",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863507/alma-latina/catalog/f180f78efd90aba01381dd1deb9e4cfe927f68800d92f6b6f21fc197dc8caaf7.jpg",
+      "bytes": 243051,
+      "verifiedAt": "2026-10-24T17:38:28.211Z"
+    },
+    "a64471803b4550a4742d7cb348527c024bffd05f3f6373776a1850a36e6c277e": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/f889a82b-1d1d-4a9b-a3d7-df0b893cf31d.jpeg",
+      "publicId": "alma-latina/catalog/a64471803b4550a4742d7cb348527c024bffd05f3f6373776a1850a36e6c277e",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863508/alma-latina/catalog/a64471803b4550a4742d7cb348527c024bffd05f3f6373776a1850a36e6c277e.jpg",
+      "bytes": 155305,
+      "verifiedAt": "2026-10-24T17:38:29.110Z"
+    },
+    "4a32f14c911bb42f145e82adf4cfc0dfccd8a1ecbfb9ca2cea2352ec3c9d32f6": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/c46554fc-196e-4491-95c9-9861cdeb6b2e.jpeg",
+      "publicId": "alma-latina/catalog/4a32f14c911bb42f145e82adf4cfc0dfccd8a1ecbfb9ca2cea2352ec3c9d32f6",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863509/alma-latina/catalog/4a32f14c911bb42f145e82adf4cfc0dfccd8a1ecbfb9ca2cea2352ec3c9d32f6.jpg",
+      "bytes": 177184,
+      "verifiedAt": "2026-10-24T17:38:30.006Z"
+    },
+    "9ce52bf7ceeba477bd80c9fb9a72420b68f897fa4b10a8915aa9f5fe5215aec4": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/f8eba7f2-4513-49ca-b09a-37de4ff19f07.webp",
+      "publicId": "alma-latina/catalog/9ce52bf7ceeba477bd80c9fb9a72420b68f897fa4b10a8915aa9f5fe5215aec4",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863510/alma-latina/catalog/9ce52bf7ceeba477bd80c9fb9a72420b68f897fa4b10a8915aa9f5fe5215aec4.webp",
+      "bytes": 76062,
+      "verifiedAt": "2026-10-24T17:38:31.260Z"
+    },
+    "1edd8031edad0fa67a669ac39d7782074a707aa9d46aefd0eea5f3cb2b1871e4": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/0c91f633-388d-4873-a3d2-5b2844d09b78.webp",
+      "publicId": "alma-latina/catalog/1edd8031edad0fa67a669ac39d7782074a707aa9d46aefd0eea5f3cb2b1871e4",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863512/alma-latina/catalog/1edd8031edad0fa67a669ac39d7782074a707aa9d46aefd0eea5f3cb2b1871e4.webp",
+      "bytes": 59960,
+      "verifiedAt": "2026-10-24T17:38:32.489Z"
+    },
+    "041349066351c37154e4c5d888db59a88c7fb1fe58ef74218f71fafa16edc0b8": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/94c9c2f9-8fd7-4a16-bfb2-95d7538d02f5.jpg",
+      "publicId": "alma-latina/catalog/041349066351c37154e4c5d888db59a88c7fb1fe58ef74218f71fafa16edc0b8",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863513/alma-latina/catalog/041349066351c37154e4c5d888db59a88c7fb1fe58ef74218f71fafa16edc0b8.jpg",
+      "bytes": 217465,
+      "verifiedAt": "2026-10-24T17:38:33.385Z"
+    },
+    "3d36b124d440dfcf4048874f4f01c77ccf669a83b3a2a490e02abfcb222c17d8": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/695fb9c9-c5b9-4393-b846-3d43a123e56e.jpg",
+      "publicId": "alma-latina/catalog/3d36b124d440dfcf4048874f4f01c77ccf669a83b3a2a490e02abfcb222c17d8",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863513/alma-latina/catalog/3d36b124d440dfcf4048874f4f01c77ccf669a83b3a2a490e02abfcb222c17d8.jpg",
+      "bytes": 202991,
+      "verifiedAt": "2026-10-24T17:38:34.259Z"
+    },
+    "20448d034815050e82ad5a1b2ceba198fb2491d3eb32bdfc200e4b838b8cbc21": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/5cbab0a6-16cd-428e-b626-a03a60ae835d.jpg",
+      "publicId": "alma-latina/catalog/20448d034815050e82ad5a1b2ceba198fb2491d3eb32bdfc200e4b838b8cbc21",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863514/alma-latina/catalog/20448d034815050e82ad5a1b2ceba198fb2491d3eb32bdfc200e4b838b8cbc21.jpg",
+      "bytes": 202387,
+      "verifiedAt": "2026-10-24T17:38:35.214Z"
+    },
+    "3539c2d5683003a2ffbbd0f78649d4e665dd9c2b4620f2fa6b4e691389f888a3": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/f8bb5fba-0d25-42cf-b6f3-c46810ab4c33.jpg",
+      "publicId": "alma-latina/catalog/3539c2d5683003a2ffbbd0f78649d4e665dd9c2b4620f2fa6b4e691389f888a3",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863515/alma-latina/catalog/3539c2d5683003a2ffbbd0f78649d4e665dd9c2b4620f2fa6b4e691389f888a3.jpg",
+      "bytes": 158893,
+      "verifiedAt": "2026-10-24T17:38:36.389Z"
+    },
+    "a6af27a97b3e6bfda46d3ace6a1022f723fdd48e9558d1a1f8f4fd4ae8499e55": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/4f30cdd4-6aeb-40d8-b58b-ab368d709a0b.jpg",
+      "publicId": "alma-latina/catalog/a6af27a97b3e6bfda46d3ace6a1022f723fdd48e9558d1a1f8f4fd4ae8499e55",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863517/alma-latina/catalog/a6af27a97b3e6bfda46d3ace6a1022f723fdd48e9558d1a1f8f4fd4ae8499e55.jpg",
+      "bytes": 267105,
+      "verifiedAt": "2026-10-24T17:38:37.351Z"
+    },
+    "f405a874736532cac899c391da1c9aa9fd9c6468fbfbcc03a7fbe5f8a4007dbf": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/6107f2d7-292b-4549-b370-359771e85cf1.jpg",
+      "publicId": "alma-latina/catalog/f405a874736532cac899c391da1c9aa9fd9c6468fbfbcc03a7fbe5f8a4007dbf",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863517/alma-latina/catalog/f405a874736532cac899c391da1c9aa9fd9c6468fbfbcc03a7fbe5f8a4007dbf.jpg",
+      "bytes": 274014,
+      "verifiedAt": "2026-10-24T17:38:38.439Z"
+    },
+    "313387c00431333c9bf0eeff306b613f133693b1ea182eaccb04bf3e2b947afc": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/8ef9a216-bea7-4b89-8959-dace84e2d25a.jpg",
+      "publicId": "alma-latina/catalog/313387c00431333c9bf0eeff306b613f133693b1ea182eaccb04bf3e2b947afc",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863519/alma-latina/catalog/313387c00431333c9bf0eeff306b613f133693b1ea182eaccb04bf3e2b947afc.jpg",
+      "bytes": 154433,
+      "verifiedAt": "2026-10-24T17:38:39.373Z"
+    },
+    "df22e866761dc865a724046fa8824f39a0d310cdaf00974d6bd13446550ae438": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/a2e0f72d-4e27-4b1f-9fea-97384225d18b.jpg",
+      "publicId": "alma-latina/catalog/df22e866761dc865a724046fa8824f39a0d310cdaf00974d6bd13446550ae438",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863519/alma-latina/catalog/df22e866761dc865a724046fa8824f39a0d310cdaf00974d6bd13446550ae438.jpg",
+      "bytes": 126648,
+      "verifiedAt": "2026-10-24T17:38:40.440Z"
+    },
+    "52439e9f2d6510cbb132aadc60112f7471434bc6d82f299e8722a40e1f7f2c09": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/f55a8704-5d0c-4b30-8666-508316ccae00.jpg",
+      "publicId": "alma-latina/catalog/52439e9f2d6510cbb132aadc60112f7471434bc6d82f299e8722a40e1f7f2c09",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863521/alma-latina/catalog/52439e9f2d6510cbb132aadc60112f7471434bc6d82f299e8722a40e1f7f2c09.jpg",
+      "bytes": 144026,
+      "verifiedAt": "2026-10-24T17:38:41.633Z"
+    },
+    "5e8cab1170ffa41084081c6c410c32b11d59d60735f53806a8bf903e0a72bd41": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/a6916c34-0ffc-46d0-8872-23c5515a92c7.jpg",
+      "publicId": "alma-latina/catalog/5e8cab1170ffa41084081c6c410c32b11d59d60735f53806a8bf903e0a72bd41",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863522/alma-latina/catalog/5e8cab1170ffa41084081c6c410c32b11d59d60735f53806a8bf903e0a72bd41.jpg",
+      "bytes": 140618,
+      "verifiedAt": "2026-10-24T17:38:42.669Z"
+    },
+    "c3771b002751bde7cc45c7b03deb82c8a8564b4f0e66529a42dba51a5a7e501c": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/e3b94ff4-aa43-427c-b867-2ee0fcee1e87.jpg",
+      "publicId": "alma-latina/catalog/c3771b002751bde7cc45c7b03deb82c8a8564b4f0e66529a42dba51a5a7e501c",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863523/alma-latina/catalog/c3771b002751bde7cc45c7b03deb82c8a8564b4f0e66529a42dba51a5a7e501c.jpg",
+      "bytes": 138224,
+      "verifiedAt": "2026-10-24T17:38:43.570Z"
+    },
+    "c256f59e545b527b6fa6c840a7700d74caa846a8175ba44a7af252aa47c1cc2e": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/d5321522-1bd8-4238-bfb9-3dc284f1a8f8.jpg",
+      "publicId": "alma-latina/catalog/c256f59e545b527b6fa6c840a7700d74caa846a8175ba44a7af252aa47c1cc2e",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863524/alma-latina/catalog/c256f59e545b527b6fa6c840a7700d74caa846a8175ba44a7af252aa47c1cc2e.jpg",
+      "bytes": 181751,
+      "verifiedAt": "2026-10-24T17:38:44.545Z"
+    },
+    "965536ed61b578784961972e65693cbbbf728d3effc1ed50f67b33921c67db23": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/c6680a3d-1d32-436c-87f9-bb8b75acd0dc.jpg",
+      "publicId": "alma-latina/catalog/965536ed61b578784961972e65693cbbbf728d3effc1ed50f67b33921c67db23",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863525/alma-latina/catalog/965536ed61b578784961972e65693cbbbf728d3effc1ed50f67b33921c67db23.jpg",
+      "bytes": 130716,
+      "verifiedAt": "2026-10-24T17:38:45.385Z"
+    },
+    "1828971331569871c5b4fb8e08bf810a504856babec4c3bc71516386414bfabe": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/e145e385-d3ec-4bbe-972f-e60b5f0a814c.jpg",
+      "publicId": "alma-latina/catalog/1828971331569871c5b4fb8e08bf810a504856babec4c3bc71516386414bfabe",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863526/alma-latina/catalog/1828971331569871c5b4fb8e08bf810a504856babec4c3bc71516386414bfabe.jpg",
+      "bytes": 176950,
+      "verifiedAt": "2026-10-24T17:38:46.535Z"
+    },
+    "83fdac4fdf0fea06df54f000c2178ada9a5bd3b2e413080f1409b0816d1bb328": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/7fde369c-684d-4f72-80ca-88839ad328d6.jpg",
+      "publicId": "alma-latina/catalog/83fdac4fdf0fea06df54f000c2178ada9a5bd3b2e413080f1409b0816d1bb328",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863527/alma-latina/catalog/83fdac4fdf0fea06df54f000c2178ada9a5bd3b2e413080f1409b0816d1bb328.jpg",
+      "bytes": 164605,
+      "verifiedAt": "2026-10-24T17:38:47.536Z"
+    },
+    "c2162f44700da53179cdc909dc2eab643b3ad2d5c1ff71afa71653ae4c2a30ea": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/8f045320-92b0-4453-ab01-e6209829d151.jpg",
+      "publicId": "alma-latina/catalog/c2162f44700da53179cdc909dc2eab643b3ad2d5c1ff71afa71653ae4c2a30ea",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863528/alma-latina/catalog/c2162f44700da53179cdc909dc2eab643b3ad2d5c1ff71afa71653ae4c2a30ea.jpg",
+      "bytes": 307527,
+      "verifiedAt": "2026-10-24T17:38:48.585Z"
+    },
+    "47dc55e3150cfb3f1bd04384d24fcbf5ce4dcd2581b636d1dec5bd5f8642a031": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/2950be58-8ce8-4397-bf4d-4fa6fdc18ecf.jpg",
+      "publicId": "alma-latina/catalog/47dc55e3150cfb3f1bd04384d24fcbf5ce4dcd2581b636d1dec5bd5f8642a031",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863529/alma-latina/catalog/47dc55e3150cfb3f1bd04384d24fcbf5ce4dcd2581b636d1dec5bd5f8642a031.jpg",
+      "bytes": 162293,
+      "verifiedAt": "2026-10-24T17:38:49.586Z"
+    },
+    "35d90cf3b148e8ad3bb027cff0718c750c44715a522bc893f0eee3f95aafc7bf": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/38447bd8-daa2-4daa-be05-1de427ab2045.jpg",
+      "publicId": "alma-latina/catalog/35d90cf3b148e8ad3bb027cff0718c750c44715a522bc893f0eee3f95aafc7bf",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863530/alma-latina/catalog/35d90cf3b148e8ad3bb027cff0718c750c44715a522bc893f0eee3f95aafc7bf.jpg",
+      "bytes": 173609,
+      "verifiedAt": "2026-10-24T17:38:50.630Z"
+    },
+    "fd36d01e29fb6ba614812f9b94c3588663ef14456313b0c494aa16f7cb81d55b": {
+      "source": "https://d1b50uin55dq3m.cloudfront.net/fit-in/1000x1200/c5055e48-f6a4-4bf0-a680-f637a3090b39.jpg",
+      "publicId": "alma-latina/catalog/fd36d01e29fb6ba614812f9b94c3588663ef14456313b0c494aa16f7cb81d55b",
+      "url": "https://res.cloudinary.com/sxq0vfq6/image/upload/v1792863531/alma-latina/catalog/fd36d01e29fb6ba614812f9b94c3588663ef14456313b0c494aa16f7cb81d55b.jpg",
+      "bytes": 161207,
+      "verifiedAt": "2026-10-24T17:38:51.603Z"
     }
   }
 }
