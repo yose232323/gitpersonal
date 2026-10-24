@@ -53,3 +53,11 @@ git push origin alma-latina-preview
 ## Actualizar desde Windows sin instalar Python
 
 Desde la carpeta del proyecto, `node scripts/update-catalog.mjs` obtiene todas las categorías, páginas y fichas del catálogo. Conserva el catálogo anterior si la descarga o validación falla, y mantiene una copia local ignorada en `data/catalog-before-update.local.json` antes de reemplazarlo. Consulta `data/catalog-update-report.json` para revisar nuevos, modificados y retirados. Los productos retirados dejan de estar en la nueva instantánea del proveedor; la copia local permite recuperarlos antes de publicar. No borra fotos de Cloudinary. No utiliza credenciales para leer datos públicos ni publica automáticamente. Tras revisar el informe, copia fotos nuevas con el importador de Cloudinary, ejecuta `--apply`, verifica build/typecheck y sube únicamente los archivos previstos.
+
+## Meta Pixel
+
+Pixel público: `1802830344259046`, configurado en `lib/meta-pixel.ts`. No requiere tokens ni variables de entorno. La integración no carga `fbevents.js` ni envía eventos antes de aceptar la medición publicitaria. Se puede rechazar y cambiar la decisión desde “Preferencias de cookies”; se guarda en localStorage. La página `/privacidad` explica los datos y eventos. No se incluye una imagen noscript que eluda el consentimiento.
+
+Eventos: `PageView` al aceptar o visitar con aceptación guardada; `ViewContent` al abrir una ficha (id, nombre, precio y CRC); `Contact` al pulsar un enlace wa.me (solo método de contacto). No se envían el mensaje de WhatsApp ni las selecciones de talla/color. No se registra `Purchase`: un clic no confirma una venta. Revocar detiene futuros eventos de la integración, pero no elimina datos ya enviados.
+
+Validación local de consentimiento: `node --experimental-strip-types --test tests/meta-pixel.test.mjs`. Para validar en Meta, abre Administrador de eventos → conjunto de datos del píxel → Probar eventos, abre el despliegue, acepta la medición y prueba visita, ficha y WhatsApp. Los bloqueadores y restricciones del navegador pueden impedir su recepción. Las pruebas automatizadas usan solicitudes simuladas para no contaminar las estadísticas reales. La recepción real debe comprobarse tras desplegar y publicar la versión correcta en Vercel.
